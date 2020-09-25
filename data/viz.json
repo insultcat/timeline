@@ -1,0 +1,93 @@
+{
+  "scale-free": {
+    "start": "1999",
+    "end":"2020",
+    "img":"sf.png",
+    "papers":[
+      "Emergence of scaling in random networks","Diameter of the world wide web","Scale-Free Networks","Mean-field theory for scale-free random networks","Scale-free characteristics of random networks: the topology of the world-wide web","Halting viruses in scale-free networks","Deterministic scale-free networks","Percolation in directed scale-free networks","Minimum spanning trees of weighted scale-free networks","Scale-free networks in biology","Scale-free networks","Targeted local immunization in scale-free peer-to-peer networks."],
+    "type":"subject"
+  },
+  "protein":{
+    "start": "2001",
+    "end":"2020",
+    "img":"flux.jpg",
+    "papers":[
+      "Lethality and centrality in protein networks", "High-quality binary protein interaction map of the yeast interactome network","A protein\u2013protein interaction network for human inherited ataxias and disorders of Purkinje cell degeneration","Functional and topological characterization of protein interaction networks","Evolutionary conservation of motif constituents in the yeast protein interaction network","Interpreting cancer genomes using systematic host network perturbations by tumour virus proteins","Bioinformatics analysis of experimentally determined protein complexes in the yeast Saccharomyces cerevisiae","Transcription factor modularity in a gene-centered C. elegans core neuronal protein\u2013DNA interaction network","Prediction of protein essentiality based on genomic data","A DIseAse MOdule Detection (DIAMOnD) algorithm derived from a systematic analysis of connectivity patterns of disease proteins in the human interactome","Stable evolutionary signal in a yeast protein interaction network","Controllability analysis of the directed human protein interaction network identifies disease genes and drug targets","An inter\u2010species protein\u2013protein interaction network across vast evolutionary distance","Evolutionary core of a protein interaction network in Plasmodium falciparum","Network biology: from the metabolism to protein interactions"],
+    "type":"subject"
+  },
+  "linked":{
+    "start": "2002",
+    "end":"2002",
+    "img":"linked-cover.jpg",
+    "papers":[],
+    "type":"book"
+  },
+  "disease":{
+    "start": "2003",
+    "end":"2020",
+    "img":"disease.png",
+    "papers":[
+      "The human disease network","Interactome networks and human disease","Human disease classification in the postgenomic era: a complex systems approach to human pathobiology","The implications of human metabolic network topology for disease comorbidity","Uncovering disease-disease relationships through the incomplete interactome","Human symptoms\u2013disease network","The impact of cellular networks on disease comorbidity","Time to CARE: a collaborative engine for practical disease prediction","Modules, networks and systems medicine for understanding disease and aiding diagnosis","Viral perturbations of host networks reflect disease etiology","A DIseAse MOdule Detection (DIAMOnD) algorithm derived from a systematic analysis of connectivity patterns of disease proteins in the human interactome","Predicting individual disease risk based on medical history","A disease module in the interactome explains disease heterogeneity, drug response and captures novel pathways and genes in asthma","Controllability analysis of the directed human protein interaction network identifies disease genes and drug targets","The large-scale organization of metabolic networks","Hierarchical organization of modularity in metabolic networks","Global organization of metabolic fluxes in the bacterium Escherichia coli","The implications of human metabolic network topology for disease comorbidity","Intracellular crowding defines the mode and sequence of substrate uptake by Escherichia coli and constrains its metabolic activity","The activity reaction core and plasticity of metabolic networks","Predicting synthetic rescues in metabolic networks","Comparative genome-scale metabolic reconstruction and flux balance analysis of multiple Staphylococcus aureus genomes identify novel antimicrobial drug targets","Blueprint for antimicrobial hit discovery targeting metabolic networks","Impact of limited solvent capacity on metabolic rate, enzyme activities, and metabolite concentrations of S. cerevisiae glycolysis","Control of fluxes in metabolic networks","Control principles of metabolic networks"
+    ],
+    "type":"subject"
+  },
+  "brain":{
+    "start": "2007",
+    "end":"2020",
+    "img":"brain.png",
+    "papers":[
+      "Genome-scale analysis of in vivo spatiotemporal promoter activity in Caenorhabditis elegans","Transcription factor modularity in a gene-centered C. elegans core neuronal protein\u2013DNA interaction network","Network control principles predict neuron function in the Caenorhabditis elegans connectome","Recordings of Caenorhabditis elegans locomotor behaviour following targeted ablation of single motorneurons","Canonical genetic signatures of the adult human brain"
+    ],
+    "type":"subject"
+  },
+  "Burts":{
+    "start": "2010",
+    "end":"2010",
+    "img":"bursts_cover.jpg",
+    "papers":[],
+    "type":"book"
+  },
+  "control":{
+    "start": "2011",
+    "end":"2020",
+    "img":"control.png",
+    "papers":[
+      "Control capacity and a random sampling method in exploring controllability of complex networks"],
+    "type":"subject"
+  },
+  "controllability":{
+    "start": "2011",
+    "end":"2011",
+    "img":"controllability.jpg",
+    "papers":[],
+    "type":"viz"
+  },
+  "flavor":{
+    "start":"2011",
+    "end":"2020",
+    "img":"flavor.jpg",
+    "papers":[],
+    "type":"viz"
+  },
+  "success":{
+    "start":"2018",
+    "end":"2020",
+    "img":"success.png",
+    "papers":[],
+    "type":"viz"
+  },
+  "3d":{
+    "start":"2018",
+    "end":"2020",
+    "img":"3dprint.png",
+    "papers":[],
+    "type":"viz"
+  },
+  "nat150":{
+    "start":"2019",
+    "end":"2020",
+    "img":"nat150.png",
+    "papers":[],
+    "type":"viz"
+  }
+}

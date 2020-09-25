@@ -1,0 +1,3593 @@
+[{
+  "year": 1990,
+  "sortdate": "1990-06-01",
+  "title": "Tracing a diffusion-limited aggregate: Self-affine versus self-similar scaling.",
+  "ctotal": 3.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek",
+  "doi": "10.1103/PhysRevA.41.6881"
+}, {
+  "year": 1991,
+  "sortdate": "1991-08-01",
+  "title": "Multifractality of self-affine fractals",
+  "ctotal": 212.0,
+  "c10": 23.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek",
+  "doi": "10.1103/PhysRevA.44.2730"
+}, {
+  "year": 1991,
+  "sortdate": "1991-10-01",
+  "title": "Multifractal spectra of multi-affine functions",
+  "ctotal": 59.0,
+  "c10": 9.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and P Szepfalusy",
+  "doi": "10.1016/0378-4371(91)90072-K"
+}, {
+  "year": 1992,
+  "sortdate": "1992-09-01",
+  "title": "Dynamic scaling of coupled nonequilibrium interfaces.",
+  "ctotal": 4.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1103/PhysRevA.46.R2977"
+}, {
+  "year": 1992,
+  "sortdate": "1992-06-01",
+  "title": "Anomalous interface roughening in porous media: Experiment and model.",
+  "ctotal": 104.0,
+  "c10": 36.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Sergey V Buldyrev and Shlomo Havlin and H Eugene Stanley and F Caserta",
+  "doi": "10.1103/PhysRevA.45.R8313"
+}, {
+  "year": 1992,
+  "sortdate": "1992-05-01",
+  "title": "Multifractality of growing surfaces.",
+  "ctotal": 25.0,
+  "c10": 7.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and J Kert\u00e9sz and Mogens Jensen and Ying-Yi Zhang and Roch Bourbonnais",
+  "doi": "10.1103/PhysRevA.45.R6951"
+}, {
+  "year": 1992,
+  "sortdate": "1992-06-22",
+  "title": "Three-dimensional Toom model: Connection to the anisotropic Kardar-Parisi-Zhang equation.",
+  "ctotal": 6.0,
+  "c10": 4.0,
+  "authors": "Albertlaszlo Barabasi and H Eugene Stanley and Mariela Araujo",
+  "doi": "10.1103/PhysRevLett.68.3729"
+}, {
+  "year": 1992,
+  "sortdate": "1992-12-01",
+  "title": "Anomalous interface roughening in 3D porous media: experiment and model",
+  "ctotal": 11.0,
+  "c10": 7.0,
+  "authors": "Albertlaszlo Barabasi and Sergey V Buldyrev and Shlomo Havlin and H Eugene Stanley and J Kert\u00e9sz and H S Xenias",
+  "doi": "10.1016/0378-4371(92)90531-T"
+}, {
+  "year": 1993,
+  "sortdate": "1993-12-01",
+  "title": "SURFACTANT-MEDIATED SURFACE GROWTH: NONEQUILIBRIUM THEORY",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1142/S0218348X93000873"
+}, {
+  "year": 1993,
+  "sortdate": "1993-06-28",
+  "title": "Surfactant-mediated growth of nonequilibrium interfaces.",
+  "ctotal": 18.0,
+  "c10": 10.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1103/PhysRevLett.70.4102"
+}, {
+  "year": 1993,
+  "sortdate": "1993-12-01",
+  "title": "Anomalous interface roughening: The role of a gradient in the density of pinning sites",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Sergey V Buldyrev and Shlomo Havlin and H Eugene Stanley and Lu\u00eds A Nunes Amaral",
+  "doi": "10.1142/S0218348X93000848"
+}, {
+  "year": 1993,
+  "sortdate": "1993-01-01",
+  "title": "Anomalous Surface Roughening: Experiment and Models",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Sergey V Buldyrev and Shlomo Havlin and Chungkang Peng and H Eugene Stanley and M Schwartz",
+  "doi": "10.1007/978-1-4615-2852-4_10"
+}, {
+  "year": 1994,
+  "sortdate": "1994-04-01",
+  "title": "Avalanches and power-law behaviour in lung inflation",
+  "ctotal": 187.0,
+  "c10": 73.0,
+  "authors": "Albertlaszlo Barabasi and H Eugene Stanley and B Suki and Zolt\u00e1n Hantos and Ferenc Pet\u00e1k",
+  "doi": "10.1038/368615a0"
+}, {
+  "year": 1994,
+  "sortdate": "1994-01-01",
+  "title": "Roughening by Ion Bombardment: A Stochastic Continuum Equation",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Rodolfo Cuerno",
+  "doi": "10.1557/PROC-367-299"
+}, {
+  "year": 1994,
+  "sortdate": "1994-01-31",
+  "title": "New exponent characterizing the effect of evaporation on imbibition experiments.",
+  "ctotal": 16.0,
+  "c10": 5.0,
+  "authors": "Albertlaszlo Barabasi and Sergey V Buldyrev and Shlomo Havlin and Lu\u00eds A Nunes Amaral and H Eugene Stanley",
+  "doi": "10.1103/PhysRevLett.72.641"
+}, {
+  "year": 1994,
+  "sortdate": "1994-06-01",
+  "title": "Connectivity of diffusing particles continually deposited on a surface: relation to LECBD experiments",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Shlomo Havlin and H Eugene Stanley and Hern\u00e1n Larralde and Pablo Jensen",
+  "doi": "10.1016/0378-4371(94)90376-X"
+}, {
+  "year": 1994,
+  "sortdate": "1994-11-15",
+  "title": "DEPOSITION, DIFFUSION AND AGGREGATION OF ATOMS ON SURFACES : A MODEL FOR 0.00OSTRUCTURE GROWTH",
+  "ctotal": 90.0,
+  "c10": 47.0,
+  "authors": "Albertlaszlo Barabasi and Shlomo Havlin and H Eugene Stanley and Hern\u00e1n Larralde and Pablo Jensen",
+  "doi": "10.1103/PhysRevB.50.15316"
+}, {
+  "year": 1994,
+  "sortdate": "1994-07-01",
+  "title": "Model incorporating deposition, diffusion, and aggregation in submonolayer 0.00ostructures.",
+  "ctotal": 17.0,
+  "c10": 7.0,
+  "authors": "Albertlaszlo Barabasi and Shlomo Havlin and H Eugene Stanley and Hern\u00e1n Larralde and Pablo Jensen",
+  "doi": "10.1103/PhysRevE.50.618"
+}, {
+  "year": 1994,
+  "sortdate": "1994-07-04",
+  "title": "UNIVERSALITY CLASSES FOR INTERFACE GROWTH WITH QUENCHED DISORDER",
+  "ctotal": 28.0,
+  "c10": 19.0,
+  "authors": "Albertlaszlo Barabasi and Lu\u00eds A Nunes Amaral and H Eugene Stanley",
+  "doi": "10.1103/PhysRevLett.73.62"
+}, {
+  "year": 1994,
+  "sortdate": "1994-01-01",
+  "title": "Critical dynamics of contact line depinning",
+  "ctotal": 3.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and H Eugene Stanley and Lu\u00eds A Nunes Amaral",
+  "doi": ""
+}, {
+  "year": 1994,
+  "sortdate": "1994-06-01",
+  "title": "Lung tissue viscoelasticity: a mathematical framework and its molecular basis",
+  "ctotal": 169.0,
+  "c10": 39.0,
+  "authors": "Albertlaszlo Barabasi and KENNETH R Lutchen and B Suki",
+  "doi": "10.1152/jappl.1994.76.6.2749"
+}, {
+  "year": 1995,
+  "sortdate": "1995-11-11",
+  "title": "Dynamics of Random Networks: Connectivity and First Order Phase Transitions",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": ""
+}, {
+  "year": 1995,
+  "sortdate": "1995-10-01",
+  "title": "Scaling properties of driven interfaces in disordered media",
+  "ctotal": 30.0,
+  "c10": 13.0,
+  "authors": "Albertlaszlo Barabasi and Lu\u00eds A Nunes Amaral and H Eugene Stanley and Hern\u00e1n A Makse",
+  "doi": "10.1103/PhysRevE.52.4087"
+}, {
+  "year": 1995,
+  "sortdate": "1995-01-01",
+  "title": "Why are computer simulations of growth useful",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Shlomo Havlin and H Eugene Stanley and Hern\u00e1n Larralde and Pablo Jensen and L Bardotti",
+  "doi": "10.1557/PROC-407-391"
+}, {
+  "year": 1995,
+  "sortdate": "1995-01-01",
+  "title": "Fractal and Non-Fractal Surfaces in Ion Sputtering",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Rodolfo Cuerno",
+  "doi": "10.1557/PROC-407-259"
+}, {
+  "year": 1995,
+  "sortdate": "1995-01-01",
+  "title": "Fractal Concepts in Surface Growth",
+  "ctotal": 3068.0,
+  "c10": 1474.0,
+  "authors": "Albertlaszlo Barabasi and H Eugene Stanley",
+  "doi": ""
+}, {
+  "year": 1995,
+  "sortdate": "1995-05-01",
+  "title": "Avalanches and the directed percolation depinning model: Experiments, simulations, and theory",
+  "ctotal": 19.0,
+  "c10": 10.0,
+  "authors": "Albertlaszlo Barabasi and Sergey V Buldyrev and Shlomo Havlin and Lu\u00eds A Nunes Amaral and H Eugene Stanley and ST Harrington and R Sadr-Lahijany",
+  "doi": "10.1103/PhysRevE.51.4655"
+}, {
+  "year": 1995,
+  "sortdate": "1995-06-05",
+  "title": "Dynamic scaling of ion-sputtered surfaces.",
+  "ctotal": 262.0,
+  "c10": 91.0,
+  "authors": "Albertlaszlo Barabasi and Rodolfo Cuerno",
+  "doi": "10.1103/PhysRevLett.74.4746"
+}, {
+  "year": 1996,
+  "sortdate": "1996-07-01",
+  "title": "Ballistic random walker",
+  "ctotal": 3.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and MA Munoz and Daniel O Mart\u00ednez and Patrici Molin\u00e0s-Mata",
+  "doi": "10.1103/PhysRevE.54.968"
+}, {
+  "year": 1996,
+  "sortdate": "1996-08-01",
+  "title": "Roughening of growing surfaces: Kinetic models and continuum theories",
+  "ctotal": 8.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1016/0927-0256(96)00026-2"
+}, {
+  "year": 1996,
+  "sortdate": "1996-09-01",
+  "title": "A FRACTAL MODEL FOR THE FIRST STAGES OF THIN FILM GROWTH",
+  "ctotal": 3.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Shlomo Havlin and H Eugene Stanley and Hern\u00e1n Larralde and Pablo Jensen",
+  "doi": "10.1142/S0218348X96000431"
+}, {
+  "year": 1996,
+  "sortdate": "1996-02-26",
+  "title": "Directed surfaces in disordered media.",
+  "ctotal": 3.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and G Grinstein and MA Munoz",
+  "doi": "10.1103/PhysRevLett.76.1481"
+}, {
+  "year": 1996,
+  "sortdate": "1996-03-18",
+  "title": "Avalanches in the lung: A statistical mechanical model.",
+  "ctotal": 31.0,
+  "c10": 18.0,
+  "authors": "Albertlaszlo Barabasi and Sergey V Buldyrev and H Eugene Stanley and B Suki",
+  "doi": "10.1103/PhysRevLett.76.2192"
+}, {
+  "year": 1996,
+  "sortdate": "1996-10-10",
+  "title": "Dynamic scaling in conserved systems with coupled fields: Application to surfactant-mediated growth",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and E Kaxiras",
+  "doi": "10.1209/epl/i1996-00198-7"
+}, {
+  "year": 1996,
+  "sortdate": "1996-05-13",
+  "title": "INVASION PERCOLATION AND GLOBAL OPTIMIZATION",
+  "ctotal": 19.0,
+  "c10": 10.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1103/PhysRevLett.76.3750"
+}, {
+  "year": 1996,
+  "sortdate": "1996-09-01",
+  "title": "AVALANCHES IN THE DIRECTED PERCOLATION DEPINNING AND SELF-ORGANIZED DEPINNING MODELS OF INTERFACE ROUGHENING",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Sergey V Buldyrev and Shlomo Havlin and Lu\u00eds A Nunes Amaral and H Eugene Stanley and J Kert\u00e9sz and ST Harrington and R Sadr-Lahijany",
+  "doi": "10.1142/S0218348X9600042X"
+}, {
+  "year": 1997,
+  "sortdate": "1997-11-10",
+  "title": "Dislocation-free island formation in heteroepitaxial growth: A study at equilibrium",
+  "ctotal": 227.0,
+  "c10": 143.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Daruka",
+  "doi": "10.1103/PhysRevLett.79.3708"
+}, {
+  "year": 1997,
+  "sortdate": "1997-11-10",
+  "title": "Ion-induced effective surface diffusion in ion sputtering",
+  "ctotal": 143.0,
+  "c10": 67.0,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev",
+  "doi": "10.1063/1.120140"
+}, {
+  "year": 1997,
+  "sortdate": "1997-03-27",
+  "title": "Roughening of ion-eroded surfaces",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev and Rodolfo Cuerno and Chang-Kyu Lee",
+  "doi": ""
+}, {
+  "year": 1997,
+  "sortdate": "1997-05-12",
+  "title": "Self-assembled island formation in heteroepitaxial growth",
+  "ctotal": 179.0,
+  "c10": 144.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1063/1.118920"
+}, {
+  "year": 1997,
+  "sortdate": "1997-02-10",
+  "title": "Self-organized superlattice formation in II\u2013IV and III\u2013V semiconductors",
+  "ctotal": 18.0,
+  "c10": 15.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1063/1.118253"
+}, {
+  "year": 1997,
+  "sortdate": "1997-01-01",
+  "title": "Ion-induced surface diffusion",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Daruka and Maxim A Makeev",
+  "doi": ""
+}, {
+  "year": 1997,
+  "sortdate": "1997-01-01",
+  "title": "Physical Review E 56",
+  "ctotal": 126.0,
+  "c10": 44.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Daniel Hornbaker and Istv\u00e1n Albert and P Schi Er",
+  "doi": ""
+}, {
+  "year": 1997,
+  "sortdate": "1997-06-01",
+  "title": "What keeps sandcastles standing",
+  "ctotal": 145.0,
+  "c10": 54.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Daniel Hornbaker and Istv\u00e1n Albert and P Schiffer",
+  "doi": "10.1038/42831",
+  "cover":"sandcastle.png"
+}, {
+  "year": 1997,
+  "sortdate": "1997-01-01",
+  "title": "Self-assembled growth of II-VI quantum dots",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Daruka and Jacek K Furdyna and James L Merz and Sanghoon Lee and CS Kim and M Dobrowolska",
+  "doi": ""
+}, {
+  "year": 1997,
+  "sortdate": "1997-12-01",
+  "title": "Maximum angle of stability in wet and dry spherical granular media",
+  "ctotal": 80.0,
+  "c10": 31.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Daniel Hornbaker and Istv\u00e1n Albert and P Schiffer",
+  "doi": "10.1103/PhysRevE.56.R6271"
+}, {
+  "year": 1997,
+  "sortdate": "1997-01-01",
+  "title": "Self-assembled quantum dot formation on semiconductor surfaces",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Daruka",
+  "doi": ""
+}, {
+  "year": 1997,
+  "sortdate": "1997-01-01",
+  "title": "Effects of Controlled Wetting on the Repose Angle in Granular Media",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Daniel Hornbaker and Istv\u00e1n Albert and P Schiffer",
+  "doi": ""
+}, {
+  "year": 1998,
+  "sortdate": "1998-04-27",
+  "title": "Equilibrium phase diagrams for dislocation free self-assembled quantum dots",
+  "ctotal": 44.0,
+  "c10": 40.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Daruka",
+  "doi": "10.1063/1.121289"
+}, {
+  "year": 1998,
+  "sortdate": "1998-11-02",
+  "title": "SPATIAL ORDERING OF ISLANDS GROWN ON PATTERNED SURFACES",
+  "ctotal": 36.0,
+  "c10": 25.0,
+  "authors": "Albertlaszlo Barabasi and Chang-Kyu Lee",
+  "doi": "10.1063/1.122542"
+}, {
+  "year": 1998,
+  "sortdate": "1998-10-19",
+  "title": "Dynamics of Ripening of Self-Assembled II-VI Semiconductor Quantum Dots",
+  "ctotal": 66.0,
+  "c10": 44.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Daruka and Jacek K Furdyna and James L Merz and Sanghoon Lee and CS Kim",
+  "doi": "10.1103/PhysRevLett.81.3479"
+}, {
+  "year": 1998,
+  "sortdate": "1998-02-16",
+  "title": "Ratchet Effect in Surface Electromigration: Smoothing Surfaces by an ac Field",
+  "ctotal": 40.0,
+  "c10": 26.0,
+  "authors": "Albertlaszlo Barabasi and Imre Der\u00e9nyi and Chang-Kyu Lee",
+  "doi": "10.1103/PhysRevLett.80.1473"
+}, {
+  "year": 1998,
+  "sortdate": "1998-01-01",
+  "title": "Low temperature ripple formation: ion-induced effective surface diffusion in ion sputtering",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev",
+  "doi": "10.1557/PROC-540-249"
+}, {
+  "year": 1998,
+  "sortdate": "1998-02-23",
+  "title": "Secondary ion yield changes on rippled interfaces",
+  "ctotal": 12.0,
+  "c10": 8.0,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev",
+  "doi": "10.1063/1.120932"
+}, {
+  "year": 1998,
+  "sortdate": "1998-09-01",
+  "title": "Irregularities and power law distributions in the breathing pattern in preterm and term infants",
+  "ctotal": 80.0,
+  "c10": 26.0,
+  "authors": "Albertlaszlo Barabasi and B Suki and M Silverman and U Frey",
+  "doi": "10.1152/jappl.1998.85.3.789"
+}, {
+  "year": 1998,
+  "sortdate": "1998-10-05",
+  "title": "DRIVEN INTERFACES IN DISORDERED MEDIA : DETERMINATION OF UNIVERSALITY CLASSES FROM EXPERIMENTAL DATA",
+  "ctotal": 16.0,
+  "c10": 10.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Andrew Dougherty and Nathan Carle",
+  "doi": "10.1103/PhysRevLett.81.2926"
+}, {
+  "year": 1998,
+  "sortdate": "1998-01-01",
+  "title": "Drag Force In Granular Media: Analog to Viscosity?",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and P Schiffer and M Pfeifer",
+  "doi": ""
+}, {
+  "year": 1998,
+  "sortdate": "1998-09-07",
+  "title": "EFFECT OF SURFACE ROUGHNESS ON THE SECONDARY ION YIELD IN ION SPUTTERING",
+  "ctotal": 9.0,
+  "c10": 3.0,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev",
+  "doi": "10.1063/1.122170"
+}, {
+  "year": 1999,
+  "sortdate": "1999-12-01",
+  "title": "Thermodynamic and kinetic mechanisms in self-assembled quantum dot formation",
+  "ctotal": 12.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1016/S0921-5107(99)00205-6"
+}, {
+  "year": 1999,
+  "sortdate": "1999-03-29",
+  "title": "Shape transition in growth of strained islands",
+  "ctotal": 124.0,
+  "c10": 97.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Daruka and J Tersoff",
+  "doi": "10.1103/PhysRevLett.82.2753"
+}, {
+  "year": 1999,
+  "sortdate": "1999-07-01",
+  "title": "Reducing vortex density in superconductors using the `ratchet effect.'",
+  "ctotal": 113.0,
+  "c10": 66.0,
+  "authors": "Albertlaszlo Barabasi and Imre Der\u00e9nyi and Chang-Kyu Lee and Boldizsar Janko",
+  "doi": "10.1038/22485"
+}, {
+  "year": 1999,
+  "sortdate": "1999-09-01",
+  "title": "Diameter of the World-Wide Web",
+  "ctotal": 2739.0,
+  "c10": 1299.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
+  "doi": "10.1038/43601"
+}, {
+  "year": 1999,
+  "sortdate": "1999-04-01",
+  "title": "The physics of sand castles: maximum angle of stability in wet and dry granular media",
+  "ctotal": 28.0,
+  "c10": 12.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and P Schiffer",
+  "doi": "10.1016/S0378-4371(98)00618-9"
+}, {
+  "year": 1999,
+  "sortdate": "1999-11-01",
+  "title": "Liquid-induced transitions in granular media.",
+  "ctotal": 35.0,
+  "c10": 23.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Tam\u00e1s Vicsek and P Schiffer and P\u00e1l Tegzes and M Paskvan",
+  "doi": "10.1103/PhysRevE.60.5823"
+}, {
+  "year": 1999,
+  "sortdate": "1999-01-01",
+  "title": "The diameter of the world wide web",
+  "ctotal": 1966.0,
+  "c10": 887.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
+  "doi": "10.1038/43601"
+}, {
+  "year": 1999,
+  "sortdate": "1999-10-25",
+  "title": "Dynamics of Ripple Formation in Sputter Erosion: Nonlinear Phenomena",
+  "ctotal": 123.0,
+  "c10": 84.0,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Byungnam Kahng and S Park",
+  "doi": "10.1103/PhysRevLett.83.3486"
+}, {
+  "year": 1999,
+  "sortdate": "1999-01-04",
+  "title": "Slow Drag in a Granular Medium",
+  "ctotal": 145.0,
+  "c10": 53.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and P Schiffer and M Pfeifer",
+  "doi": "10.1103/PhysRevLett.82.205"
+}, {
+  "year": 1999,
+  "sortdate": "1999-01-01",
+  "title": "Smoothing surfaces by an ac field: an application of the Ratchet effect",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Chang-Kyu Lee and Imre Der\u00e9nyi",
+  "doi": "10.1557/PROC-570-39"
+}, {
+  "year": 1999,
+  "sortdate": "1999-10-15",
+  "title": "Emergence of Scaling in Random Networks",
+  "ctotal": 19735.0,
+  "c10": 5661.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
+  "doi": "10.1126/science.286.5439.509"
+}, {
+  "year": 1999,
+  "sortdate": "1999-01-01",
+  "title": "Nonlinear Ripple Formation in Sputter Erosion",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Byungnam Kahng and S Park",
+  "doi": "10.1557/PROC-585-297"
+}, {
+  "year": 1999,
+  "sortdate": "1999-01-04",
+  "title": "COLLECTIVE MOTION OF SELF-PROPELLED PARTICLES : KINETIC PHASE TRANSITION IN ONE DIMENSION",
+  "ctotal": 164.0,
+  "c10": 55.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Andr\u00e1s Czir\u00f3k",
+  "doi": "10.1103/PhysRevLett.82.209"
+}, {
+  "year": 1999,
+  "sortdate": "1999-10-01",
+  "title": "Mean-field theory for scale-free random networks",
+  "ctotal": 1475.0,
+  "c10": 710.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
+  "doi": "10.1016/S0378-4371(99)00291-5"
+}, {
+  "year": 1999,
+  "sortdate": "1999-07-05",
+  "title": "COMMENT ON: DYNAMICS OF RIPENING OF SELF-ASSEMBLED II-VI SEMICONDUCTOR QUANTUM DOTS",
+  "ctotal": 21.0,
+  "c10": 17.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Daruka and Jacek K Furdyna and F Henneberger and James L Merz and M Rabe and Sanghoon Lee and CS Kim and P R Kratzert",
+  "doi": "10.1103/PhysRevLett.83.239"
+}, {
+  "year": 1999,
+  "sortdate": "1999-07-15",
+  "title": "MOLECULAR-DYNAMICS INVESTIGATION OF THE SURFACE STRESS DISTRIBUTION IN A GE/SI QUANTUM DOT SUPERLATTICE",
+  "ctotal": 42.0,
+  "c10": 29.0,
+  "authors": "Albertlaszlo Barabasi and PS Lomdahl and TC Germann and AR Bishop and SJ Zhou and Istv\u00e1n Daruka",
+  "doi": "10.1103/PhysRevB.60.R2150"
+}, {
+  "year": 2000,
+  "sortdate": "2000-06-12",
+  "title": "Dynamics of complex systems: scaling laws for the period of boolean networks.",
+  "ctotal": 156.0,
+  "c10": 62.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
+  "doi": "10.1103/PhysRevLett.84.5660"
+}, {
+  "year": 2000,
+  "sortdate": "2000-05-29",
+  "title": "Jamming and fluctuations in granular drag",
+  "ctotal": 66.0,
+  "c10": 31.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Tam\u00e1s Vicsek and Istv\u00e1n Albert and P Schiffer and Byungnam Kahng and P\u00e1l Tegzes and John Sample and M Pfeifer",
+  "doi": "10.1103/PhysRevLett.84.5122"
+}, {
+  "year": 2000,
+  "sortdate": "2000-01-01",
+  "title": "Topology of complex networks: local events and universality",
+  "ctotal": 19.0,
+  "c10": 11.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
+  "doi": ""
+}, {
+  "year": 2000,
+  "sortdate": "2000-01-01",
+  "title": "Self-organizing processesThe sound of many hands clapping",
+  "ctotal": 4.0,
+  "c10": 3.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Zolt\u00e1n N\u00e9da and Erzs\u00e9bet Ravasz and Yves Brechet",
+  "doi": ""
+}, {
+  "year": 2000,
+  "sortdate": "2000-09-21",
+  "title": "Across the boundaries",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1038/35030238"
+}, {
+  "year": 2000,
+  "sortdate": "2000-01-01",
+  "title": "Attak and tolerance in complex networks",
+  "ctotal": 5.0,
+  "c10": 5.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
+  "doi": ""
+}, {
+  "year": 2000,
+  "sortdate": "2000-01-01",
+  "title": "An experimental study of the fluctuations in granular drag",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Tam\u00e1s Vicsek and Istv\u00e1n Albert and P Schiffer and John Sample and Byungnam Kahng and P\u00e1l Tegzes",
+  "doi": "10.1557/PROC-627-BB7.7"
+}, {
+  "year": 2000,
+  "sortdate": "2000-12-11",
+  "title": "Topology of evolving networks: local events and universality",
+  "ctotal": 923.0,
+  "c10": 578.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
+  "doi": "10.1103/PhysRevLett.85.5234"
+}, {
+  "year": 2000,
+  "sortdate": "2000-01-01",
+  "title": "Topology of evolving networks: local events and universality",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
+  "doi": ""
+}, {
+  "year": 2000,
+  "sortdate": "2000-10-01",
+  "title": "The large-scale organization of metabolic networks.",
+  "ctotal": 3461.0,
+  "c10": 1945.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Zolt\u00e1n N Oltvai and Hawoong Jeong and B\u00e1lint Tombor",
+  "doi": "10.1038/35036627"
+}, {
+  "year": 2000,
+  "sortdate": "2000-07-01",
+  "title": "Error and attack tolerance of complex networks",
+  "ctotal": 5021.0,
+  "c10": 2046.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
+  "doi": "10.1038/35019019",
+  "img":"sq-sf.png",
+  "cover":"achilles.png"
+}, {
+  "year": 2000,
+  "sortdate": "2000-06-01",
+  "title": "Scale-free characteristics of random networks: the topology of the world-wide web",
+  "ctotal": 949.0,
+  "c10": 468.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
+  "doi": "10.1016/S0378-4371(00)00018-2"
+}, {
+  "year": 2000,
+  "sortdate": "2000-02-01",
+  "title": "The sound of many hands clapping",
+  "ctotal": 302.0,
+  "c10": 96.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Zolt\u00e1n N\u00e9da and Erzs\u00e9bet Ravasz and Yves Brechet",
+  "doi": "10.1038/35002660"
+}, {
+  "year": 2000,
+  "sortdate": "2000-01-01",
+  "title": "The Internet's Achilles' Heel: Error and attack tolerance of complex networks",
+  "ctotal": 58.0,
+  "c10": 28.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
+  "doi": ""
+}, {
+  "year": 2000,
+  "sortdate": "2000-01-01",
+  "title": "The large scale of metabolic networks",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong and Zolt\u00e1n N Oltvai and B\u00e1lint Tombor",
+  "doi": ""
+}, {
+  "year": 2001,
+  "sortdate": "2001-01-01",
+  "title": "Shape and material effects on the drag force in a granular medium",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Albert and P Schiffer and John Sample",
+  "doi": ""
+}, {
+  "year": 2001,
+  "sortdate": "2001-10-01",
+  "title": "Deterministic scale-free networks",
+  "ctotal": 274.0,
+  "c10": 142.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Erzs\u00e9bet Ravasz",
+  "doi": "10.1016/S0378-4371(01)00369-7",
+  "img":"deterministic.png"
+}, {
+  "year": 2001,
+  "sortdate": "2001-01-01",
+  "title": "Statistical mechanics of complex networks",
+  "ctotal": 11932.0,
+  "c10": 6040.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
+  "doi": "10.1103/RevModPhys.74.47"
+}, {
+  "year": 2001,
+  "sortdate": "2001-02-05",
+  "title": "Quantum Dot and Hole Formation in Sputter Erosion",
+  "ctotal": 80.0,
+  "c10": 58.0,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Byungnam Kahng",
+  "doi": "10.1063/1.1343468"
+}, {
+  "year": 2001,
+  "sortdate": "2001-07-01",
+  "title": "The physics of the Web",
+  "ctotal": 124.0,
+  "c10": 77.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1088/2058-7058/14/7/32"
+}, {
+  "year": 2001,
+  "sortdate": "2001-08-30",
+  "title": "Stick-slip fluctuations in granular drag.",
+  "ctotal": 48.0,
+  "c10": 27.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Tam\u00e1s Vicsek and Istv\u00e1n Albert and Byungnam Kahng and P Schiffer and P\u00e1l Tegzes and John Sample",
+  "doi": "10.1103/PhysRevE.64.031307"
+}, {
+  "year": 2001,
+  "sortdate": "2001-02-12",
+  "title": "Spatial ordering of stacked quantum dots",
+  "ctotal": 22.0,
+  "c10": 20.0,
+  "authors": "Albertlaszlo Barabasi and Chang-Kyu Lee and Byungnam Kahng",
+  "doi": "10.1063/1.1347391"
+}, {
+  "year": 2001,
+  "sortdate": "2001-09-01",
+  "title": "Comparable system-level organization of Archaea and Eukaryotes",
+  "ctotal": 71.0,
+  "c10": 53.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Hawoong Jeong and J\u00e1nos Podani and E Szathmary and B\u00e1lint Tombor",
+  "doi": "10.1038/ng708"
+}, {
+  "year": 2001,
+  "sortdate": "2001-06-11",
+  "title": "Bose-Einstein Condensation in Complex Networks",
+  "ctotal": 339.0,
+  "c10": 166.0,
+  "authors": "Albertlaszlo Barabasi and Ginestra Bianconi",
+  "doi": "10.1103/PhysRevLett.86.5632"
+}, {
+  "year": 2001,
+  "sortdate": "2001-01-01",
+  "title": "Lethality and centrality in protein networks Nature 411",
+  "ctotal": 15.0,
+  "c10": 14.0,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Zolt\u00e1n N Oltvai and Sean P Mason",
+  "doi": ""
+}, {
+  "year": 2001,
+  "sortdate": "2001-06-18",
+  "title": "Weighted Evolving Networks",
+  "ctotal": 265.0,
+  "c10": 161.0,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Soon\u2010Hyung Yook and Yuhai Tu",
+  "doi": "10.1103/PhysRevLett.86.5835"
+}, {
+  "year": 2001,
+  "sortdate": "2001-11-07",
+  "title": "Granular drag on a discrete object: Shape effects on jamming",
+  "ctotal": 56.0,
+  "c10": 21.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Albert and P Schiffer and AJ Morss and S Rajagopalan and John Sample",
+  "doi": "10.1103/PhysRevE.64.061303"
+}, {
+  "year": 2001,
+  "sortdate": "2001-01-01",
+  "title": "The large-scale organization of metabolic networks",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong and B\u00e1lint Tombor and T Dandekar and Zolt\u00e1n N Oltvai and S Schuster",
+  "doi": ""
+}, {
+  "year": 2001,
+  "sortdate": "2001-07-20",
+  "title": "Spectra of \"real-world\" graphs: beyond the semicircle law.",
+  "ctotal": 262.0,
+  "c10": 155.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Ill\u00e9s Farkas and Imre Der\u00e9nyi",
+  "doi": "10.1103/PhysRevE.64.026704"
+}, {
+  "year": 2001,
+  "sortdate": "2001-05-01",
+  "title": "Lethality and centrality in protein networks.",
+  "ctotal": 3396.0,
+  "c10": 1888.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Hawoong Jeong and Sean P Mason",
+  "doi": "10.1038/35075138",
+  "img":"protein-map.png"
+}, {
+  "year": 2001,
+  "sortdate": "2001-10-26",
+  "title": "Modeling relaxation and jamming in granular media.",
+  "ctotal": 10.0,
+  "c10": 9.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Albert and P Schiffer and Byungnam Kahng",
+  "doi": "10.1103/PhysRevE.64.051303"
+}, {
+  "year": 2001,
+  "sortdate": "2001-07-19",
+  "title": "Can we stop the AIDS epidemic",
+  "ctotal": 4.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n Dezs\u0151",
+  "doi": ""
+}, {
+  "year": 2001,
+  "sortdate": "2001-01-01",
+  "title": "correction: Error and attack tolerance of complex networks",
+  "ctotal": 28.0,
+  "c10": 19.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
+  "doi": "10.1038/35054111"
+}, {
+  "year": 2002,
+  "sortdate": "2002-10-25",
+  "title": "Life's Complexity Pyramid",
+  "ctotal": 400.0,
+  "c10": 311.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai",
+  "doi": "10.1126/science.1078563"
+}, {
+  "year": 2002,
+  "sortdate": "2002-01-01",
+  "title": "Genetic Dissection of Transcriptional Regulation in Budding Yeast",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Sean P Mason and Zolt\u00e1n N Oltvai",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-01-01",
+  "title": "On the topology of the scientific collaboration networks",
+  "ctotal": 30.0,
+  "c10": 24.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Zolt\u00e1n N\u00e9da and Hawoong Jeong and A Schubert and Erzs\u00e9bet Ravasz",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-05-21",
+  "title": "Halting viruses in scale-free networks",
+  "ctotal": 381.0,
+  "c10": 255.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n Dezs\u0151",
+  "doi": "10.1103/PhysRevE.65.055103"
+}, {
+  "year": 2002,
+  "sortdate": "2002-01-01",
+  "title": "Restoring the epidemic threshold in scale-free networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n Dezs\u0151",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-12-01",
+  "title": "Morphology of ion-sputtered surfaces",
+  "ctotal": 253.0,
+  "c10": 152.0,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev and Rodolfo Cuerno",
+  "doi": "10.1016/S0168-583X(02)01436-2"
+}, {
+  "year": 2002,
+  "sortdate": "2002-01-01",
+  "title": "Linked: The New Science of Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Eliot A Cohen",
+  "doi": "10.2307/20033300"
+}, {
+  "year": 2002,
+  "sortdate": "2002-11-04",
+  "title": "0.00oscale wire formation on sputter-eroded surfaces",
+  "ctotal": 10.0,
+  "c10": 10.0,
+  "authors": "Albertlaszlo Barabasi and Byungnam Kahng and Jeenu Kim",
+  "doi": "10.1063/1.1519963"
+}, {
+  "year": 2002,
+  "sortdate": "2002-10-01",
+  "title": "Two degrees of separation in complex food webs",
+  "ctotal": 271.0,
+  "c10": 188.0,
+  "authors": "Albertlaszlo Barabasi and Jennifer A Dunne and Neo D Martinez and Eric L Berlow and Richard J Williams",
+  "doi": "10.1073/pnas.192448799"
+}, {
+  "year": 2002,
+  "sortdate": "2002-07-26",
+  "title": "Percolation in directed scale-free networks",
+  "ctotal": 112.0,
+  "c10": 60.0,
+  "authors": "Albertlaszlo Barabasi and Shlomo Havlin and D Ben-Avraham and R Cohen and N Schwartz",
+  "doi": "10.1103/PhysRevE.66.015104"
+}, {
+  "year": 2002,
+  "sortdate": "2002-01-01",
+  "title": "Reviews of Modern Physics",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-11-01",
+  "title": "Networks in life: scaling properties and eigenvalue spectra",
+  "ctotal": 68.0,
+  "c10": 46.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Zolt\u00e1n N\u00e9da and Hawoong Jeong and Zolt\u00e1n N Oltvai and Ill\u00e9s Farkas and Erzs\u00e9bet Ravasz and Imre Der\u00e9nyi and A Schubert",
+  "doi": "10.1016/S0378-4371(02)01181-0"
+}, {
+  "year": 2002,
+  "sortdate": "2002-08-30",
+  "title": "Hierarchical Organization of Modularity in Metabolic Networks",
+  "ctotal": 2650.0,
+  "c10": 1597.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Erzs\u00e9bet Ravasz and AL Somera and Dale A Mongru",
+  "doi": "10.1126/science.1073374"
+}, {
+  "year": 2002,
+  "sortdate": "2002-10-22",
+  "title": "Reducing vortex densities and transporting vortices in superconductors",
+  "ctotal": 6.0,
+  "c10": 4.0,
+  "authors": "Albertlaszlo Barabasi and Imre Der\u00e9nyi and Chang-Kyu Lee and Boldizsar Janko",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-01-01",
+  "title": "Drag Force and Penetration in Granular Media",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n Albert and P Schiffer and Yeekin Tsui",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-01-01",
+  "title": "Percolation in directed scale-free networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Shlomo Havlin and D Ben-Avraham and R Cohen and N Schwartz",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-01-01",
+  "title": "Statistical mechanics of social networks",
+  "ctotal": 4.0,
+  "c10": 4.0,
+  "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-05-14",
+  "title": "Linked: The New Science of Networks",
+  "ctotal": 2270.0,
+  "c10": 1712.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": ""
+}, {
+  "year": 2002,
+  "sortdate": "2002-10-15",
+  "title": "Modeling the Internet's large-scale topology",
+  "ctotal": 433.0,
+  "c10": 322.0,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Soon\u2010Hyung Yook",
+  "doi": "10.1073/pnas.172501399"
+}, {
+  "year": 2002,
+  "sortdate": "2002-02-11",
+  "title": "Monte Carlo simulation of sinusoidally modulated superlattice growth",
+  "ctotal": 5.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Jacek K Furdyna and Sanghoon Lee and Byungnam Kahng and CY Kwak",
+  "doi": "10.1103/PhysRevE.65.031602"
+}, {
+  "year": 2002,
+  "sortdate": "2002-08-01",
+  "title": "Evolution of the social network of scientific collaborations",
+  "ctotal": 1626.0,
+  "c10": 875.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Zolt\u00e1n N\u00e9da and Hawoong Jeong and Erzs\u00e9bet Ravasz and A Schubert",
+  "doi": "10.1016/S0378-4371(02)00736-7"
+}, {
+  "year": 2003,
+  "sortdate": "2003-02-14",
+  "title": "Hierarchical organization in complex networks",
+  "ctotal": 1154.0,
+  "c10": 747.0,
+  "authors": "Albertlaszlo Barabasi and Erzs\u00e9bet Ravasz",
+  "doi": "10.1103/PhysRevE.67.026112",
+  "img":"hierarchical.png"
+}, {
+  "year": 2003,
+  "sortdate": "2003-02-01",
+  "title": "The topology of the transcription regulatory network in the yeast, Saccharomyces cerevisiae",
+  "ctotal": 95.0,
+  "c10": 85.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Hawoong Jeong and Zolt\u00e1n N Oltvai and Ill\u00e9s Farkas",
+  "doi": "10.1016/S0378-4371(02)01731-4"
+}, {
+  "year": 2003,
+  "sortdate": "2003-01-01",
+  "title": "Linked: The New Science of Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Maximino Aldanagonzalez",
+  "doi": "10.1063/1.1570778"
+}, {
+  "year": 2003,
+  "sortdate": "2003-05-01",
+  "title": "Scale-free networks.",
+  "ctotal": 1366.0,
+  "c10": 960.0,
+  "authors": "Albertlaszlo Barabasi and Eric Bonabeau",
+  "doi": "10.1038/scientificamerican0503-60"
+}, {
+  "year": 2003,
+  "sortdate": "2003-04-01",
+  "title": "Linked: How Everything Is Connected to Everything Else and What It Means",
+  "ctotal": 604.0,
+  "c10": 484.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-01-01",
+  "title": "R\u00e9seaux invariants d'\u00e9chelle",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Eric Bonabeau",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-01-01",
+  "title": "The topology of the transcription regulatory network in the yeast",
+  "ctotal": 21.0,
+  "c10": 19.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Hawoong Jeong and Zolt\u00e1n N Oltvai and Ill\u00e9s Farkas",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-01-01",
+  "title": "Evolutionary conservation of motif constituents in the yeast protein interaction network. Nat Genet",
+  "ctotal": 7.0,
+  "c10": 4.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Stefan Wuchty",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-09-01",
+  "title": "\u60c5\u5831\u6280\u8853 \u4e16\u754c\u306e\"\u306a\u305c\"\u3092\u8aad\u307f\u89e3\u304f \u30b9\u30b1\u30fc\u30eb\u30d5\u30ea\u30fc\u30cd\u30c3\u30c8\u30ef\u30fc\u30af",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Eric Bonabeau",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-01-01",
+  "title": "Redes sin escala",
+  "ctotal": 8.0,
+  "c10": 6.0,
+  "authors": "Albertlaszlo Barabasi and Eric Bonabeau",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-10-10",
+  "title": "Bioinformatics analysis of experimentally determined protein complexes in the yeast, S. cerevisiae",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Zolt\u00e1n Dezs\u0151",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-10-01",
+  "title": "Experimental Determination and System Level Analysis of Essential Genes in Escherichia coli MG1655",
+  "ctotal": 578.0,
+  "c10": 412.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Erzs\u00e9bet Ravasz and AL Somera and Vinayak Kapatral and G\u00e1bor Bal\u00e1zsi and NC Kyrpides and MY Fonstein and MV Baev and Y Grechkin and AL Osterman and I Anderson and Matthew D Daugherty and M D'souza and SYea Gerdes and A Bhattacharya and R Overbeek and Mikhail S Gelfand and JW Campbell and Michael D Scholle and F Mseeh",
+  "doi": "10.1128/JB.185.19.5673-5684.2003"
+}, {
+  "year": 2003,
+  "sortdate": "2003-04-29",
+  "title": "Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life",
+  "ctotal": 753.0,
+  "c10": 555.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-01-01",
+  "title": "Hierarchical Organization of Modularity in Complex Networks",
+  "ctotal": 20.0,
+  "c10": 15.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Erzs\u00e9bet Ravasz",
+  "doi": "10.1007/978-3-540-44943-0_4"
+}, {
+  "year": 2003,
+  "sortdate": "2003-08-01",
+  "title": "Spurious spatial periodicity of co-expression in microarray data due to printing design",
+  "ctotal": 37.0,
+  "c10": 37.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and KA Kay and G\u00e1bor Bal\u00e1zsi",
+  "doi": "10.1093/nar/gkg485"
+}, {
+  "year": 2003,
+  "sortdate": "2003-01-01",
+  "title": "Linked: The New Science of Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Maximino Aldanagonzales",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-07-03",
+  "title": "Emerging behavior in electronic bidding.",
+  "ctotal": 21.0,
+  "c10": 18.0,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and I Yang and Byungnam Kahng",
+  "doi": "10.1103/PhysRevE.68.016102"
+}, {
+  "year": 2003,
+  "sortdate": "2003-01-01",
+  "title": "Redes libres de escala",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Eric Bonabeau",
+  "doi": ""
+}, {
+  "year": 2003,
+  "sortdate": "2003-11-01",
+  "title": "Bioinformatics Analysis of Experimentally Determined Protein Complexes in the Yeast Saccharomyces cerevisiae",
+  "ctotal": 102.0,
+  "c10": 78.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Zolt\u00e1n Dezs\u0151",
+  "doi": "10.1101/gr.1073603"
+}, {
+  "year": 2003,
+  "sortdate": "2003-05-09",
+  "title": "Scale\u2010Free and Hierarchical Structures in Complex Networks",
+  "ctotal": 87.0,
+  "c10": 61.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Erzs\u00e9bet Ravasz and Soon\u2010Hyung Yook and Zolt\u00e1n Dezs\u0151",
+  "doi": "10.1063/1.1571285"
+}, {
+  "year": 2003,
+  "sortdate": "2003-10-01",
+  "title": "Evolutionary conservation of motif constituents in the yeast protein interaction network",
+  "ctotal": 324.0,
+  "c10": 265.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Stefan Wuchty",
+  "doi": "10.1038/ng1242"
+}, {
+  "year": 2004,
+  "sortdate": "2004-01-01",
+  "title": "Global organization of metabolic fluxes",
+  "ctotal": 3.0,
+  "c10": 3.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Eivind Almaas and Zolt\u00e1n N Oltvai and B Kovacs",
+  "doi": "",
+  "img":"flux2.png",
+  "cover":"flux.png"
+}, {
+  "year": 2004,
+  "sortdate": "2004-08-06",
+  "title": "Separating Internal and External Dynamics of Complex Systems",
+  "ctotal": 77.0,
+  "c10": 61.0,
+  "authors": "Albertlaszlo Barabasi and Marcio Argollo De Menezes",
+  "doi": "10.1103/PhysRevLett.93.068701"
+}, {
+  "year": 2004,
+  "sortdate": "2004-01-01",
+  "title": "Emergence of power-law behaviors in online auctions",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Byungnam Kahng and I Yang",
+  "doi": "10.1007/978-4-431-53947-6_28"
+}, {
+  "year": 2004,
+  "sortdate": "2004-01-01",
+  "title": "Virtual Round Table on ten leading questions for network research",
+  "ctotal": 42.0,
+  "c10": 35.0,
+  "authors": "Albertlaszlo Barabasi and Romualdo Pastorsatorras and Alain Barrat and Guido Caldarelli and Rosario N Mantegna and Lu\u00eds A Nunes Amaral and Byungnam Kahng and Ayse Erzan and J F F Mendes and Alessandro Vespig0.00i and P De Los Rios",
+  "doi": "10.1140/epjb/e2004-00109-x"
+}, {
+  "year": 2004,
+  "sortdate": "2004-02-01",
+  "title": "Global organization of metabolic fluxes in the bacterium Escherichia coli",
+  "ctotal": 506.0,
+  "c10": 418.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Tam\u00e1s Vicsek and Eivind Almaas and B Kovacs",
+  "doi": "10.1038/nature02289"
+}, {
+  "year": 2004,
+  "sortdate": "2004-01-01",
+  "title": "Characteristics of biological networks",
+  "ctotal": 8.0,
+  "c10": 7.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Stefan Wuchty",
+  "doi": ""
+}, {
+  "year": 2004,
+  "sortdate": "2004-10-01",
+  "title": "Evolution of Networks: From Biological Nets to the Internet and WWW",
+  "ctotal": 3.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1063/1.1825279"
+}, {
+  "year": 2004,
+  "sortdate": "2004-04-01",
+  "title": "Functional and topological characterization of protein interaction networks",
+  "ctotal": 457.0,
+  "c10": 357.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Soon\u2010Hyung Yook",
+  "doi": "10.1002/pmic.200300636"
+}, {
+  "year": 2004,
+  "sortdate": "2004-12-28",
+  "title": "The topological relationship between the large-scale attributes and local interaction patterns of complex networks",
+  "ctotal": 217.0,
+  "c10": 179.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Alexei Vazquez and J-P Eckmann and Radu Dobrin and D Sergi",
+  "doi": "10.1073/pnas.0406024101"
+}, {
+  "year": 2004,
+  "sortdate": "2004-08-01",
+  "title": "Effect of surface morphology on the sputtering yields. II. Ion sputtering from rippled surfaces",
+  "ctotal": 16.0,
+  "c10": 10.0,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev",
+  "doi": "10.1016/j.nimb.2004.02.028"
+}, {
+  "year": 2004,
+  "sortdate": "2004-05-29",
+  "title": "Minimum spanning trees on weighted scale-free networks",
+  "ctotal": 11.0,
+  "c10": 11.0,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas and PJ Macdonald",
+  "doi": ""
+}, {
+  "year": 2004,
+  "sortdate": "2004-03-01",
+  "title": "Hot spots and universality in network dynamics",
+  "ctotal": 19.0,
+  "c10": 14.0,
+  "authors": "Albertlaszlo Barabasi and Marcio Argollo De Menezes and S Balensiefer and J Brockman",
+  "doi": "10.1140/epjb/e2004-00022-4"
+}, {
+  "year": 2004,
+  "sortdate": "2004-10-25",
+  "title": "Reverse engineering of linking preferences from network restructuring",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Gergely Palla and Ill\u00e9s Farkas and Imre Der\u00e9nyi",
+  "doi": "10.1103/PhysRevE.70.046115"
+}, {
+  "year": 2004,
+  "sortdate": "2004-01-30",
+  "title": "Aggregation of topological motifs in the Escherichia coli transcriptional regulatory network",
+  "ctotal": 176.0,
+  "c10": 147.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Qasim K Beg and Radu Dobrin",
+  "doi": "10.1186/1471-2105-5-10"
+}, {
+  "year": 2004,
+  "sortdate": "2004-01-13",
+  "title": "Fluctuations in network dynamics.",
+  "ctotal": 148.0,
+  "c10": 109.0,
+  "authors": "Albertlaszlo Barabasi and Marcio Argollo De Menezes",
+  "doi": "10.1103/PhysRevLett.92.028701"
+}, {
+  "year": 2004,
+  "sortdate": "2004-08-01",
+  "title": "Effect of surface morphology on the sputtering yields. I. Ion sputtering from self-affine surfaces",
+  "ctotal": 18.0,
+  "c10": 13.0,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev",
+  "doi": "10.1016/j.nimb.2004.02.027"
+}, {
+  "year": 2004,
+  "sortdate": "2004-02-01",
+  "title": "NETWORK BIOLOGY: UNDERSTANDING THE CELL'S FUNCTIONAL ORGANIZATION",
+  "ctotal": 5000.0,
+  "c10": 3496.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai",
+  "doi": "10.1038/nrg1272"
+}, {
+  "year": 2005,
+  "sortdate": "2005-08-21",
+  "title": "The architecture of complexity: the structure and the dynamics of networks, from the web to the cell",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1145/1081870.1081873"
+}, {
+  "year": 2005,
+  "sortdate": "2005-11-01",
+  "title": "Human Dynamics: The Correspondence Patterns of Darwin and Einstein",
+  "ctotal": 173.0,
+  "c10": 133.0,
+  "authors": "Albertlaszlo Barabasi and Joao Gama Oliveira",
+  "doi": "10.1038/4371251a"
+}, {
+  "year": 2005,
+  "sortdate": "2005-05-31",
+  "title": "Topological units of environmental signal processing in the transcriptional regulatory network of Escherichia coli",
+  "ctotal": 166.0,
+  "c10": 155.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and G\u00e1bor Bal\u00e1zsi",
+  "doi": "10.1073/pnas.0500365102"
+}, {
+  "year": 2005,
+  "sortdate": "2005-01-01",
+  "title": "The Activity Reaction Core and Plasticity of Metabolic Networks",
+  "ctotal": 104.0,
+  "c10": 89.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Eivind Almaas",
+  "doi": "10.1371/journal.pcbi.0010068"
+}, {
+  "year": 2005,
+  "sortdate": "2005-03-22",
+  "title": "Topological units of environmental signal processing in the transcriptional-regulatory network of Escherichia coli",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and G\u00e1bor Bal\u00e1zsi",
+  "doi": ""
+}, {
+  "year": 2005,
+  "sortdate": "2005-10-01",
+  "title": "Darwin and Einstein correspondence patterns",
+  "ctotal": 215.0,
+  "c10": 161.0,
+  "authors": "Albertlaszlo Barabasi and Joao Gama Oliveira",
+  "doi": "10.1038/4371251a"
+}, {
+  "year": 2005,
+  "sortdate": "2005-03-21",
+  "title": "The Dynamics of Information Access in the Online Media",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas and Zolt\u00e1n Dezs\u0151 and Balazs Racz and Andr\u00e1s Luk\u00e1cs and Istv\u00e1n Szakad\u00e1t",
+  "doi": ""
+}, {
+  "year": 2005,
+  "sortdate": "2005-02-24",
+  "title": "Inhomogeneous evolution of subgraphs and cycles in complex networks",
+  "ctotal": 21.0,
+  "c10": 18.0,
+  "authors": "Albertlaszlo Barabasi and Joao Gama Oliveira and Alexei Vazquez",
+  "doi": "10.1103/PhysRevE.71.025103"
+}, {
+  "year": 2005,
+  "sortdate": "2005-02-01",
+  "title": "Multiscaling and non-universality in fluctuations of driven complex systems",
+  "ctotal": 43.0,
+  "c10": 37.0,
+  "authors": "Albertlaszlo Barabasi and J Kert\u00e9sz and Zoltan Eisler and Soon\u2010Hyung Yook",
+  "doi": "10.1209/epl/i2004-10384-1"
+}, {
+  "year": 2005,
+  "sortdate": "2005-05-01",
+  "title": "The origin of bursts and heavy tails in human dynamics.",
+  "ctotal": 1279.0,
+  "c10": 876.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1038/nature03459"
+}, {
+  "year": 2005,
+  "sortdate": "2005-04-29",
+  "title": "Network Theory--the Emergence of the Creative Enterprise",
+  "ctotal": 114.0,
+  "c10": 101.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1126/science.1112554"
+}, {
+  "year": 2005,
+  "sortdate": "2005-01-28",
+  "title": "Emergence of scaling in complex networks",
+  "ctotal": 46.0,
+  "c10": 42.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1002/3527602755.ch3"
+}, {
+  "year": 2005,
+  "sortdate": "2005-10-01",
+  "title": "Minimum spanning trees of weighted scale-free networks",
+  "ctotal": 78.0,
+  "c10": 60.0,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas and PJ Macdonald",
+  "doi": "10.1209/epl/i2005-10232-x"
+}, {
+  "year": 2005,
+  "sortdate": "2005-02-11",
+  "title": "Emergence of large-scale vorticity during diffusion in a random potential under an alternating bias",
+  "ctotal": 3.0,
+  "c10": 3.0,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev and Imre Der\u00e9nyi",
+  "doi": "10.1103/PhysRevE.71.026112"
+}, {
+  "year": 2006,
+  "sortdate": "2006-01-01",
+  "title": "Power Laws in Biological Networks",
+  "ctotal": 16.0,
+  "c10": 12.0,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas",
+  "doi": "10.1007/0-387-33916-7_1"
+}, {
+  "year": 2006,
+  "sortdate": "2006-05-22",
+  "title": "The Structure and Dynamics of Networks",
+  "ctotal": 1670.0,
+  "c10": 1518.0,
+  "authors": "Albertlaszlo Barabasi and Duncan J Watts and M E J Newman",
+  "doi": ""
+}, {
+  "year": 2006,
+  "sortdate": "2006-01-01",
+  "title": "Modeling bursts and heavy tails in human dynamics",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n Dezs\u0151 and K-I Goh and Joao Gama Oliveira and Alexei Vazquez and Imre Kondor",
+  "doi": ""
+}, {
+  "year": 2006,
+  "sortdate": "2006-11-18",
+  "title": "Network effects in service usage",
+  "ctotal": 31.0,
+  "c10": 29.0,
+  "authors": "Albertlaszlo Barabasi and Gy\u00f6rgy Szab\u00f3",
+  "doi": ""
+}, {
+  "year": 2006,
+  "sortdate": "2006-01-01",
+  "title": "Power laws, scale-free networks and genome biology",
+  "ctotal": 49.0,
+  "c10": 45.0,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas and Sergey V Buldyrev and Kim Sneppen and Eugene I Shakhnovich and Nikolay V Dokholyan and Yuri I Wolf and Eugene V Koonin and Pau Fer0.00dez and Sergei Maslov and Ricard V Sole and K-I Goh and Georgy P Karev and Itai Yanai and S Rackovsky and Michael Kamal and T G Dewey and Erik Van Nimwegen and Daekyum Kim and David J Galas and J S Bader and Andreas Wagner and Byungnam Kahng",
+  "doi": "10.1007/0-387-33916-7"
+}, {
+  "year": 2006,
+  "sortdate": "2006-03-24",
+  "title": "Modeling bursts and heavy tails in human dynamics",
+  "ctotal": 411.0,
+  "c10": 351.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n Dezs\u0151 and K-I Goh and Joao Gama Oliveira and Alexei Vazquez and Imre Kondor",
+  "doi": "10.1103/PhysRevE.73.036127"
+}, {
+  "year": 2006,
+  "sortdate": "2006-04-01",
+  "title": "The Structure and Dynamics of Networks: (Princeton Studies in Complexity)",
+  "ctotal": 254.0,
+  "c10": 230.0,
+  "authors": "Albertlaszlo Barabasi and Duncan J Watts and M E J Newman",
+  "doi": ""
+}, {
+  "year": 2006,
+  "sortdate": "2006-01-01",
+  "title": "The Architecture of Biological Networks",
+  "ctotal": 50.0,
+  "c10": 49.0,
+  "authors": "Albertlaszlo Barabasi and Erzs\u00e9bet Ravasz and Stefan Wuchty",
+  "doi": "10.1007/978-0-387-33532-2_5"
+}, {
+  "year": 2006,
+  "sortdate": "2006-05-01",
+  "title": "A Protein\u2013Protein Interaction Network for Human Inherited Ataxias and Disorders of Purkinje Cell Degeneration",
+  "ctotal": 600.0,
+  "c10": 535.0,
+  "authors": "Albertlaszlo Barabasi and Gy\u00f6rgy Szab\u00f3 and Marc Vidal and David E Hill and Huda Y Zoghbi and Tong Hao and C Joseph Fisk and Janghoo Lim and Chad A Shaw and Akash J Patel and Alex Smolyar and Jean-Francois Rual and Na Li",
+  "doi": "10.1016/j.cell.2006.03.032"
+}, {
+  "year": 2006,
+  "sortdate": "2006-01-30",
+  "title": "Stable evolutionary signal in a yeast protein interaction network.",
+  "ctotal": 47.0,
+  "c10": 46.0,
+  "authors": "Albertlaszlo Barabasi and Stefan Wuchty and Michael T Ferdig",
+  "doi": "10.1186/1471-2148-6-8"
+}, {
+  "year": 2006,
+  "sortdate": "2006-05-28",
+  "title": "WIPER: the integrated wireless phone based emergency response system",
+  "ctotal": 31.0,
+  "c10": 27.0,
+  "authors": "Albertlaszlo Barabasi and Greg Madey and Gy\u00f6rgy Szab\u00f3",
+  "doi": "10.1007/11758532_56"
+}, {
+  "year": 2006,
+  "sortdate": "2006-01-01",
+  "title": "THE ARCHITECTURE OF COMPLEXITY: FROM WWW TO CELLULAR METABOLISM",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas",
+  "doi": "10.1007/1-4020-5030-5_7"
+}, {
+  "year": 2006,
+  "sortdate": "2006-06-30",
+  "title": "Dynamics of information access on the web",
+  "ctotal": 159.0,
+  "c10": 145.0,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas and Zolt\u00e1n Dezs\u0151 and Balazs Racz and Andr\u00e1s Luk\u00e1cs and Istv\u00e1n Szakad\u00e1t",
+  "doi": "10.1103/PhysRevE.73.066132"
+}, {
+  "year": 2006,
+  "sortdate": "2006-01-01",
+  "title": "WIPER: A Multi-Agent System for Emergency Response",
+  "ctotal": 37.0,
+  "c10": 35.0,
+  "authors": "Albertlaszlo Barabasi and Greg Madey and Timothy Schoenharl and Gy\u00f6rgy Szab\u00f3",
+  "doi": ""
+}, {
+  "year": 2007,
+  "sortdate": "2007-04-01",
+  "title": "Complex networks: From data to models",
+  "ctotal": 37.0,
+  "c10": 35.0,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez",
+  "doi": "10.1038/nphys581"
+}, {
+  "year": 2007,
+  "sortdate": "2007-05-01",
+  "title": "Structure and tie strengths in mobile communication networks",
+  "ctotal": 1109.0,
+  "c10": 997.0,
+  "authors": "Albertlaszlo Barabasi and David Lazer and K Kaski and J Kert\u00e9sz and Jari Saram\u00e4ki and J\u00f6rkki Hyv\u00f6nen and Jp Onnela and Gy\u00f6rgy Szab\u00f3",
+  "doi": "10.1073/pnas.0610245104",
+  "img":"cell-net.png"
+}, {
+  "year": 2007,
+  "sortdate": "2007-05-22",
+  "title": "The human disease network",
+  "ctotal": 1984.0,
+  "c10": 1776.0,
+  "authors": "Albertlaszlo Barabasi and K-I Goh and Michael E Cusick and Marc Vidal and Barton Childs and David Valle",
+  "doi": "10.1073/pnas.0701361104",
+  "img":"disease.png"
+}, {
+  "year": 2007,
+  "sortdate": "2007-03-05",
+  "title": "The Product Space and its Consequences for Economic Growth",
+  "ctotal": 16.0,
+  "c10": 12.0,
+  "authors": "Albertlaszlo Barabasi and C\u00e9sar A Hidalgo and Bailey Klinger and Ricardo Hausmann",
+  "doi": ""
+}, {
+  "year": 2007,
+  "sortdate": "2007-07-10",
+  "title": "Human disease classification in the postgenomic era: A complex systems approach to human pathobiology",
+  "ctotal": 401.0,
+  "c10": 366.0,
+  "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Isaac Kohane",
+  "doi": "10.1038/msb4100163"
+}, {
+  "year": 2007,
+  "sortdate": "2007-05-27",
+  "title": "Enhanced Situational Awareness: Application of DDDAS Concepts to Emergency and Disaster Management",
+  "ctotal": 42.0,
+  "c10": 38.0,
+  "authors": "Albertlaszlo Barabasi and Timothy Schoenharl and Marta C Gonz\u00e1lez and Pu Wang and Nitesh V Chawla and Greg Madey and Gy\u00f6rgy Szab\u00f3 and Alec Pawling and David Hachen and Brett Lantz and Ping Yan",
+  "doi": "10.1007/978-3-540-72584-8_143"
+}, {
+  "year": 2007,
+  "sortdate": "2007-01-01",
+  "title": "Human disease classification in the postgenomic era: a complex systems approach to human pathobiology",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Isaac Kohane",
+  "doi": ""
+}, {
+  "year": 2007,
+  "sortdate": "2007-04-01",
+  "title": "Quantifying social group evolution",
+  "ctotal": 984.0,
+  "c10": 903.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Gergely Palla",
+  "doi": "10.1038/nature05670"
+}, {
+  "year": 2007,
+  "sortdate": "2007-04-10",
+  "title": "Impact of Non-Poissonian Activity Patterns on Spreading Processes",
+  "ctotal": 183.0,
+  "c10": 155.0,
+  "authors": "Albertlaszlo Barabasi and Balazs Racz and Andr\u00e1s Luk\u00e1cs and Alexei Vazquez",
+  "doi": "10.1103/PhysRevLett.98.158702"
+}, {
+  "year": 2007,
+  "sortdate": "2007-08-01",
+  "title": "The Architecture of Complexity",
+  "ctotal": 101.0,
+  "c10": 96.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1109/MCS.2007.384127"
+}, {
+  "year": 2007,
+  "sortdate": "2007-07-26",
+  "title": "Network medicine--from obesity to the \"diseasome\".",
+  "ctotal": 326.0,
+  "c10": 297.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1056/NEJMe078114"
+}, {
+  "year": 2007,
+  "sortdate": "2007-06-07",
+  "title": "Community dynamics in social networks",
+  "ctotal": 5.0,
+  "c10": 5.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Gergely Palla",
+  "doi": "10.1117/12.724517"
+}, {
+  "year": 2007,
+  "sortdate": "2007-11-13",
+  "title": "Distribution of node characteristics in complex networks",
+  "ctotal": 82.0,
+  "c10": 72.0,
+  "authors": "Albertlaszlo Barabasi and Juyong Park",
+  "doi": "10.1073/pnas.0705081104"
+}, {
+  "year": 2007,
+  "sortdate": "2007-06-13",
+  "title": "Transcription factor modularity in a gene-centered C. elegans core neuronal protein\u2013DNA interaction network",
+  "ctotal": 79.0,
+  "c10": 73.0,
+  "authors": "Albertlaszlo Barabasi and C\u00e9sar A Hidalgo and Albertha JM Walhout and Vanessa Vermeirssen and M Inmaculada Barrasa and Reynaldo Sequerra and Lynn Doucette-Stamm and Jenny Aurielle B Babon",
+  "doi": "10.1101/gr.6148107",
+  "img":"ce-fig.png",
+  "cover":"ce-genome.png"
+}, {
+  "year": 2007,
+  "sortdate": "2007-09-01",
+  "title": "COMMUNITY DYNAMICS IN SOCIAL NETWORKS",
+  "ctotal": 8.0,
+  "c10": 7.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Gergely Palla",
+  "doi": "10.1142/S0219477507003933"
+}, {
+  "year": 2007,
+  "sortdate": "2007-07-31",
+  "title": "Intracellular crowding defines the mode and sequence of substrate uptake by Escherichia coli and constrains its metabolic activity.",
+  "ctotal": 188.0,
+  "c10": 160.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Alexei Vazquez and Ziv Bar-Joseph and Qasim K Beg and Jason Ernst and Marcio Argollo De Menezes",
+  "doi": "10.1073/pnas.0609845104"
+}, {
+  "year": 2007,
+  "sortdate": "2007-07-27",
+  "title": "The Product Space Conditions the Development of Nations",
+  "ctotal": 854.0,
+  "c10": 684.0,
+  "authors": "Albertlaszlo Barabasi and C\u00e9sar A Hidalgo and Bailey Klinger and Ricardo Hausmann",
+  "doi": "10.1126/science.1144581",
+  "img":"product-space.png",
+  "cover":"science-news.jpg"
+}, {
+  "year": 2007,
+  "sortdate": "2007-10-01",
+  "title": "Drug\u2014target network",
+  "ctotal": 1059.0,
+  "c10": 955.0,
+  "authors": "Albertlaszlo Barabasi and K-I Goh and Michael E Cusick and Muhammed A Yildirim and Marc Vidal",
+  "doi": "10.1038/nbt1338",
+  "img":"drug-target.png"
+}, {
+  "year": 2008,
+  "sortdate": "2008-01-01",
+  "title": "Cozzarelli Prize Winner@;DELIM@;From the Cover: The implications of human metabolic network topology for disease comorbidity",
+  "ctotal": 10.0,
+  "c10": 10.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Juyong Park and KA Kay and Zolt\u00e1n N Oltvai and DS Lee",
+  "doi": ""
+}, {
+  "year": 2008,
+  "sortdate": "2008-10-03",
+  "title": "High-quality binary protein interaction map of the yeast interactome network",
+  "ctotal": 983.0,
+  "c10": 960.0,
+  "authors": "Albertlaszlo Barabasi and Juyong Park and Michael E Cusick and Muhammed A Yildirim and Marc Vidal and Amelie Dricot and Nicolas Simonis and David E Hill and Pascal Braun and Frederick P Roth and Tong Hao and Jean-Francois Rual and Alexei Vazquez and Irma Lemmens and Tomoko Hirozane-Kishikawa and Fana Gebreab and Jan Tavernier and Xiaofeng Xin and Haiyuan Yu and Christophe Simon and Ryan R Murray and Kavitha Venkatesan and Julie M Sahalie and Changyu Fan and Stanley Tam and Nenad Svrzikapa and Leah Tardivo and Adriana Motyl and Anne-Sophie De Smet and Michael E Hudson and Michael Snyder and Troy Moore and Na Li and Charles Boone",
+  "doi": "10.1126/science.1158684"
+}, {
+  "year": 2008,
+  "sortdate": "2008-10-26",
+  "title": "Predicting individual disease risk based on medical history",
+  "ctotal": 48.0,
+  "c10": 46.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Nicholas Blumm and Nitesh V Chawla and Darcy A Davis",
+  "doi": "10.1145/1458082.1458185"
+}, {
+  "year": 2008,
+  "sortdate": "2008-02-12",
+  "title": "Predicting synthetic rescues in metabolic networks",
+  "ctotal": 99.0,
+  "c10": 95.0,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas and Natali Gulbahce and Adilson E Motter",
+  "doi": "10.1038/msb.2008.1"
+}, {
+  "year": 2008,
+  "sortdate": "2008-06-06",
+  "title": "Uncovering individual and collective human dynamics from mobile phone records",
+  "ctotal": 364.0,
+  "c10": 347.0,
+  "authors": "Albertlaszlo Barabasi and Timothy Schoenharl and Marta C Gonz\u00e1lez and Pu Wang and Greg Madey and Juli\u00e1n Candia",
+  "doi": "10.1088/1751-8113/41/22/224015"
+}, {
+  "year": 2008,
+  "sortdate": "2008-12-01",
+  "title": "Impact of the solvent capacity constraint on E. coli metabolism",
+  "ctotal": 73.0,
+  "c10": 69.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Alexei Vazquez and Ziv Bar-Joseph and Marcio Argollo De Menezes and L\u00e1szl\u00f3 G Boros and Qasim K Beg and Jason Ernst",
+  "doi": "10.1186/1752-0509-2-7"
+}, {
+  "year": 2008,
+  "sortdate": "2008-06-05",
+  "title": "Understanding individual human mobility patterns",
+  "ctotal": 3126.0,
+  "c10": 3025.0,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and A R Cesar Hidalgo",
+  "doi": "10.1038/nature06958"
+}, {
+  "year": 2008,
+  "sortdate": "2008-01-01",
+  "title": "Two-dimensional particle motion in a random potential under ac bias",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Maxim A Makeev and Imre Der\u00e9nyi",
+  "doi": ""
+}, {
+  "year": 2008,
+  "sortdate": "2008-07-22",
+  "title": "The implications of human metabolic network topology for disease comorbidity",
+  "ctotal": 291.0,
+  "c10": 283.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Zolt\u00e1n N Oltvai and Juyong Park and KA Kay and DS Lee",
+  "doi": "10.1073/pnas.0802208105",
+  "cover":"bee.png"
+}, {
+  "year": 2008,
+  "sortdate": "2008-01-01",
+  "title": "Scale-Free Networks",
+  "ctotal": 4.0,
+  "c10": 4.0,
+  "authors": "Albertlaszlo Barabasi and A R Cesar Hidalgo",
+  "doi": "10.4249/scholarpedia.1716"
+}, {
+  "year": 2008,
+  "sortdate": "2008-03-12",
+  "title": "Metabolic disease network and its implication for disease comorbidity",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Zolt\u00e1n N Oltvai and DS Lee",
+  "doi": ""
+}, {
+  "year": 2008,
+  "sortdate": "2008-03-12",
+  "title": "Distribution of Node Characteristics in Complex Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Juyong Park",
+  "doi": ""
+}, {
+  "year": 2008,
+  "sortdate": "2008-10-10",
+  "title": "Impact of Limited Solvent Capacity on Metabolic Rate, Enzyme Activities, and Metabolite Concentrations of S. cerevisiae Glycolysis",
+  "ctotal": 21.0,
+  "c10": 20.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Alexei Vazquez and Marcio Argollo De Menezes",
+  "doi": "10.1371/journal.pcbi.1000195"
+}, {
+  "year": 2008,
+  "sortdate": "2008-02-01",
+  "title": "Burstiness and memory in complex systems",
+  "ctotal": 209.0,
+  "c10": 195.0,
+  "authors": "Albertlaszlo Barabasi and K-I Goh",
+  "doi": "10.1209/0295-5075/81/48002"
+}, {
+  "year": 2008,
+  "sortdate": "2008-01-31",
+  "title": "Disease diagnoses-bases disease prediction",
+  "ctotal": 6.0,
+  "c10": 5.0,
+  "authors": "Albertlaszlo Barabasi and Nitesh V Chawla and Nicholas Christakis",
+  "doi": ""
+}, {
+  "year": 2008,
+  "sortdate": "2008-03-12",
+  "title": "The Human Phenotypic Disease Network",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Nicholas Blumm and C\u00e9sar A Hidalgo",
+  "doi": ""
+}, {
+  "year": 2008,
+  "sortdate": "2008-03-13",
+  "title": "Tailoring the metabolism against mutations",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Eivind Almaas and Natali Gulbahce and Adilson E Motter",
+  "doi": ""
+}, {
+  "year": 2008,
+  "sortdate": "2008-01-01",
+  "title": "Impact of limited solvent capacity on metabolic rate, enzyme activities, and metabolite concentrations of S. cerevisiae glycolysis",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Alexei Vazquez and Marcio Argollo De Menezes",
+  "doi": ""
+}, {
+  "year": 2009,
+  "sortdate": "2009-05-22",
+  "title": "Understanding the Spreading Patterns of Mobile Phone Viruses",
+  "ctotal": 336.0,
+  "c10": 336.0,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and Pu Wang and A R Cesar Hidalgo",
+  "doi": "10.1126/science.1167053"
+}, {
+  "year": 2009,
+  "sortdate": "2009-01-01",
+  "title": "Life in the network: The coming age of computational social science: Science",
+  "ctotal": 5.0,
+  "c10": 5.0,
+  "authors": "Albertlaszlo Barabasi and David Lazer and Myron Gutmann and Deb Roy and Si0.00 Aral and James Fowler and Gary King and Michael Macy and Alex Sandy Pentland and Nicholas Christakis and Noshir Contractor and Devon Brewer and T Hebara and A Adamic and Marshall Van Alstyne",
+  "doi": ""
+}, {
+  "year": 2009,
+  "sortdate": "2009-03-01",
+  "title": "Erratum: Understanding individual human mobility patterns",
+  "ctotal": 23.0,
+  "c10": 23.0,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and C\u00e9sar A Hidalgo",
+  "doi": "10.1038/nature07850"
+}, {
+  "year": 2009,
+  "sortdate": "2009-02-06",
+  "title": "Life in the network: the coming age of computational social science",
+  "ctotal": 482.0,
+  "c10": 482.0,
+  "authors": "Albertlaszlo Barabasi and Tony Jebara and David Lazer and Myron Gutmann and Deb Roy and Si0.00 Aral and James Fowler and Gary King and Michael Macy and Lada Adamic and Nicholas Christakis and Alex Sandy Pentland and Noshir Contractor and Devon Brewer and Marshall Van Alstyne",
+  "doi": "10.1126/science.1167742"
+}, {
+  "year": 2009,
+  "sortdate": "2009-01-01",
+  "title": "An empirical framework for binary interactome mapping.",
+  "ctotal": 560.0,
+  "c10": 560.0,
+  "authors": "Albertlaszlo Barabasi and K-I Goh and Michael E Cusick and Muhammed A Yildirim and Marc Vidal and Amelie Dricot and Nicolas Simonis and David E Hill and Pascal Braun and Frederick P Roth and Tong Hao and Alex Smolyar and Jean-Francois Rual and Alexei Vazquez and Maciej Lalowski and Heather Borick and Ulrich Stelzl and Charles Boone and Niels Klitgord and Kirstin Rau and David Szeto and Irma Lemmens and Arunachalam Vinayagam and Tomoko Hirozane-Kishikawa and Martina Zenkner and Fana Gebreab and Jan Tavernier and Ching-Yung Lin and Xiaofeng Xin and Haiyuan Yu and Sebiha Cevik and Erich E Wanker and Jan Timm and Christophe Simon and Ryan R Murray and Elizabeth Dann and Kavitha Venkatesan and Julie M Sahalie and Kathrin Heinzmann and Anne-Sophie De Smet",
+  "doi": "10.1038/nmeth.1280"
+}, {
+  "year": 2009,
+  "sortdate": "2009-03-17",
+  "title": "Understanding the spreading patterns of mobile phone viruses",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and C\u00e9sar A Hidalgo and Pu Wang",
+  "doi": ""
+}, {
+  "year": 2009,
+  "sortdate": "2009-03-19",
+  "title": "Enhancing the scale-free network's attack tolerance",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Zehui Qu and Pu Wang and Zhiguang Qin",
+  "doi": ""
+}, {
+  "year": 2009,
+  "sortdate": "2009-01-01",
+  "title": "Supporting Online Material for Computational Social Science",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Tony Jebara and David Lazer and Myron Gutmann and Deb Roy and Si0.00 Aral and James Fowler and Gary King and Michael Macy and Lada Adamic and Nicholas Christakis and Alex Sandy Pentland and Marshall Van Alstyne",
+  "doi": ""
+}, {
+  "year": 2009,
+  "sortdate": "2009-01-01",
+  "title": "Human Activity. From the Renaissance to the 21st Century",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Maximilian Schich",
+  "doi": ""
+}, {
+  "year": 2009,
+  "sortdate": "2009-07-24",
+  "title": "Scale-Free Networks: A Decade and Beyond",
+  "ctotal": 971.0,
+  "c10": 971.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1126/science.1173299",
+  "cover":"decade.png"
+}, {
+  "year": 2009,
+  "sortdate": "2009-01-01",
+  "title": "Computational Social Science",
+  "ctotal": 1068.0,
+  "c10": 1068.0,
+  "authors": "Albertlaszlo Barabasi and Tony Jebara and David Lazer and Myron Gutmann and Deb Roy and Si0.00 Aral and James Fowler and Gary King and Michael Macy and Lada Adamic and Nicholas Christakis and Alex Sandy Pentland and Noshir Contractor and Devon Brewer and Marshall Van Alstyne",
+  "doi": "10.1126/science.1167742"
+}, {
+  "year": 2009,
+  "sortdate": "2009-02-06",
+  "title": "Social science. Computational social science.",
+  "ctotal": 192.0,
+  "c10": 192.0,
+  "authors": "Albertlaszlo Barabasi and Tony Jebara and David Lazer and Myron Gutmann and Deb Roy and Si0.00 Aral and James Fowler and Gary King and Michael Macy and Lada Adamic and Nicholas Christakis and Alex Sandy Pentland and Noshir Contractor and Van Alstyne M and Devon Brewer",
+  "doi": "10.1126/science.1167742"
+}, {
+  "year": 2009,
+  "sortdate": "2009-01-01",
+  "title": "Social Group Dynamics in Networks",
+  "ctotal": 33.0,
+  "c10": 33.0,
+  "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Peter Pollner and Gergely Palla",
+  "doi": "10.1007/978-3-642-01284-6_2"
+}, {
+  "year": 2009,
+  "sortdate": "2009-06-15",
+  "title": "Comparative Genome-Scale Metabolic Reconstruction and Flux Balance Analysis of Multiple Staphylococcus aureus Genomes Identify Novel Antimicrobial Drug Targets",
+  "ctotal": 116.0,
+  "c10": 116.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and DS Lee and Eivind Almaas and O Wiest and Vinayak Kapatral and J Liu and Henry Burd",
+  "doi": "10.1128/JB.01743-08"
+}, {
+  "year": 2009,
+  "sortdate": "2009-04-10",
+  "title": "A dynamic network approach for the study of human phenotypes",
+  "ctotal": 301.0,
+  "c10": 301.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Nicholas Blumm and C\u00e9sar A Hidalgo",
+  "doi": "10.1371/journal.pcbi.1000353",
+  "img":"comorbidity.png"
+}, {
+  "year": 2009,
+  "sortdate": "2009-04-07",
+  "title": "The Impact of Cellular Networks on Disease Comorbidity",
+  "ctotal": 155.0,
+  "c10": 155.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and DS Lee and Juyong Park",
+  "doi": "10.1038/msb.2009.16"
+}, {
+  "year": 2009,
+  "sortdate": "2009-01-01",
+  "title": "The impact of cellular networks on disease comorbidity",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and DS Lee and Juyong Park",
+  "doi": ""
+}, {
+  "year": 2009,
+  "sortdate": "2009-07-19",
+  "title": "From networks to human behavior",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1145/1571941.1571943"
+}, {
+  "year": 2010,
+  "sortdate": "2010-03-15",
+  "title": "Localization of social communication",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang",
+  "doi": ""
+}, {
+  "year": 2010,
+  "sortdate": "2010-10-01",
+  "title": "Modelling the scaling properties of human mobility",
+  "ctotal": 497.0,
+  "c10": 497.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Pu Wang and Tal Koren",
+  "doi": "10.1038/nphys1760",
+  "img":"trajectory.png",
+  "cover":"human-mobility.png"
+}, {
+  "year": 2010,
+  "sortdate": "2010-03-15",
+  "title": "Limits of predictability in human mobility",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Nicholas Blumm and Chaoming Song and Zehui Qu",
+  "doi": ""
+}, {
+  "year": 2010,
+  "sortdate": "2010-01-01",
+  "title": "New generation of mobile phone viruses and corresponding countermeasures",
+  "ctotal": 4.0,
+  "c10": 4.0,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and Ronaldo Menezes and Pu Wang",
+  "doi": ""
+}, {
+  "year": 2010,
+  "sortdate": "2010-05-01",
+  "title": "Time to CARE: a collaborative engine for practical disease prediction",
+  "ctotal": 78.0,
+  "c10": 78.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Nitesh V Chawla and Darcy A Davis",
+  "doi": "10.1007/s10618-009-0156-z"
+}, {
+  "year": 2010,
+  "sortdate": "2010-04-29",
+  "title": "Bursts: The Hidden Pattern Behind Everything We Do",
+  "ctotal": 86.0,
+  "c10": 86.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": ""
+}, {
+  "year": 2010,
+  "sortdate": "2010-01-19",
+  "title": "Blueprint for antimicrobial hit discovery targeting metabolic networks",
+  "ctotal": 82.0,
+  "c10": 82.0,
+  "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and O Wiest and DS Lee and Yong-Yeol Ahn and G Estiu and Vinayak Kapatral and B Isin and J Liu and Yun Shen",
+  "doi": "10.1073/pnas.0909181107"
+}, {
+  "year": 2010,
+  "sortdate": "2010-03-15",
+  "title": "Complex Networks: Beyond Topology",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": ""
+}, {
+  "year": 2010,
+  "sortdate": "2010-06-01",
+  "title": "You're so predictable",
+  "ctotal": 5.0,
+  "c10": 5.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1088/2058-7058/23/06/32"
+}, {
+  "year": 2010,
+  "sortdate": "2010-01-01",
+  "title": "Supporting Online Material for Limits of Predictability in Human Mobility",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Blumm and Chaoming Song and Zehui Qu",
+  "doi": ""
+}, {
+  "year": 2010,
+  "sortdate": "2010-03-18",
+  "title": "Viral Disease Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Marc Vidal and Han Yan",
+  "doi": ""
+}, {
+  "year": 2010,
+  "sortdate": "2010-01-01",
+  "title": "Viral Disease Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Marc Vidal and Han Yan",
+  "doi": "10.1016/j.bpj.2009.12.1040"
+}, {
+  "year": 2010,
+  "sortdate": "2010-02-19",
+  "title": "Limits of Predictability in Human Mobility",
+  "ctotal": 1569.0,
+  "c10": 1569.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Blumm and Chaoming Song and Zehui Qu",
+  "doi": "10.1126/science.1177170"
+}, {
+  "year": 2010,
+  "sortdate": "2010-01-01",
+  "title": "Interpretation of genome wide association data for lipoprotein traits using systems biology approach",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Amitabh Sharma and Marju Orho-Melander and Claes Ladenvall and Stefan Lang and S Kathiresan",
+  "doi": "10.1007/s00125-010-1872-z"
+}, {
+  "year": 2010,
+  "sortdate": "2010-06-01",
+  "title": "Arts | Humanities | Complex Networks",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Maximilian Schich and Isabel Meirelles",
+  "doi": "10.1162/leon.2010.43.3.212"
+}, {
+  "year": 2011,
+  "sortdate": "2011-05-12",
+  "title": "Controllability of complex networks",
+  "ctotal": 1376.0,
+  "c10": 1376.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine",
+  "doi": "10.1038/nature10011",
+  "img":"sq-controllability.jpg",
+  "cover":"control-nat.png"
+}, {
+  "year": 2011,
+  "sortdate": "2011-11-01",
+  "title": "Systems biology and the future of medicine",
+  "ctotal": 137.0,
+  "c10": 137.0,
+  "authors": "Albertlaszlo Barabasi and Joseph Loscalzo",
+  "doi": "10.1002/wsbm.144"
+}, {
+  "year": 2011,
+  "sortdate": "2011-04-05",
+  "title": "Geographic constraints on social network groups.",
+  "ctotal": 200.0,
+  "c10": 200.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Samuel Arbesman and Jp Onnela and Marta C Gonz\u00e1lez",
+  "doi": "10.1371/journal.pone.0016939"
+}, {
+  "year": 2011,
+  "sortdate": "2011-09-01",
+  "title": "Ranking stability and super-stable nodes in complex networks",
+  "ctotal": 93.0,
+  "c10": 93.0,
+  "authors": "Albertlaszlo Barabasi and Gourab Ghoshal",
+  "doi": "10.1038/ncomms1396"
+}, {
+  "year": 2011,
+  "sortdate": "2011-01-01",
+  "title": "NETWORK MEDICINE: A NETWORK-BASED APPROACH TO HUMAN DISEASE",
+  "ctotal": 1999.0,
+  "c10": 1999.0,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Joseph Loscalzo",
+  "doi": "10.1038/nrg2918"
+}, {
+  "year": 2011,
+  "sortdate": "2011-12-01",
+  "title": "Flavor network and the principles of food pairing",
+  "ctotal": 170.0,
+  "c10": 170.0,
+  "authors": "Albertlaszlo Barabasi and Yong-Yeol Ahn and Sebastian E Ahnert and James P Bagrow",
+  "doi": "10.1038/srep00196",
+  "img":"sq-flavor.jpg"
+}, {
+  "year": 2011,
+  "sortdate": "2011-03-28",
+  "title": "Information spreading in context",
+  "ctotal": 88.0,
+  "c10": 88.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Zhen Wen and Ching-Yung Lin and Hanghang Tong",
+  "doi": "10.1145/1963405.1963508"
+}, {
+  "year": 2011,
+  "sortdate": "2011-03-30",
+  "title": "Collective Response of Human Populations to Large-Scale Emergencies",
+  "ctotal": 159.0,
+  "c10": 159.0,
+  "authors": "Albertlaszlo Barabasi and Dashun Wang and James P Bagrow",
+  "doi": "10.1371/journal.pone.0017680"
+}, {
+  "year": 2011,
+  "sortdate": "2011-03-01",
+  "title": "Interactome networks and human disease.",
+  "ctotal": 888.0,
+  "c10": 888.0,
+  "authors": "Albertlaszlo Barabasi and Michael E Cusick and Marc Vidal",
+  "doi": "10.1016/j.cell.2011.02.016"
+}, {
+  "year": 2011,
+  "sortdate": "2011-08-01",
+  "title": "Liu et al . reply",
+  "ctotal": 11.0,
+  "c10": 11.0,
+  "authors": "Albertlaszlo Barabasi and Jean-Jacques Slotine and Yizhi Liu",
+  "doi": "10.1038/nature10544"
+}, {
+  "year": 2011,
+  "sortdate": "2011-09-05",
+  "title": "Human dynamics: from human mobility to predictability",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1007/978-3-642-23780-5_2"
+}, {
+  "year": 2011,
+  "sortdate": "2011-02-01",
+  "title": "Comparison of an expanded ataxia interactome with patient medical records reveals a relationship between macular degeneration and ataxia",
+  "ctotal": 33.0,
+  "c10": 33.0,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and David E Hill and Huda Y Zoghbi and Chad A Shaw and Juliette J Kahle and Janghoo Lim",
+  "doi": "10.1093/hmg/ddq496"
+}, {
+  "year": 2011,
+  "sortdate": "2011-03-25",
+  "title": "Flavor network and the principles of food pairing",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Yong-Yeol Ahn and Sebastian E Ahnert and James P Bagrow",
+  "doi": ""
+}, {
+  "year": 2011,
+  "sortdate": "2011-11-22",
+  "title": "Abstract 13395: A Systems-Biology Approach Reveals That MicroRNA-21 Integrates Diverse Pathogenic Signaling to Control Pulmonary Hypertension",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Joseph Loscalzo and Victoria N Parikh and Aaron B Waxman and Stuart H Orkin and Yuko Fujiwara and Stephen Y Chan and Richard C Jin and Sabrina Rabello and Rahamthulla S Shaik and Andrew Hale and Jochen C Hartner",
+  "doi": ""
+}, {
+  "year": 2011,
+  "sortdate": "2011-02-18",
+  "title": "Small But Slow World: How Network Topology and Burstiness Slow Down Spreading",
+  "ctotal": 319.0,
+  "c10": 319.0,
+  "authors": "Albertlaszlo Barabasi and Mikko Kivel\u00e4 and K Kaski and J Kert\u00e9sz and Raj Kumar Pan and M Karsai and Jari Saram\u00e4ki",
+  "doi": "10.1103/PhysRevE.83.025102"
+}, {
+  "year": 2011,
+  "sortdate": "2011-08-21",
+  "title": "Human mobility, social ties, and link prediction",
+  "ctotal": 383.0,
+  "c10": 383.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Dino Pedreschi and Fosca Giannotti",
+  "doi": "10.1145/2020408.2020581"
+}, {
+  "year": 2011,
+  "sortdate": "2011-03-24",
+  "title": "Controllability of Complex Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Jean-Jacques Slotine and Yizhi Liu",
+  "doi": ""
+}, {
+  "year": 2011,
+  "sortdate": "2011-03-25",
+  "title": "A Network Approach to Rare Disease Modeling",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Sabrina Rabello and O Wiest and Susan Dina Ghiassian and Amitabh Sharma",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-03-19",
+  "title": "Network Science: Understanding the Internal Organization of Complex Systems (Invited Talk)",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-03-27",
+  "title": "MicroRNA-21 Integrates Pathogenic Signaling to Control Pulmonary Hypertension Results of a Network Bioinformatics Approach",
+  "ctotal": 134.0,
+  "c10": 134.0,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Joseph Loscalzo and Victoria N Parikh and Aaron B Waxman and Stuart H Orkin and Yuko Fujiwara and Stephen Y Chan and Richard C Jin and Sabrina Rabello and Andrew Hale and Jochen C Hartner and Kathleen J Haley and Bradley A Maron and Katherine A Cottrill and Ying-Yi Zhang and Kevin White and Rahamthulla S Shaik",
+  "doi": "10.1161/CIRCULATIONAHA.111.060269"
+}, {
+  "year": 2012,
+  "sortdate": "2012-12-01",
+  "title": "Sex differences in intimate relationships",
+  "ctotal": 61.0,
+  "c10": 61.0,
+  "authors": "Albertlaszlo Barabasi and K Kaski and J Kert\u00e9sz and Robin IM Dunbar and Vasyl Palchykov",
+  "doi": "10.1038/srep00370"
+}, {
+  "year": 2012,
+  "sortdate": "2012-03-27",
+  "title": "MicroRNA-21 Integrates Pathogenic Signaling to Control Pulmonary HypertensionClinical Perspective: Results of a Network Bioinformatics Approach",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Joseph Loscalzo and Victoria N Parikh and Aaron B Waxman and Stuart H Orkin and Yuko Fujiwara and Stephen Y Chan and Richard C Jin and Sabrina Rabello and Jochen C Hartner and Kathleen J Haley and Bradley A Maron and Katherine A Cottrill and Ying-Yi Zhang and Kevin White and Rahamthulla S Shaik and Andrew Hale",
+  "doi": "10.1161/CIRCULATIONAHA.111.060269"
+}, {
+  "year": 2012,
+  "sortdate": "2012-01-01",
+  "title": "Viral perturbations of host networks reflect disease etiology",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and DS Lee and Natali Gulbahce and Michael E Cusick and Marc Vidal and Danielle Byrdsong and Jennifer Roecklein-Canfield and Orit Rozenblatt-Rosen and James A DeCaprio and John Quackenbush and Amelie Dricot and Nicolas Simonis and David E Hill and Megha Padi and Rachel Franchi and Jarrod A Marto and Michael A Calderwood and Renee Rubio and Amy Baldwin and Pascal Braun and Frederick P Roth and Karl M\u00fcnger and Balaji Santhanam and Karin Hellner and Jessica C Mar and Han Yan and Alyce Chen and Miranda Grace and Elliott Kieff and Bo Zhao and Kyung-Won Huh",
+  "doi": "",
+  "img":"viral-perturbations.png"
+}, {
+  "year": 2012,
+  "sortdate": "2012-03-27",
+  "title": "MicroRNA-21 Integrates Pathogenic Signaling to Control Pulmonary HypertensionClinical Perspective",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Joseph Loscalzo and Victoria N Parikh and Aaron B Waxman and Stuart H Orkin and Yuko Fujiwara and Stephen Y Chan and Richard C Jin and Sabrina Rabello and Jochen C Hartner and Kathleen J Haley and Bradley A Maron and Katherine A Cottrill and Ying-Yi Zhang and Kevin White and Rahamthulla S Shaik and Andrew Hale",
+  "doi": "10.1161/CIRCULATIONAHA.111.060269"
+}, {
+  "year": 2012,
+  "sortdate": "2012-01-01",
+  "title": "Quantifying the dynamics of ranked systems",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Nicholas Blumm",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-07-01",
+  "title": "Interpreting cancer genomes using systematic host network perturbations by tumour virus proteins",
+  "ctotal": 219.0,
+  "c10": 219.0,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Sabrina Rabello and Michael E Cusick and Marc Vidal and Danielle Byrdsong and Jennifer Roecklein-Canfield and Orit Rozenblatt-Rosen and James A DeCaprio and John Quackenbush and Amelie Dricot and David E Hill and Megha Padi and Rachel Franchi and Jarrod A Marto and Renee Rubio and Frederick P Roth and Karl M\u00fcnger and Jessica C Mar and Alyce Chen and Miranda Grace and Elliott Kieff and Tong Hao and Anne-Ruxandra Carvunis and Thomas Rolland and Yun Shen and Changyu Fan and Michael A Calderwood and Scott B Ficarro and Rameen Beroukhim and Guillaume Adelmant and Larisa Litovchick and Jennifer M Spangle and Amy M Holthaus and Eric Johannsen and Mick Correll and Jingwei Cheng and Rahul C Deo and Anna Korkhin and Brijesh K Garg and Maria Tavares and Shelly Wanamaker and Fieda Abderazzaq and James T Webber and Sasha A Singh and Melissa Duarte and Robert James and Samuel J Pevzner and Theodore R Pak and Manor Askenazi and Mariet C Feltkamp and Murat Ta\u015fan",
+  "doi": "10.1038/nature11288"
+}, {
+  "year": 2012,
+  "sortdate": "2012-01-01",
+  "title": "The network takeover",
+  "ctotal": 222.0,
+  "c10": 222.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1038/nphys2188"
+}, {
+  "year": 2012,
+  "sortdate": "2012-02-27",
+  "title": "Control Centrality and Hierarchical Structure in Complex Networks",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-02-28",
+  "title": "Control Capacity in Complex Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine and Tao Jia",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-02-28",
+  "title": "Underlying mechanisms for commuting and migration processes",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Filippo Simini and James P Bagrow",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-09-06",
+  "title": "Connections between Human Dynamics and Network Science",
+  "ctotal": 8.0,
+  "c10": 8.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-10-31",
+  "title": "Publishing: Handful of papers dominates citation",
+  "ctotal": 20.0,
+  "c10": 20.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang",
+  "doi": "10.1038/491040a"
+}, {
+  "year": 2012,
+  "sortdate": "2012-09-01",
+  "title": "Network science: Luck or reason",
+  "ctotal": 57.0,
+  "c10": 57.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1038/nature11486"
+}, {
+  "year": 2012,
+  "sortdate": "2012-01-01",
+  "title": "Supplementary Material 16",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Sabrina Rabello and Michael E Cusick and Marc Vidal and Danielle Byrdsong and Jennifer Roecklein-Canfield and Orit Rozenblatt-Rosen and James A DeCaprio and John Quackenbush and Amelie Dricot and David E Hill and Megha Padi and Rachel Franchi and Jarrod A Marto and Renee Rubio and Frederick P Roth and Karl M\u00fcnger and Jessica C Mar and Alyce Chen and Miranda Grace and Elliott Kieff and Tong Hao and Anne-Ruxandra Carvunis and Thomas Rolland and Yun Shen and Changyu Fan and Michael A Calderwood and Scott B Ficarro and Rameen Beroukhim and Guillaume Adelmant and Larisa Litovchick and Jennifer M Spangle and Amy M Holthaus and Eric Johannsen and Mick Correll and Jingwei Cheng and Rahul C Deo and Anna Korkhin and Brijesh K Garg and Maria Tavares and Shelly Wanamaker and Fieda Abderazzaq and James T Webber and Sasha A Singh and Melissa Duarte and Robert James and Samuel J Pevzner and Theodore R Pak and Manor Askenazi and Mariet C Feltkamp and Murat Ta\u015fan",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-02-27",
+  "title": "Information Spreading in Context",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Zhen Wen and Ching-Yung Lin and Hanghang Tong",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-09-27",
+  "title": "Control Centrality and Hierarchical Structure in Complex Networks",
+  "ctotal": 134.0,
+  "c10": 134.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine",
+  "doi": "10.1371/journal.pone.0044459"
+}, {
+  "year": 2012,
+  "sortdate": "2012-02-27",
+  "title": "Scaling theory of human dynamics and network science",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-01-01",
+  "title": "Joint Scaling Theory of Human Dynamics and Network Science",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-03-27",
+  "title": "MicroRNA-21 Integrates Pathogenic Signaling to Control Pulmonary Hypertension",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Joseph Loscalzo and Victoria N Parikh and Aaron B Waxman and Stuart H Orkin and Yuko Fujiwara and Stephen Y Chan and Richard C Jin and Sabrina Rabello and Andrew Hale and Jochen C Hartner and Kathleen J Haley and Bradley A Maron and Katherine A Cottrill and Ying-Yi Zhang and Kevin White and Rahamthulla S Shaik",
+  "doi": "10.1161/CIRCULATIONAHA.111.060269"
+}, {
+  "year": 2012,
+  "sortdate": "2012-12-01",
+  "title": "Universal features of correlated bursty behaviour",
+  "ctotal": 150.0,
+  "c10": 150.0,
+  "authors": "Albertlaszlo Barabasi and K Kaski and J Kert\u00e9sz and M Karsai",
+  "doi": "10.1038/srep00397"
+}, {
+  "year": 2012,
+  "sortdate": "2012-02-26",
+  "title": "A universal model for mobility and migration patterns",
+  "ctotal": 461.0,
+  "c10": 461.0,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and Filippo Simini and Amos Maritan",
+  "doi": "10.1038/nature10856"
+}, {
+  "year": 2012,
+  "sortdate": "2012-02-28",
+  "title": "Effect of degree correlations on controlability of complex networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and M\u00e1rton P\u00f3sfai and Yizhi Liu and Jean-Jacques Slotine",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-06-28",
+  "title": "Viral perturbations of host networks reflect disease etiology.",
+  "ctotal": 64.0,
+  "c10": 64.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Christakis and DS Lee and Natali Gulbahce and Michael E Cusick and Marc Vidal and Danielle Byrdsong and Jennifer Roecklein-Canfield and Orit Rozenblatt-Rosen and James A DeCaprio and John Quackenbush and Amelie Dricot and Nicolas Simonis and David E Hill and Megha Padi and Rachel Franchi and Jarrod A Marto and Renee Rubio and Amy Baldwin and Pascal Braun and Frederick P Roth and Karl M\u00fcnger and Balaji Santhanam and Karin Hellner and Jessica C Mar and Han Yan and Alyce Chen and Miranda Grace and Elliott Kieff and Bo Zhao and Kyung-Won Huh and Michael A Calderwood",
+  "doi": "10.1371/journal.pcbi.1002531"
+}, {
+  "year": 2012,
+  "sortdate": "2012-09-17",
+  "title": "Dynamics of Ranking Processes in Complex Systems",
+  "ctotal": 33.0,
+  "c10": 33.0,
+  "authors": "Albertlaszlo Barabasi and Nicholas Blumm and Ginestra Bianconi and Gourab Ghoshal and Zal\u00e1n Forr\u00f3 and Maximilian Schich and Jean-Philippe Bouchaud",
+  "doi": "10.1103/PhysRevLett.109.128701"
+}, {
+  "year": 2012,
+  "sortdate": "2012-02-28",
+  "title": "Temporal and spatial regularity of mobile-phone data",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Philipp Hoevel",
+  "doi": ""
+}, {
+  "year": 2012,
+  "sortdate": "2012-01-01",
+  "title": "Supplementary Material 23",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Sabrina Rabello and Michael E Cusick and Marc Vidal and Danielle Byrdsong and Jennifer Roecklein-Canfield and Orit Rozenblatt-Rosen and James A DeCaprio and John Quackenbush and Amelie Dricot and David E Hill and Megha Padi and Rachel Franchi and Jarrod A Marto and Renee Rubio and Frederick P Roth and Karl M\u00fcnger and Jessica C Mar and Alyce Chen and Miranda Grace and Elliott Kieff and Tong Hao and Anne-Ruxandra Carvunis and Thomas Rolland and Yun Shen and Changyu Fan and Michael A Calderwood and Scott B Ficarro and Rameen Beroukhim and Guillaume Adelmant and Larisa Litovchick and Jennifer M Spangle and Amy M Holthaus and Eric Johannsen and Mick Correll and Jingwei Cheng and Rahul C Deo and Anna Korkhin and Brijesh K Garg and Maria Tavares and Shelly Wanamaker and Fieda Abderazzaq and James T Webber and Sasha A Singh and Melissa Duarte and Robert James and Samuel J Pevzner and Theodore R Pak and Manor Askenazi and Mariet C Feltkamp and Murat Ta\u015fan",
+  "doi": ""
+}, {
+  "year": 2013,
+  "sortdate": "2013-01-01",
+  "title": "Supplementary Materials for Quantifying Long-Term Scientific Impact",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang",
+  "doi": ""
+}, {
+  "year": 2013,
+  "sortdate": "2013-10-04",
+  "title": "Quantifying long-term scientific impact.",
+  "ctotal": 281.0,
+  "c10": 281.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang",
+  "doi": "10.1126/science.1237825"
+}, {
+  "year": 2013,
+  "sortdate": "2013-02-12",
+  "title": "Observability of complex systems",
+  "ctotal": 206.0,
+  "c10": 206.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine",
+  "doi": "10.1073/pnas.1215508110",
+  "img":"observability.png",
+  "cover": "pnas.png"
+}, {
+  "year": 2013,
+  "sortdate": "2013-06-01",
+  "title": "Understanding the spread of malicious mobile-phone programs and their damage potential",
+  "ctotal": 3.0,
+  "c10": 3.0,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and Ronaldo Menezes and Pu Wang",
+  "doi": ""
+}, {
+  "year": 2013,
+  "sortdate": "2013-12-01",
+  "title": "Emergence of bimodality in controlling complex networks",
+  "ctotal": 113.0,
+  "c10": 113.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine and M\u00e1rton P\u00f3sfai and Tao Jia and Endre Cs\u00f3ka",
+  "doi": "10.1038/ncomms3002"
+}, {
+  "year": 2013,
+  "sortdate": "2013-11-01",
+  "title": "Erratum: Universality in network dynamics",
+  "ctotal": 6.0,
+  "c10": 6.0,
+  "authors": "Albertlaszlo Barabasi and Baruch Barzel",
+  "doi": "10.1038/nphys2797"
+}, {
+  "year": 2013,
+  "sortdate": "2013-11-01",
+  "title": "Network based analysis of genome wide association data provides novel candidate genes for lipid and lipoprotein traits",
+  "ctotal": 23.0,
+  "c10": 23.0,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Amitabh Sharma and Samuel J Pevzner and Marju Orho-Melander and Claes Ladenvall and Lasse Folkersen and J\u00f6rg Menche and Per Eriksson",
+  "doi": "10.1074/mcp.M112.024851"
+}, {
+  "year": 2013,
+  "sortdate": "2013-01-31",
+  "title": "Computermodelle f\u00fcr das Mobilit\u00e4tsverhalten aus der Sicht von Mobiltelefondaten",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Philipp H\u00f6vel and Filippo Simini",
+  "doi": "10.1515/9783038210399.116"
+}, {
+  "year": 2013,
+  "sortdate": "2013-03-22",
+  "title": "Bimodality in Network Control",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine and M\u00e1rton P\u00f3sfai and Tao Jia",
+  "doi": ""
+}, {
+  "year": 2013,
+  "sortdate": "2013-12-01",
+  "title": "Uncovering the role of elementary processes in network evolution",
+  "ctotal": 19.0,
+  "c10": 19.0,
+  "authors": "Albertlaszlo Barabasi and Gourab Ghoshal and Liping Chi",
+  "doi": "10.1038/srep02920"
+}, {
+  "year": 2013,
+  "sortdate": "2013-10-01",
+  "title": "Universality in network dynamics",
+  "ctotal": 101.0,
+  "c10": 101.0,
+  "authors": "Albertlaszlo Barabasi and Baruch Barzel",
+  "doi": "10.1038/nphys2741"
+}, {
+  "year": 2013,
+  "sortdate": "2013-01-01",
+  "title": "Effect of correlations on network controllability",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine and M\u00e1rton P\u00f3sfai",
+  "doi": ""
+}, {
+  "year": 2013,
+  "sortdate": "2013-01-01",
+  "title": "Graph Theory Properties of Cellular Networks",
+  "ctotal": 3.0,
+  "c10": 3.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Baruch Barzel",
+  "doi": "10.1016/B978-0-12-385944-0.00009-5"
+}, {
+  "year": 2013,
+  "sortdate": "2013-12-01",
+  "title": "Effect of correlations on network controllability",
+  "ctotal": 90.0,
+  "c10": 90.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine and M\u00e1rton P\u00f3sfai",
+  "doi": "10.1038/srep01067"
+}, {
+  "year": 2013,
+  "sortdate": "2013-12-01",
+  "title": "Control Capacity and A Random Sampling Method in Exploring Controllability of Complex Networks",
+  "ctotal": 71.0,
+  "c10": 71.0,
+  "authors": "Albertlaszlo Barabasi and Tao Jia",
+  "doi": "10.1038/srep02354"
+}, {
+  "year": 2013,
+  "sortdate": "2013-08-01",
+  "title": "Network link prediction by global silencing of indirect correlations",
+  "ctotal": 120.0,
+  "c10": 120.0,
+  "authors": "Albertlaszlo Barabasi and Baruch Barzel",
+  "doi": "10.1038/nbt.2601"
+}, {
+  "year": 2013,
+  "sortdate": "2013-10-01",
+  "title": "Understanding the spread of malicious mobile-phone programs and their damage potential",
+  "ctotal": 13.0,
+  "c10": 13.0,
+  "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and Ronaldo Menezes and Pu Wang",
+  "doi": "10.1007/s10207-013-0203-z"
+}, {
+  "year": 2014,
+  "sortdate": "2014-12-01",
+  "title": "Modules, networks and systems medicine for understanding disease and aiding diagnosis",
+  "ctotal": 75.0,
+  "c10": 75.0,
+  "authors": "Albertlaszlo Barabasi and Nikolaus Rajewsky and Sergio Baranzini and Paola Picotti and S\u00f6ren Brunak and Pablo Villoslada and Richard R Meehan and Colm E Nestor and Kenneth GC Smith and Kian Fan Chung and Anne-Claude Gavin and Mikael Benson and Mika Gustafsson and Miguel Angel Pujana and Peter Sterk and Huan Zhang and Howard J Federoff",
+  "doi": "10.1186/s13073-014-0082-6"
+}, {
+  "year": 2014,
+  "sortdate": "2014-11-01",
+  "title": "A proteome-scale map of the human interactome network",
+  "ctotal": 522.0,
+  "c10": 522.0,
+  "authors": "Albertlaszlo Barabasi and Susan Dina Ghiassian and Michael E Cusick and Marc Vidal and Amelie Dricot and David E Hill and Pascal Braun and Frederick P Roth and Tong Hao and J\u00f6rg Menche and Amitabh Sharma and Irma Lemmens and Fana Gebreab and Jan Tavernier and Ryan R Murray and Elizabeth Dann and Julie M Sahalie and Xavier Rambout and Lila Ghamsari and Lilia M Iakoucheva and Elien Ruyssinck and Dan Convery-Zupan and John Rasla and Benoit Charloteaux and Anne-Ruxandra Carvunis and Kerstin Spirohn and Jasmin Coulombe-Huntington and Eric Franzosa and Marc Brehme and Shelly A Trigg and Dawit Balcha and Matija Dreze and Samuel J Pevzner and Thomas Rolland and Andrew MacWilliams and Ruth Kiros and Patrick Aloy and Murat Ta\u015fan and Yu Xia and Matthew M Poulin and Martin P Broly and Roberto Mosca and Bridget E Begg and Roser Corominas and Javier De Las Rivas and Song Yi and Bryan J Gutierrez and Yun Shen and Kerwin Vega and Quan Zhong and Shuli Kang and Alexander O Tejeda and Katja Luck and Changyu Fan and Stanley Tam and Xinping Yang and Nidhi Sahni and Viviana Romero and Madeleine F Hardy and Mike Jin and Jennifer M Walsh and Jean-Claude Twizere and Guan Ning Lin and Michael A Calderwood and Alexandre Palagi and Annemarie Scholz and Atanas Kamburov and Celia Fontanillo and Akash A Shah and Patrick Reichert",
+  "doi": "10.1016/j.cell.2014.10.050"
+}, {
+  "year": 2014,
+  "sortdate": "2014-09-19",
+  "title": "System and Methods for Disease Module Detection",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and J\u00f6rg Menche and Susan Dina Ghiassian",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-01-01",
+  "title": "Supplementary Material 18",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Sabrina Rabello and Michael E Cusick and Marc Vidal and Danielle Byrdsong and Jennifer Roecklein-Canfield and Orit Rozenblatt-Rosen and James A DeCaprio and John Quackenbush and Amelie Dricot and David E Hill and Megha Padi and Rachel Franchi and Jarrod A Marto and Renee Rubio and Frederick P Roth and Karl M\u00fcnger and Jessica C Mar and Alyce Chen and Miranda Grace and Elliott Kieff and Tong Hao and Anne-Ruxandra Carvunis and Thomas Rolland and Yun Shen and Changyu Fan and Michael A Calderwood and Scott B Ficarro and Rameen Beroukhim and Guillaume Adelmant and Larisa Litovchick and Jennifer M Spangle and Amy M Holthaus and Eric Johannsen and Mick Correll and Jingwei Cheng and Rahul C Deo and Anna Korkhin and Brijesh K Garg and Maria Tavares and Shelly Wanamaker and Fieda Abderazzaq and James T Webber and Sasha A Singh and Melissa Duarte and Robert James and Samuel J Pevzner and Theodore R Pak and Manor Askenazi and Mariet C Feltkamp and Murat Ta\u015fan",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-03-07",
+  "title": "Scientific impact: the story of your big hit",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Pierre Deville and Roberta Sinatra",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-09-19",
+  "title": "Syst\u00e8me et proc\u00e9d\u00e9s pour d\u00e9tection d'un module correspondant \u00e0 une maladie",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and J\u00f6rg Menche and Susan Dina Ghiassian",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-01-01",
+  "title": "A diVIsive Shuffling Approach (VIStA) for gene expression analysis to identify subtypes in Chronic Obstructive Pulmonary Disease",
+  "ctotal": 36.0,
+  "c10": 36.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and J\u00f6rg Menche and Ruth Tal-Singer and Stephen I Rennard and Alvar Agusti and Bartolome Celli and Edwin K Silverman and Michael H Cho and John H Riley and Bruce E Miller and Glyn Bradley and Soumitra Ghosh and Ruth J Mayer and Chris Larminie and Nick Locantore",
+  "doi": "10.1186/1752-0509-8-S2-S8"
+}, {
+  "year": 2014,
+  "sortdate": "2014-05-01",
+  "title": "Abstract 649: PARP14 and PARP9 Are Novel Regulators of Macrophage Activation",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Piero Ricchiuto and Alexander Mojcher and Hiroshi Iwata and Daiju Fukuda and Elena Aikawa and Masanori Aikawa and Takuya Hara and Sasha A Singh",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-01-31",
+  "title": "Computational Models of Mobility: A Perspective from Mobile Phone Data",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Philipp H\u00f6vel and Filippo Simini",
+  "doi": "10.1515/9783038213925.110"
+}, {
+  "year": 2014,
+  "sortdate": "2014-07-11",
+  "title": "Response to Comment on \u201cQuantifying long-term scientific impact\u201d",
+  "ctotal": 14.0,
+  "c10": 14.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Hua-Wei Shen",
+  "doi": "10.1126/science.1248961"
+}, {
+  "year": 2014,
+  "sortdate": "2014-03-05",
+  "title": "Stability of Heterogeneous Ecosystem",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Gang Yan",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-03-04",
+  "title": "Network Approach to Disease Diagnosis",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Amir Bashan",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-08-26",
+  "title": "Collective credit allocation in science",
+  "ctotal": 55.0,
+  "c10": 55.0,
+  "authors": "Albertlaszlo Barabasi and Hua-Wei Shen",
+  "doi": "10.1073/pnas.1401992111"
+}, {
+  "year": 2014,
+  "sortdate": "2014-03-04",
+  "title": "Network Medicine: From Cellular Networks to the Human Diseasome",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-08-01",
+  "title": "A network framework of cultural history",
+  "ctotal": 70.0,
+  "c10": 70.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Maximilian Schich and Dirk Helbing and Yong-Yeol Ahn and Alexander Mirsky and Mauro Martino",
+  "doi": "10.1126/science.1240064",
+  "img":"cultural-hist.png"
+}, {
+  "year": 2014,
+  "sortdate": "2014-01-01",
+  "title": "Document S1_Extended Experimental Procedures Rolland et al 2014",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Susan Dina Ghiassian and Michael E Cusick and Marc Vidal and Amelie Dricot and David E Hill and Pascal Braun and Frederick P Roth and Tong Hao and J\u00f6rg Menche and Amitabh Sharma and Irma Lemmens and Fana Gebreab and Jan Tavernier and Ryan R Murray and Elizabeth Dann and Julie M Sahalie and Xavier Rambout and Lila Ghamsari and Lilia M Iakoucheva and Elien Ruyssinck and Dan Convery-Zupan and John Rasla and Benoit Charloteaux and Anne-Ruxandra Carvunis and Kerstin Spirohn and Jasmin Coulombe-Huntington and Eric Franzosa and Marc Brehme and Shelly A Trigg and Dawit Balcha and Matija Dreze and Samuel J Pevzner and Thomas Rolland and Andrew MacWilliams and Ruth Kiros and Patrick Aloy and Murat Ta\u015fan and Yu Xia and Matthew M Poulin and Martin P Broly and Roberto Mosca and Bridget E Begg and Roser Corominas and Javier De Las Rivas and Song Yi and Bryan J Gutierrez and Yun Shen and Kerwin Vega and Quan Zhong and Shuli Kang and Alexander O Tejeda and Katja Luck and Changyu Fan and Stanley Tam and Xinping Yang and Nidhi Sahni and Viviana Romero and Madeleine F Hardy and Mike Jin and Jennifer M Walsh and Jean-Claude Twizere and Guan Ning Lin and Michael A Calderwood and Alexandre Palagi and Annemarie Scholz and Atanas Kamburov and Celia Fontanillo and Akash A Shah and Patrick Reichert",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-12-01",
+  "title": "Human symptoms\u2013disease network",
+  "ctotal": 175.0,
+  "c10": 175.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and J\u00f6rg Menche and Xiaobo Zhou",
+  "doi": "10.1038/ncomms5212"
+}, {
+  "year": 2014,
+  "sortdate": "2014-12-01",
+  "title": "Target control of complex networks",
+  "ctotal": 130.0,
+  "c10": 130.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Raissa M D'Souza and Jianxi Gao",
+  "doi": "10.1038/ncomms6415"
+}, {
+  "year": 2014,
+  "sortdate": "2014-03-07",
+  "title": "Energy Spectrum of Complex Systems Control",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Baruch Barzel and Jean-Jacques Slotine and Georgios Tsekenis",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-03-07",
+  "title": "Targeted Control of Complex Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Raissa M D'Souza and Jianxi Gao",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-03-05",
+  "title": "Network topological analysis reveals the functional cohesiveness for the newly discovered links by Yeast 2 Hybrid approach",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Susan Dina Ghiassian and Thomas Rolland and Marc Vidal and Samuel J Pevzner and Murat Tassan",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-07-27",
+  "title": "Modeling and predicting popularity dynamics via reinforced Poisson processes",
+  "ctotal": 77.0,
+  "c10": 77.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Hua-Wei Shen",
+  "doi": ""
+}, {
+  "year": 2014,
+  "sortdate": "2014-01-01",
+  "title": "Systems Medicine: from molecular features and models to the clinic in COPD",
+  "ctotal": 26.0,
+  "c10": 26.0,
+  "authors": "Albertlaszlo Barabasi and J\u00f6rg Menche and Francesco Marabita and Mercedes Huertas-Miguel\u00e1\u00f1ez and Jesper Tegner and Francesco Falciani and Vitaly Selivanov and David Gomez-Cabrero and Imad Abugessaisa and Narsis A Kiani and Igor Marin de Mas and Peter Wagner and Akos Tenyi and Isaac Cano and Marta Cascante and Kelly Burrowes and Dieter Maier and Josep Roca",
+  "doi": "10.1186/1479-5876-12-S2-S4"
+}, {
+  "year": 2015,
+  "sortdate": "2015-02-20",
+  "title": "Uncovering disease-disease relationships through the incomplete interactome",
+  "ctotal": 357.0,
+  "c10": 357.0,
+  "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Susan Dina Ghiassian and Marc Vidal and J\u00f6rg Menche and Maksim Kitsak and Amitabh Sharma",
+  "doi": "10.1126/science.1257601"
+}, {
+  "year": 2015,
+  "sortdate": "2015-12-01",
+  "title": "Returners and explorers dichotomy in human mobility",
+  "ctotal": 84.0,
+  "c10": 84.0,
+  "authors": "Albertlaszlo Barabasi and Filippo Simini and Dino Pedreschi and Salvatore Rinzivillo and Luca Pappalardo and Fosca Giannotti",
+  "doi": "10.1038/ncomms9166"
+}, {
+  "year": 2015,
+  "sortdate": "2015-10-01",
+  "title": "A century of physics",
+  "ctotal": 45.0,
+  "c10": 45.0,
+  "authors": "Albertlaszlo Barabasi and Dashun Wang and Michael Szell and Pierre Deville and Roberta Sinatra",
+  "doi": "10.1038/nphys3494",
+  "img":"century2.png",
+  "cover":"century.png"
+}, {
+  "year": 2015,
+  "sortdate": "2015-12-01",
+  "title": "Constructing minimal models for complex system dynamics",
+  "ctotal": 23.0,
+  "c10": 23.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Baruch Barzel",
+  "doi": "10.1038/ncomms8186"
+}, {
+  "year": 2015,
+  "sortdate": "2015-08-14",
+  "title": "Fundamental limitations of network reconstruction",
+  "ctotal": 5.0,
+  "c10": 5.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jaime A Moreno and Marco Tulio Angulo",
+  "doi": ""
+}, {
+  "year": 2015,
+  "sortdate": "2015-12-01",
+  "title": "Canonical genetic signatures of the adult human brain",
+  "ctotal": 109.0,
+  "c10": 109.0,
+  "authors": "Albertlaszlo Barabasi and J\u00f6rg Menche and Anil G Jegga and Aaron Szafer and Michael Hawrylycz and Bruce J Aronow and Kenneth A Berman and Tim Dolbeare and Forrest Collman and Donna L Dierker and David R Haynor and Ed Lein and David C Van Essen and Stefan Mihalas and Lydia Ng and Matthew F Glasser and David Feng and Chinh Dang and Jeremy A Miller and Zizhen Yao and Vilas Menon and Allan Jones and Amy Bernard and Christof Koch and John Phillips and Pascal Grange and Angela L Guillozet-Bongaarts and Jay Schulkin and Lance Stewart and Chang-Kyu Lee",
+  "doi": "10.1038/nn.4171"
+}, {
+  "year": 2015,
+  "sortdate": "2015-06-01",
+  "title": "A disease module in the interactome explains disease heterogeneity, drug response and captures novel pathways and genes in asthma",
+  "ctotal": 55.0,
+  "c10": 55.0,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Susan Dina Ghiassian and Marc Vidal and J\u00f6rg Menche and Maksim Kitsak and Amitabh Sharma and Nidhi Sahni and Edwin K Silverman and Kelan G Tantisira and Tatiana Ort and Joel Tocker and Benjamin A Raby and Derek Thibault and Weiliang Qiu and Xiaobo Zhou and Radu Dobrin and Scott T Weiss and Elliot Barnathan and Hao Liu and Reynold A Panettieri Jr and Linh Voung and Fr\u00e9d\u00e9ric Baribaud and Feng Guo and C Chris Huang",
+  "doi": "10.1093/hmg/ddv001"
+}, {
+  "year": 2015,
+  "sortdate": "2015-01-01",
+  "title": "Control principles of metabolic networks",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Abdelhalim Larhlimi and Yizhi Liu and Georg Basler and Zoran Nikoloski",
+  "doi": ""
+}, {
+  "year": 2015,
+  "sortdate": "2015-04-01",
+  "title": "Response to Letter of Correspondence - Bastiaens et al.",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Baruch Barzel",
+  "doi": "10.1038/nbt.3184"
+}, {
+  "year": 2015,
+  "sortdate": "2015-05-01",
+  "title": "Quantifying Information Flow During Emergencies",
+  "ctotal": 30.0,
+  "c10": 30.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and James P Bagrow and Ziyou Gao and Liang Gao",
+  "doi": "10.1038/srep03997"
+}, {
+  "year": 2015,
+  "sortdate": "2015-05-01",
+  "title": "A genetic epidemiology approach to cyber-security",
+  "ctotal": 16.0,
+  "c10": 16.0,
+  "authors": "Albertlaszlo Barabasi and Alexander Kott and Santiago Gil",
+  "doi": "10.1038/srep05659"
+}, {
+  "year": 2015,
+  "sortdate": "2015-05-01",
+  "title": "Career on the Move: Geography, Stratification, and Scientific Impact",
+  "ctotal": 47.0,
+  "c10": 47.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Vincent D Blondel and Pierre Deville and Roberta Sinatra",
+  "doi": "10.1038/srep04770"
+}, {
+  "year": 2015,
+  "sortdate": "2015-12-01",
+  "title": "A systems biology approach to cGMP suggests a prominent role for sGC in stroke: Validation by mechanism-based activation of apo-sGC in non-steal dosing coveys neuroprotection and increased survival",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Pamela WM Kleikers and Friederike Langhauser and Manuela Garc\u00eda L\u00f3pez and Harald HHW Schmidt and Emre Guney and Ana I Casas and Vu Thao-Vi Dao and Christoph Kleinschnitz and J\u00f6rg Menche",
+  "doi": "10.1186/2050-6511-16-S1-A39"
+}, {
+  "year": 2015,
+  "sortdate": "2015-04-08",
+  "title": "A DIseAse MOdule Detection (DIAMOnD) Algorithm Derived from a Systematic Analysis of Connectivity Patterns of Disease Proteins in the Human Interactome",
+  "ctotal": 72.0,
+  "c10": 72.0,
+  "authors": "Albertlaszlo Barabasi and Susan Dina Ghiassian and J\u00f6rg Menche",
+  "doi": "10.1371/journal.pcbi.1004120"
+}, {
+  "year": 2015,
+  "sortdate": "2015-09-01",
+  "title": "Spectrum of controlling and observing complex networks",
+  "ctotal": 93.0,
+  "c10": 93.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Baruch Barzel and Jean-Jacques Slotine and Gang Yan and Georgios Tsekenis",
+  "doi": "10.1038/nphys3422"
+}, {
+  "year": 2015,
+  "sortdate": "2015-08-01",
+  "title": "Network science: Destruction perfected",
+  "ctotal": 14.0,
+  "c10": 14.0,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n A Kov\u00e1cs",
+  "doi": "10.1038/524038a"
+}, {
+  "year": 2015,
+  "sortdate": "2015-04-01",
+  "title": "Widespread Macromolecular Interaction Perturbations in Human Genetic Disorders",
+  "ctotal": 176.0,
+  "c10": 176.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Michael E Cusick and Marc Vidal and Amelie Dricot and David E Hill and Frederick P Roth and Tong Hao and Benoit Charloteaux and Jasmin Coulombe-Huntington and Dawit Balcha and Yu Xia and Song Yi and Yun Shen and Quan Zhong and Changyu Fan and Xinping Yang and Nidhi Sahni and Jennifer M Walsh and Michael A Calderwood and Alexandre Palagi and Atanas Kamburov and Akash A Shah and Kourosh Salehi-Ashtiani and Irina Krykbaeva and Albertha JM Walhout and Shamil Sunyaev and Georgios I Karras and Luke J Whitesell and Mikko Taipale and Yves Jacob and Vikram Khurana and Jian Peng and Adriana San-Miguel and Mandy H Y Lam and Susan Lindquist and Daniel M Jordan and Alex Leighton and Bonnie Berger and Ani K Stoyanova and Istv\u00e1n A Kov\u00e1cs and Yang Wang and Yizhi Liu and Juan I Fuxman Bass and Fan Yang and Jochen Weile and Nozomu Yachie and George Tucker",
+  "doi": "10.1016/j.cell.2015.04.013"
+}, {
+  "year": 2015,
+  "sortdate": "2015-01-01",
+  "title": "Supplementary Material 12",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Sabrina Rabello and Michael E Cusick and Marc Vidal and Danielle Byrdsong and Jennifer Roecklein-Canfield and Orit Rozenblatt-Rosen and James A DeCaprio and John Quackenbush and Amelie Dricot and David E Hill and Megha Padi and Rachel Franchi and Jarrod A Marto and Renee Rubio and Frederick P Roth and Karl M\u00fcnger and Jessica C Mar and Alyce Chen and Miranda Grace and Elliott Kieff and Tong Hao and Anne-Ruxandra Carvunis and Thomas Rolland and Yun Shen and Changyu Fan and Michael A Calderwood and Scott B Ficarro and Rameen Beroukhim and Guillaume Adelmant and Larisa Litovchick and Jennifer M Spangle and Amy M Holthaus and Eric Johannsen and Mick Correll and Jingwei Cheng and Rahul C Deo and Anna Korkhin and Brijesh K Garg and Maria Tavares and Shelly Wanamaker and Fieda Abderazzaq and James T Webber and Sasha A Singh and Melissa Duarte and Robert James and Samuel J Pevzner and Theodore R Pak and Manor Askenazi and Mariet C Feltkamp and Murat Ta\u015fan",
+  "doi": ""
+}, {
+  "year": 2016,
+  "sortdate": "2016-12-01",
+  "title": "Network-based in silico drug efficacy screening",
+  "ctotal": 83.0,
+  "c10": 83.0,
+  "authors": "Albertlaszlo Barabasi and Marc Vidal and Emre Guney and J\u00f6rg Menche",
+  "doi": "10.1038/ncomms10331"
+}, {
+  "year": 2016,
+  "sortdate": "2016-09-26",
+  "title": "Controllability of multiplex, multi-time-scale networks",
+  "ctotal": 16.0,
+  "c10": 16.0,
+  "authors": "Albertlaszlo Barabasi and M\u00e1rton P\u00f3sfai and Raissa M D'Souza and Jianxi Gao and Sean P Cornelius",
+  "doi": "10.1103/PhysRevE.94.032316"
+}, {
+  "year": 2016,
+  "sortdate": "2016-01-01",
+  "title": "Sensitivity of Complex Networks.",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Marco Tulio Angulo and Gabor Lippner",
+  "doi": ""
+}, {
+  "year": 2016,
+  "sortdate": "2016-07-01",
+  "title": "Endophenotype Network Models: Common Core of Complex Diseases",
+  "ctotal": 28.0,
+  "c10": 28.0,
+  "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Susan Dina Ghiassian and J\u00f6rg Menche and Amitabh Sharma and Piero Ricchiuto and Hiroshi Iwata and Masanori Aikawa and Sasha A Singh and Paul M Ridker and Daniel I Chasman and Stefan Blankenberg and Ruisheng Wang and Christian M\u00fcller and Franco Giulianini and Karl Lackner and Tania Zeller and Philipp Wild",
+  "doi": "10.1038/srep27414"
+}, {
+  "year": 2016,
+  "sortdate": "2016-04-01",
+  "title": "An inter-species protein-protein interaction network across vast evolutionary distance",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Michael E Cusick and Marc Vidal and Amelie Dricot and David E Hill and Michael A Calderwood and Frederick P Roth and Balaji Santhanam and Tong Hao and J\u00f6rg Menche and Fana Gebreab and Ryan R Murray and Lila Ghamsari and Benoit Charloteaux and Samuel J Pevzner and Thomas Rolland and Andrew MacWilliams and Patrick Aloy and Murat Ta\u015fan and Yu Xia and Roberto Mosca and Quan Zhong and Changyu Fan and Stanley Tam and Xinping Yang and Patrick Reichert and Mikko Taipale and Susan Lindquist and Yang Wang and Patrick Haley and Flora Mer",
+  "doi": ""
+}, {
+  "year": 2016,
+  "sortdate": "2016-03-18",
+  "title": "Untangling Performance from Success",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Burcu Yucesoy",
+  "doi": "",
+  "img":"tennis.png"
+}, {
+  "year": 2016,
+  "sortdate": "2016-04-11",
+  "title": "The Network Behind the Cosmic Web",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Mark Vogelsberger and Paul Torrey and Sungryong Hong and Arjun Dey and Bruno C Coutinho and Lars Hernquist and Kim Albrecht",
+  "doi": "",
+  "img":"cosmic-web.png"
+}, {
+  "year": 2016,
+  "sortdate": "2016-05-03",
+  "title": "Controllability analysis of the directed human protein interaction network identifies disease genes and drug targets",
+  "ctotal": 62.0,
+  "c10": 62.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Yizhi Liu and Arunachalam Vinayagam and Norbert Perrimon and Charles Roesel and Yanhui Hu and Bahar Yilmazel and Ho-Joon Lee and Travis E Gibson and Young Kwon",
+  "doi": "10.1073/pnas.1603992113"
+}, {
+  "year": 2016,
+  "sortdate": "2016-02-17",
+  "title": "Universal resilience patterns in complex networks",
+  "ctotal": 199.0,
+  "c10": 199.0,
+  "authors": "Albertlaszlo Barabasi and Baruch Barzel and Jianxi Gao",
+  "doi": "10.1038/nature16948",
+  "img":"net-earth.png"
+}, {
+  "year": 2016,
+  "sortdate": "2016-06-28",
+  "title": "Scaling identity connects human mobility and social interactions",
+  "ctotal": 25.0,
+  "c10": 25.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Vincent D Blondel and Pierre Deville and Nathan Eagle",
+  "doi": "10.1073/pnas.1525443113"
+}, {
+  "year": 2016,
+  "sortdate": "2016-09-06",
+  "title": "Control Principles of Complex Networks",
+  "ctotal": 104.0,
+  "c10": 104.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu",
+  "doi": "10.1103/RevModPhys.88.035006"
+}, {
+  "year": 2016,
+  "sortdate": "2016-11-04",
+  "title": "Quantifying the evolution of individual scientific impact",
+  "ctotal": 94.0,
+  "c10": 94.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Pierre Deville and Roberta Sinatra",
+  "doi": "10.1126/science.aaf5239",
+  "img":"sq-success.png"
+}, {
+  "year": 2016,
+  "sortdate": "2016-12-01",
+  "title": "Untangling performance from success",
+  "ctotal": 12.0,
+  "c10": 12.0,
+  "authors": "Albertlaszlo Barabasi and Burcu Yucesoy",
+  "doi": "10.1140/epjds/s13688-016-0079-z"
+}, {
+  "year": 2016,
+  "sortdate": "2016-07-01",
+  "title": "Control of fluxes in metabolic networks",
+  "ctotal": 14.0,
+  "c10": 14.0,
+  "authors": "Albertlaszlo Barabasi and Abdelhalim Larhlimi and Yizhi Liu and Georg Basler and Zoran Nikoloski",
+  "doi": "10.1101/gr.202648.115",
+  "cover":"genome-research.png"
+}, {
+  "year": 2016,
+  "sortdate": "2016-11-01",
+  "title": "From comorbidities of chronic obstructive pulmonary disease to identification of shared molecular mechanisms by data integration",
+  "ctotal": 11.0,
+  "c10": 11.0,
+  "authors": "Albertlaszlo Barabasi and J\u00f6rg Menche and Jesper Tegner and David Gomez-Cabrero and Isaac Cano and Dieter Maier and Josep Roca and Claudia Vargas",
+  "doi": "10.1186/s12859-016-1291-3"
+}, {
+  "year": 2016,
+  "sortdate": "2016-08-01",
+  "title": "Erratum: Universal resilience patterns in complex networks",
+  "ctotal": 23.0,
+  "c10": 23.0,
+  "authors": "Albertlaszlo Barabasi and Baruch Barzel and Jianxi Gao",
+  "doi": "10.1038/nature18019"
+}, {
+  "year": 2016,
+  "sortdate": "2016-12-01",
+  "title": "PARP9 and PARP14 cross-regulate macrophage activation via STAT1 ADP-ribosylation.",
+  "ctotal": 24.0,
+  "c10": 24.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Piero Ricchiuto and Hiroshi Iwata and Daiju Fukuda and Elena Aikawa and Masanori Aikawa and Takuya Hara and Sasha A Singh and Arda Halu and Mark Boothby and Claudia Goettsch and Noriyuki Inoue and Wilson Wen Bin Goh and Iwao Yamada and Peter C Mattson and Mei Wei and Alexander Mojcher and Hideo Yoshida",
+  "doi": "10.1038/ncomms12849"
+}, {
+  "year": 2016,
+  "sortdate": "2016-11-10",
+  "title": "Methods and systems for profiling personalized biomarker expression perturbations",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and J\u00f6rg Menche",
+  "doi": ""
+}, {
+  "year": 2016,
+  "sortdate": "2016-12-01",
+  "title": "Tissue Specificity of Human Disease Module",
+  "ctotal": 26.0,
+  "c10": 26.0,
+  "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Susan Dina Ghiassian and Emre Guney and J\u00f6rg Menche and Maksim Kitsak and Amitabh Sharma",
+  "doi": "10.1038/srep35241"
+}, {
+  "year": 2017,
+  "sortdate": "2017-05-12",
+  "title": "Academia under fire in Hungary",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1126/science.aan5395"
+}, {
+  "year": 2017,
+  "sortdate": "2017-12-01",
+  "title": "Trade-offs between driving nodes and time-to-control in complex networks",
+  "ctotal": 6.0,
+  "c10": 6.0,
+  "authors": "Albertlaszlo Barabasi and S\u00e9rgio Pequito and George J Pappas and Victor M Preciado",
+  "doi": "10.1038/srep39978"
+}, {
+  "year": 2017,
+  "sortdate": "2017-06-01",
+  "title": "Epigenomic and transcriptomic approaches in the post-genomic era: path to novel targets for diagnosis and therapy of the ischaemic heart? Position Paper of the European Society of Cardiology Working Group on Cellular Biology of the Heart",
+  "ctotal": 37.0,
+  "c10": 37.0,
+  "authors": "Albertlaszlo Barabasi and P\u00e9ter Ferdi0.00dy and Linda Wilhelmina Van Laake and Derek John Hausenloy and Leon De Windt and Fabrice Prunier and Stefanie Dimmeler and Thomas Thum and Gianluigi Condorelli and Jonathan Leor and Sean Michael Davidson and Sandrine Lecour and Manuel Mayr and Joseph Addison Hill and Rosalinda Madonna and Cinzia Perrino and Rainer Schulz and Kirsti Ytrehus and Felix Benedikt Engel and Joost Petrus Geradus Sluijter",
+  "doi": "10.1093/cvr/cvx070"
+}, {
+  "year": 2017,
+  "sortdate": "2017-10-19",
+  "title": "Recordings of Caenorhabditis elegans locomotor behaviour following targeted ablation of single motorneurons",
+  "ctotal": 4.0,
+  "c10": 4.0,
+  "authors": "Albertlaszlo Barabasi and Gang Yan and Petra E V\u00e9rtes and William R Schafer and Denise S Walker and Yee Lian Chew and Emma K Towlson",
+  "doi": "10.1038/sdata.2017.156"
+}, {
+  "year": 2017,
+  "sortdate": "2017-01-30",
+  "title": "Supplementary material from \"Fundamental limitations of network reconstruction from temporal data\"",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Jaime A Moreno and Marco Tulio Angulo and Yizhi Liu and Gabor Lippner",
+  "doi": "10.6084/m9.figshare.c.3672004.v2"
+}, {
+  "year": 2017,
+  "sortdate": "2017-11-24",
+  "title": "The fundamental advantages of temporal networks",
+  "ctotal": 62.0,
+  "c10": 62.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Sean P Cornelius and Long Wang and Aming Li",
+  "doi": "10.1126/science.aai7488"
+}, {
+  "year": 2017,
+  "sortdate": "2017-03-16",
+  "title": "A Universal Phase in minimal 3D embedding of Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Nima Dehmamy and Soodabeh Milanlouei",
+  "doi": ""
+}, {
+  "year": 2017,
+  "sortdate": "2017-01-01",
+  "title": "Human Perception of Performance.",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Dino Pedreschi and Fosca Giannotti and Luca Pappalardo and Paolo Cintia",
+  "doi": ""
+}, {
+  "year": 2017,
+  "sortdate": "2017-02-01",
+  "title": "Fundamental limitations of network reconstruction from temporal data",
+  "ctotal": 15.0,
+  "c10": 15.0,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jaime A Moreno and Marco Tulio Angulo and Gabor Lippner",
+  "doi": "10.1098/rsif.2016.0966"
+}, {
+  "year": 2017,
+  "sortdate": "2017-07-14",
+  "title": "The elegant law that governs us all",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi",
+  "doi": "10.1126/science.aan4040"
+}, {
+  "year": 2017,
+  "sortdate": "2017-12-31",
+  "title": "2. Introduction to Network Analysis",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and J\u00f6rg Menche",
+  "doi": "10.4159/9780674545533-003"
+}, {
+  "year": 2017,
+  "sortdate": "2017-10-01",
+  "title": "Network control principles predict neuron function in the Caenorhabditis elegans connectome",
+  "ctotal": 57.0,
+  "c10": 57.0,
+  "authors": "Albertlaszlo Barabasi and Gang Yan and Petra E V\u00e9rtes and William R Schafer and Denise S Walker and Yee Lian Chew and Emma K Towlson",
+  "doi": "10.1038/nature24056"
+}, {
+  "year": 2017,
+  "sortdate": "2017-03-15",
+  "title": "Resilience of Complex Networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Baruch Barzel and Jianxi Gao",
+  "doi": ""
+}, {
+  "year": 2017,
+  "sortdate": "2017-12-18",
+  "title": "Control energy scaling in temporal networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Yizhi Liu and Sean P Cornelius and Aming Li and Long Wang",
+  "doi": ""
+}, {
+  "year": 2017,
+  "sortdate": "2017-12-01",
+  "title": "Corrigendum: Trade-offs between driving nodes and time-to-control in complex networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and S\u00e9rgio Pequito and George J Pappas and Victor M Preciado",
+  "doi": "10.1038/srep43194"
+}, {
+  "year": 2017,
+  "sortdate": "2017-12-01",
+  "title": "Integrating personalized gene expression profiles into predictive disease-associated gene pools",
+  "ctotal": 9.0,
+  "c10": 9.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and J\u00f6rg Menche and Radu Dobrin and Fr\u00e9d\u00e9ric Baribaud and Matthew J Loza and Patrick J Branigan and Emre Guney",
+  "doi": "10.1038/s41540-017-0009-0"
+}, {
+  "year": 2017,
+  "sortdate": "2017-12-01",
+  "title": "Identifying and modeling the structural discontinuities of human interactions",
+  "ctotal": 11.0,
+  "c10": 11.0,
+  "authors": "Albertlaszlo Barabasi and Sebastian Grauwin and Zbigniew Smoreda and Philipp H\u00f6vel and Stanislav Sobolevsky and Filippo Simini and Carlo Ratti and Michael Szell and Maarten Vanhoof",
+  "doi": "10.1038/srep46677"
+}, {
+  "year": 2018,
+  "sortdate": "2018-12-01",
+  "title": "Network-based approach to prediction and population-based validation of in silico drug repurposing",
+  "ctotal": 13.0,
+  "c10": 13.0,
+  "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Ruisheng Wang and Diane E Handy and Rishi J Desai and Sebastian Schneeweiss and Feixiong Cheng",
+  "doi": "10.1038/s41467-018-05116-5"
+}, {
+  "year": 2018,
+  "sortdate": "2018-07-03",
+  "title": "Predicting perturbation patterns from the topology of biological networks",
+  "ctotal": 6.0,
+  "c10": 6.0,
+  "authors": "Albertlaszlo Barabasi and Marc Santolini",
+  "doi": "10.1073/pnas.1720589115"
+}, {
+  "year": 2018,
+  "sortdate": "2018-11-13",
+  "title": "Functional structures of US state governments",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Ricardo Hausmann and Kim Albrecht and Stephen Kosack and Michele Coscia and Evann Smith",
+  "doi": "10.1073/pnas.1803228115",
+  "img":"government.png"
+}, {
+  "year": 2018,
+  "sortdate": "2018-12-01",
+  "title": "Success in books: a big data approach to bestsellers",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Burcu Yucesoy and Junming Huang and Xindi Wang",
+  "doi": "10.1140/epjds/s13688-018-0135-y",
+  "img":"books.png"
+}, {
+  "year": 2018,
+  "sortdate": "2018-06-26",
+  "title": "Topological Phase Transitions in Spatial Networks",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Chaoming Song and Paul Balister and Bela Bollobas and Oliver Riordan",
+  "doi": ""
+}, {
+  "year": 2018,
+  "sortdate": "2018-12-01",
+  "title": "Controllability in an islet specific regulatory network identifies the transcriptional factor NFATC4, which regulates Type 2 Diabetes associated genes",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Amitabh Sharma and Marc Vidal and Megha Padi and J\u00f6rg Menche and Yizhi Liu and Edwin K Silverman and Scott T Weiss and Masanori Aikawa and Arda Halu and Julius L Decano and Joao Fadista and Rashmi B Prasad and Leif Groop and Marc Santolini",
+  "doi": "10.1038/s41540-018-0057-0"
+}, {
+  "year": 2018,
+  "sortdate": "2018-11-16",
+  "title": "Quantifying reputation and success in art",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Roberta Sinatra and Christoph Riedl and Samuel P Fraiberger and Magnus Resch",
+  "doi": "10.1126/science.aau7224",
+  "img":"art.png"
+}, {
+  "year": 2018,
+  "sortdate": "2018-12-11",
+  "title": "The chaperone effect in scientific publishing",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Pierre Deville and Roberta Sinatra and Sebastian E Ahnert and Vedran Sekara and Sune Lehmann",
+  "doi": "10.1073/pnas.1800471115"
+}, {
+  "year": 2018,
+  "sortdate": "2018-03-02",
+  "title": "Science of science",
+  "ctotal": 45.0,
+  "c10": 45.0,
+  "authors": "Albertlaszlo Barabasi and Dashun Wang and Alessandro Vespig0.00i and Dirk Helbing and Roberta Sinatra and Filippo Radicchi and Sta\u0161a Milojevi\u0107 and Brian Uzzi and Alexander M Petersen and Santo Fortunato and James A Evans and Carl T Bergstrom and Ludo Waltman and Katy B\u00f6rner",
+  "doi": "10.1126/science.aao0185"
+}, {
+  "year": 2018,
+  "sortdate": "2018-11-01",
+  "title": "A structural transition in physical networks",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Nima Dehmamy and Soodabeh Milanlouei",
+  "doi": "10.1038/s41586-018-0726-6",
+  "img":"orange.png",
+  "cover":"structural-transition.png"
+}, {
+  "year": 2018,
+  "sortdate": "2018-10-19",
+  "title": "Caenorhabditis elegans and the network control framework-FAQs.",
+  "ctotal": 4.0,
+  "c10": 4.0,
+  "authors": "Albertlaszlo Barabasi and Gang Yan and Petra E V\u00e9rtes and William R Schafer and Denise S Walker and Yee Lian Chew and Emma K Towlson",
+  "doi": "10.1098/rstb.2017.0372"
+}, {
+  "year": 2019,
+  "sortdate": "2019-03-04",
+  "title": "Discovering the genes mediating the interactions between chronic respiratory diseases in the human interactome",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Benjamin A Raby and Scott T Weiss and Enrico Maiorino",
+  "doi": ""
+}, {
+  "year": 2019,
+  "sortdate": "2019-01-02",
+  "title": "Uremic Toxin Indoxyl Sulfate Promotes Proinflammatory Macrophage Activation Via the Interplay of OATP2B1 and Dll4-Notch Signaling",
+  "ctotal": 2.0,
+  "c10": 2.0,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Elena Aikawa and Masanori Aikawa and Sasha A Singh and Arda Halu and Julius L Decano and Jon C Aster and Lang Ho Lee and Daniel G Anderson and Kevin J Kauffman and Takehiro Suzuki and Hideyuki Higashi and Toshiaki Nakano and Takashi Maejima and Mingxian Chen and Mario S Boff and Angelo S T Kum and Whitney S Golden and Diego V S Pestana and Rodrigo K Kuromoto and Gabriel C Guimaraes and Shunsuke Katsuki and Hiroshi Iwata",
+  "doi": "10.1161/CIRCULATIONAHA.118.034588"
+}, {
+  "year": 2019,
+  "sortdate": "2019-03-13",
+  "title": "Network-based prediction of drug combinations",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Istv\u00e1n A Kov\u00e1cs and Feixiong Cheng",
+  "doi": "10.1038/s41467-019-09186-x"
+}, {
+  "year": 2019,
+  "sortdate": "2019-01-01",
+  "title": "Taking census of physics",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Dashun Wang and Michael Szell and Roberta Sinatra and Federico Battiston and Federico Musciotto",
+  "doi": "10.1038/s42254-018-0005-3"
+}, {
+  "year": 2019,
+  "sortdate": "2019-01-01",
+  "title": "The universal decay of collective memory and attention",
+  "ctotal": 6.0,
+  "c10": 6.0,
+  "authors": "Albertlaszlo Barabasi and C\u00e9sar A Hidalgo and Carlos Rodriguezsickert and Cristian Jarafigueroa and Cristian Candia",
+  "doi": "10.1038/s41562-018-0474-5"
+}, {
+  "year": 2019,
+  "sortdate": "2019-03-18",
+  "title": "Network-based prediction of protein interactions",
+  "ctotal": 1.0,
+  "c10": 1.0,
+  "authors": "Albertlaszlo Barabasi and Marc Vidal and Tong Hao and Kerstin Spirohn and Katja Luck and Michael A Calderwood and Istv\u00e1n A Kov\u00e1cs and Yang Wang and Sadie Schlabach and Nishka Kishore and Wenting Bian and Carl Pollis and Daekyum Kim",
+  "doi": "10.1038/s41467-019-09177-y"
+}, {
+  "year": 2019,
+  "sortdate": "2019-01-02",
+  "title": "Uremic Toxin Indoxyl Sulfate Promotes Proinflammatory Macrophage Activation Via the Interplay of OATP2B1 and Dll4-Notch Signaling: Potential Mechanism for Accelerated Atherogenesis in Chronic Kidney Disease",
+  "ctotal": 0.0,
+  "c10": 0.00,
+  "authors": "Albertlaszlo Barabasi and Amitabh Sharma and Hiroshi Iwata and Elena Aikawa and Masanori Aikawa and Sasha A Singh and Arda Halu and Julius L Decano and Jon C Aster and Lang Ho Lee and Daniel G Anderson and Kevin J Kauffman and Takehiro Suzuki and Hideyuki Higashi and Toshiaki Nakano and Takashi Maejima and Shunsuke Katsuki and Gabriel C Guimaraes and Rodrigo K Kuromoto and Mario S Boff and Mingxian Chen and Diego V S Pestana and Whitney S Golden and Angelo S T Kum",
+  "doi": "10.1161/circulationaha.118.034588"
+}, {
+  "year": 2019,
+  "title": "Success in books: predicting book sales before publication",
+  "sortdate": "2019-10-12",
+  "authors": "Xindi Wang and Burcu Yucesoy and Onur Varol and Tina Eliassirad and Albertlaszlo Barabasi",
+  "ctotal": 0,
+  "c10": 0,
+  "doi": "10.1140/epjds/s13688-019-0208-6"
+}, {
+  "year": 2019,
+  "title": "Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology ",
+  "sortdate": "2019-12-08",
+  "authors": "Nima Dehmamy and Albertlaszlo Barabasi and Rose Yu",
+  "ctotal": 7,
+  "c10": 7,
+  "doi": ""
+}, {
+  "year": 2019,
+  "title": "Nature's reach: narrow work has broad impact",
+  "sortdate": "2019-11-06",
+  "authors": "Alexander J Gates and Qing Ke and Onur Varol and Albertlaszlo Barabasi",
+  "ctotal": 4,
+  "c10": 4,
+  "doi": "10.1038/d41586-019-03308-7"
+}, {
+  "year": 2020,
+  "title": "The unmapped chemical complexity of our diet",
+  "sortdate": "2020-01-21",
+  "authors": "Albertlaszlo Barabasi and Giulia Menichetti and Joseph Loscalzo",
+  "ctotal": 1,
+  "c10": 1,
+  "doi": "10.1038/s43016-019-0005-1"
+}, {
+  "year": 2020,
+  "title": "The exposome and health: Where chemistry meets biology ",
+  "sortdate": "2020-01-24",
+  "authors": "Roel Vermeulen and Emma L Schymanski and Albertlaszlo Barabasi and Gary W Miller",
+  "ctotal": 0,
+  "c10": 0,
+  "doi": "10.1126/science.aay3164"
+}, {
+  "year": 2020,
+  "title": "A Genetic Model of the Connectome ",
+  "sortdate": "2020-02-05",
+  "authors": "Daniel L Barabasi and Albertlaszlo Barabasi",
+  "ctotal": 0,
+  "c10": 0,
+  "doi": " 10.1016/j.neuron.2019.10.031 "
+}, {
+  "year": 2020,
+  "title": "Synthetic ablations in the C. elegans nervous system",
+  "sortdate": "2020-03-02",
+  "authors": "Emma K Towlson and Albertlaszlo Barabasi",
+  "ctotal": 0,
+  "c10": 0,
+  "doi": "doi.org/10.1162/netn_a_00115"
+}, {
+  "year": 2020,
+  "title": " Historical comparison of gender inequality in scientific careers across countries and disciplines",
+  "sortdate": "2020-03-03",
+  "authors": "Junming Huang and Alexander J Gates and Roberta Sinatra and Albertlaszlo Barabasi",
+  "ctotal": 4,
+  "c10": 4,
+  "doi": "10.1073/pnas.1914221117"
+},
+{
+  "year": 2019,
+  "title": "Nature’s reach: narrow work has broad impact",
+  "sortdate": "2019-11-06",
+  "authors": "Alexander J Gates and Onur Varol and Qing Ke and Alice Grishchenko and Albertlaszlo Barabasi",
+  "ctotal": 4,
+  "c10": 4,
+  "doi": "",
+  "img":"n150.png",
+  "cover":"nat150.png"
+},
+{
+  "year": 2018,
+  "title": "Wonder Net - Physicality of Networks",
+  "sortdate": "2018-08-01",
+  "authors": "Mauro Martino and Alice Grishchenko and Nima Dehmamy and Hendrik Strobelt and Albertlaszlo Barabasi",
+  "ctotal": 0,
+  "c10": 0.00,
+  "doi": "",
+  "img":"wondernet.png"
+},
+{
+  "year": 2019,
+  "title": "AI Sculptures",
+  "sortdate": "2019-01-01",
+  "authors": "Mauro Martino and Nima Dehmamy and Albertlaszlo Barabasi",
+  "ctotal": 0,
+  "c10": 0.00,
+  "doi": "",
+  "img":"ai-sculptures.png"
+},
+{
+  "year": 2017,
+  "title": "Network Science Book",
+  "sortdate": "2017-01-01",
+  "authors": "Albertlaszlo Barabasi and Mauro Martino",
+  "ctotal": -1,
+  "c10": 0.00,
+  "doi": "",
+  "img":"netsibook.png"
+},
+{
+  "year": 2002,
+  "title": "Linked",
+  "sortdate": "2002-01-01",
+  "authors": "Albertlaszlo Barabasi",
+  "ctotal": -1,
+  "c10": 0.00,
+  "doi": "",
+  "img":"linked-cover.jpg"
+},
+{
+  "year": 2009,
+  "title": "Bursts",
+  "sortdate": "2009-01-01",
+  "authors": "Albertlaszlo Barabasi",
+  "ctotal": -1,
+  "c10": 0.00,
+  "doi": "",
+  "img":"bursts-cover.jpg"
+},
+{
+  "year": 2018,
+  "title": "The Formula",
+  "sortdate": "2018-01-01",
+  "authors": "Albertlaszlo Barabasi",
+  "ctotal": -1,
+  "c10": 0.00,
+  "doi": "",
+  "img":"formula.png"
+},
+{
+  "year": 2017,
+  "title": "Network Medicine",
+  "sortdate": "2017-01-01",
+  "authors": "Joseph Loscalzo and Edwin K Silverman and Albertlaszlo Barabasi",
+  "ctotal": -1,
+  "c10": 0.00,
+  "doi": "",
+  "img":"netmed.png"
+},
+{
+  "year": 2020,
+  "title": "Hot Networks",
+  "sortdate": "2017-01-01",
+  "authors": "Yanchen Liu and Nima Dehmamy and Albertlaszlo Barabasi",
+  "ctotal": 0,
+  "c10": 0.00,
+  "doi": "",
+  "img":"hotnets.png"
+},
+{
+  "year": 1996,
+  "title": "Invasion Percolation and Global Optimization",
+  "sortdate": "1996-05-13",
+  "authors": "Albertlaszlo Barabasi",
+  "ctotal": 64,
+  "c10": 0.00,
+  "doi": "",
+  "img":"spanning.png"
+},
+{
+  "year": 2006,
+  "title": "The Structure and Dynamics of Networks",
+  "sortdate": "2006-01-01",
+  "authors": "Mark Newman and Albertlaszlo Barabasi and Duncan Watts",
+  "ctotal": -1,
+  "c10": 0.00,
+  "doi": "",
+  "img":"structures.png"
+},
+{
+  "year": 1995,
+  "title": "Fractal Concepts In Surface Growth",
+  "sortdate": "1995-01-01",
+  "authors": "Albertlaszlo Barabasi and H Eugene Stanley",
+  "ctotal": -1,
+  "c10": 0.00,
+  "doi": "",
+  "img":"fractal.png"
+}]
