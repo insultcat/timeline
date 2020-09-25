@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="HTML,CSS,JavaScript,THREE.js">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kronologia</title>
+  </head>
+  <body>
+    <div id="container"></div>
+    <button id="generate">Save as SVG</button>
+    <script type="text/javascript"  src="js/d3.v5.min.js"></script>
+    <script type="text/javascript"  src="js/blob.js"></script>
+    <script type="text/javascript"  src="js/fileSaver.js"></script>
+    <script>
+      var margin = {top: 20, right: 20, bottom: 30, left: 50},
+        width = 2580 - margin.left - margin.right,
+        height = 200 - margin.top - margin.bottom;
+        height2 = 1400 - margin.top - margin.bottom;
+      var x = d3.scaleLinear().range([0, width]);
+      var y = d3.scaleLog().range([height, 0]);
+      var y2 = d3.scaleLinear().range([height+40, height2]);
+      var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height2 + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+      var data = [];
+      var yearAuth = {};
+      d3.json("data/BarabasiCareerGS.json").then(function(pdata) {
+        // data.forEach(function(d) {
+        //     d.title = d.bib.title;
+        //     d.year = +d.bib.year;
+        //     d.journal = d.bib.journal;
+        //     d.citations = +d.citedby;
+        //     if(d.bib.author != undefined){
+        //       var author = d.bib.author;
+        //       author = author.split(" and ");
+        //       d.authors = author;
+        //     }
+        // });
+        // Scale the range of the data
+
+        pdata.forEach(function(d) {
+            var a = {};
+            a.title = d.bib.title;
+            a.year = +d.bib.year;
+            a.journal = d.bib.journal;
+            a.citations = +d.citedby;
+            if(d.bib.author !=undefined){
+              a.authors = d.bib.author.split(" and ");
+            }
+            data.push(a);
+        });
+
+        // x.domain(d3.extent(data, function(d) { return d.year; }));
+        x.domain([1990,2020]);
+        y.domain([1, d3.max(data, function(d) { return d.citations; })]);
+
+        svg.selectAll("dot")
+            .data(data)
+          .enter().append("circle")
+            .attr("r", 2)
+            .attr("cx", function(d) { return x(d.year); })
+            .attr("cy", function(d) { return y(d.citations); })
+            .style("fill",function(d){return "red";});
+
+        for(j=0;j<data.length;j++){
+          if(data[j].authors != undefined){
+            if(yearAuth[data[j].year]!=undefined){
+              for(i=0;i<data[j].authors.length;i++){
+                if(yearAuth[data[j].year].includes(data[j].authors[i])){
+
+                }else{
+                  yearAuth[data[j].year].push(data[j].authors[i]);
+                }
+              }
+            }else{
+              yearAuth[data[j].year]=[];
+            }
+          }
+        }
+
+        y2.domain([1, 484]);
+        for(year in yearAuth) {
+          for(a=0;a<yearAuth[year].length;a++){
+            svg.append("text")
+              .text(function(){return yearAuth[year][a]})
+              .attr("x", function() { return x(year-0.15);})
+              .attr("y", function() { return y2(a) })
+              .attr("font-size", 7);
+          }
+        }
+
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x).tickFormat(d => d));
+      });
+
+      function writeDownloadLink(){
+          try {
+              var isFileSaverSupported = !!new Blob();
+          } catch (e) {
+              alert("blob not supported");
+          }
+          var html = d3.select("svg")
+              .attr("title", "test2")
+              .attr("version", 1.1)
+              .attr("xmlns", "http://www.w3.org/2000/svg")
+              .node().outerHTML;
+          var blob = new Blob([html], {type: "image/svg+xml"});
+          saveAs(blob, "viz.svg");
+      };
+    </script>
+  </body>
+</html>

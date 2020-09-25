@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="HTML,CSS,JavaScript,THREE.js">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kronologia</title>
+  </head>
+  <body>
+    <div id="container"></div>
+    <div id="tooltip" style="position:fixed;top:2%;right: 2%; font-size:12px;"></div>
+    <button id="generate">Save as SVG</button>
+    <script type="text/javascript"  src="js/d3.v5.min.js"></script>
+    <script type="text/javascript"  src="js/blob.js"></script>
+    <script type="text/javascript"  src="js/fileSaver.js"></script>
+    <script>
+      var margin = {top: 20, right: 20, bottom: 30, left: 50},
+        width = 1280 - margin.left - margin.right,
+        height = 200 - margin.top - margin.bottom;
+        height2 = 8000 - margin.top - margin.bottom;
+      var x = d3.scaleLinear().range([0, width]);
+      var y = d3.scaleLog().range([height, 0]);
+      var y2 = d3.scaleLinear().range([height+40, height2]);
+      var line = d3.line()
+        .x(function(d) { return x(d.x); })
+        .y(function(d) { console.log(d.ix);return y2(d.ix+(d.w*10)); })
+        .curve(d3.curveBasisClosed);
+      var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height2 + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+
+      var data = [];
+      var authTracks = {};
+      var selected;
+      d3.json("data/BarabasiCareerGS.json").then(function(pdata) {
+        pdata.forEach(function(d) {
+            if(d.citedby!=null && d.bib.author!=null && d.bib.title!=null && d.bib.year!=null){
+              var a = {};
+              a.title = d.bib.title;
+              a.year = +d.bib.year;
+              a.journal = d.bib.journal;
+              a.citations = +d.citedby;
+              if(d.bib.author !=undefined){
+                a.authors = d.bib.author.split(" and ");
+              }
+              data.push(a);
+            }
+        });
+
+        // x.domain(d3.extent(data, function(d) { return d.year; }));
+        x.domain([1990,2020]);
+        y.domain([1, d3.max(data, function(d) { return d.citations; })]);
+
+        svg.selectAll("dot")
+            .data(data)
+          .enter().append("circle")
+            .attr("r", 2)
+            .attr("cx", function(d) { return x(d.year); })
+            .attr("cy", function(d) { if(Number.isNaN(d.citations) == true || d.citations == undefined) {return 1;}else{return y(d.citations)};})
+            .style("fill",function(d){return "red";});
+
+        var count = 0;
+        var tempA = {};
+        for(j=0;j<data.length;j++){
+          if(data[j].authors!= undefined && data[j].authors!= null){
+            var yr = data[j].year;
+            for(i=0;i<data[j].authors.length;i++){
+            // for(i=0;i<10;i++){
+              var au = data[j].authors[i];
+              if(au!=undefined && au.includes("Barab") == false && au.includes("Albert-") == false){
+                if(authTracks[au]==undefined){
+                  if( Number.isNaN(yr) == false && Number.isNaN(data[j].citations) == false && yr!=1970){
+                    count++;
+                    tempA[au] = count;
+                    authTracks[au] = [];
+                    authTracks[au].push({"x":yr,"y":data[j].citations, "ix":count, "t":data[j].title});
+                  }
+                }else{
+                  var result = authTracks[au].filter(obj => {if (obj.x === yr){obj.w++;return obj.x === yr;}});
+                  if(result.length == 0){
+                    if( Number.isNaN(yr) == false && Number.isNaN(data[j].citations) == false && yr!=1970){
+                      authTracks[au].push({"x":yr,"y":data[j].citations, "ix":tempA[au], "t":data[j].title});
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        var tempB = Object.keys(tempA);
+        //sort by longest range
+        // tempB.sort((a, b) => ((authTracks[a][authTracks[a].length-1].x - authTracks[a][0].x) > (authTracks[b][authTracks[b].length-1].x - authTracks[b][0].x)) ? 1 : -1);
+        //sort by earliest appearance in timeline
+        tempB.sort((a, b) => (authTracks[a][0].x > authTracks[b][0].x) ? 1 : -1);
+        // console.log(tempB)
+        var uu = [];
+          for(z=0;z<tempB.length;z++){
+            var u = unicodeLiteral(tempB[z]);
+            uu.push(u)
+          }
+        console.log(uu);
+
+        y2.domain([1, 900]);
+        for(auth in authTracks) {
+          var c = getRandomColor();
+          // if(authTracks[auth].length > 1){
+            authTracks[auth].sort((a, b) => (a.x > b.x) ? 1 : -1);
+
+            svg.append("rect")
+            .attr("x",function(){return x(authTracks[auth][0].x)})
+            .attr("y",function(){return y2(tempB.indexOf(auth))})
+            .attr("width",function(){
+              var l = authTracks[auth].length-1;
+              return x((authTracks[auth][l].x)) - x((authTracks[auth][0].x))+2
+            })
+            .attr("height",2)
+            .attr("fill", c);
+          // }
+
+          svg.selectAll("dot")
+            .data(authTracks[auth])
+          .enter().append("circle")
+            .attr("id",function(d){
+              if(d.t!=undefined){
+                var t = d.t.replace(/ /g,"-").toLowerCase();
+                t=t.replace(/:/g,"-");
+                t=t.replace(/"\?"/g,"-");
+                t=t.replace(/\//g,"-");
+                t=t.replace(/'/g,"-");
+                return t;
+              }else{
+                return auth+d.x;
+              }})
+            .attr("class","paper")
+            .attr("r", function(d){return 2+y(d.y)/50;})
+            .attr("cx", function(d) { return x(d.x); })
+            .attr("cy", function(d) { return y2(tempB.indexOf(auth))+1; })
+            .on('mouseover', function(){
+              selected = d3.select(this).attr("id");
+              console.log(selected);
+              d3.selectAll("#"+selected).transition().duration(500).attr("r", 10)
+              d3.select("#tooltip").append("text").text(function(){return selected;});
+            })
+            .on('mouseout', function(){
+              d3.selectAll("#"+selected).transition().duration(500).attr("r", function(d){return 2+y(d.y)/50;});
+              d3.select("#tooltip").html("");
+            })
+            .style("fill",c);
+
+          // if(authTracks[auth].length > 1){
+            var l = authTracks[auth].length-1;
+            svg.append("text")
+              .attr("x", function(){return x(authTracks[auth][0].x)-7})
+              // .attr("x",function(){
+              //   var l = authTracks[auth].length-1;
+              //   var f = x(authTracks[auth][0].x);
+              //   var e = x(authTracks[auth][l].x);
+              //   return ((x(e)-x(f)+1)/2)+f;
+              // })
+              .attr("y", function(){return y2(tempB.indexOf(auth))+4})
+              .text(function(){return auth})
+              .attr("text-anchor","end")
+              .attr("font-size", 5);
+          // }
+        }
+
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x).tickFormat(d => d));
+      });
+
+      /* Creates a uppercase hex number with at least length digits from a given number */
+      function fixedHex(number, length){
+          var str = number.toString(16).toUpperCase();
+          while(str.length < length)
+              str = "0" + str;
+          return str;
+      }
+
+      /* Creates a unicode literal based on the string */
+      function unicodeLiteral(str){
+          var i;
+          var result = "";
+          for( i = 0; i < str.length; ++i){
+              /* You should probably replace this by an isASCII test */
+              if(str.charCodeAt(i) > 126 || str.charCodeAt(i) < 32)
+                  result += "\\u" + fixedHex(str.charCodeAt(i),4);
+              else
+                  result += str[i];
+          }
+
+          return result;
+      }
+
+      function getRandomColor() {
+        var letters = 'ABCDEF';
+        var color = '#';
+        for (var i = 0; i < 6; i++) {
+          color += letters[Math.floor(Math.random() * 6)];
+        }
+        return color;
+      }
+
+      d3.select("#generate")
+          .on("click", writeDownloadLink);
+      function writeDownloadLink(){
+          try {
+              var isFileSaverSupported = !!new Blob();
+          } catch (e) {
+              alert("blob not supported");
+          }
+          var html = d3.select("svg")
+              .attr("title", "test2")
+              .attr("version", 1.1)
+              .attr("xmlns", "http://www.w3.org/2000/svg")
+              .node().outerHTML;
+          var blob = new Blob([html], {type: "image/svg+xml"});
+          saveAs(blob, "viz.svg");
+      };
+    </script>
+  </body>
+</html>
