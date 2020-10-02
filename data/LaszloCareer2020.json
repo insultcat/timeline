@@ -5,7 +5,9 @@
   "ctotal": 3.0,
   "c10": 1.0,
   "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek",
-  "doi": "10.1103/PhysRevA.41.6881"
+  "doi": "10.1103/PhysRevA.41.6881",
+  "img":"trace-diffusion.png",
+  "abstract":"The geometry of diffusion-limited aggregation clusters is mapped into single-valued functions by tracing the surface of the aggregate and recording the X (or Y) coordinate of the position of a walker moving along the perimeter of the cluster as a function of the arc length. Our numerical results and scaling arguments show that the related plots can be considered as self-affine functions whose scaling behavior is determined by the exponent H=1/D, where D is the fractal dimension of the aggregates."
 }, {
   "year": 1991,
   "sortdate": "1991-08-01",
@@ -101,7 +103,9 @@
   "ctotal": 187.0,
   "c10": 73.0,
   "authors": "Albertlaszlo Barabasi and H Eugene Stanley and B Suki and Zolt\u00e1n Hantos and Ferenc Pet\u00e1k",
-  "doi": "10.1038/368615a0"
+  "doi": "10.1038/368615a0",
+  "img":"avanlan-power-law.png",
+  "abstract":"When lungs are emptied during exhalation, peripheral airways close up. For people with lung disease, they may not reopen for a significant portion of inhalation, impairing gas exchange. A knowledge of the mechanisms that govern reinflation of collapsed regions of lungs is therefore central to the development of ventilation strategies for combating respiratory problems. Here we report measurements of the terminal airway resistance, Rt, during the opening of isolated dog lungs. When inflated by a constant flow, Rt decreases in discrete jumps. We find that the probability distribution of the sizes of the jumps and of the time intervals between them exhibit power-law behaviour over two decades. We develop a model of the inflation process in which 'avalanches' of airway openings are seen--with power-law distributions of both the size of avalanches and the time intervals between them--which agree quantitatively with those seen experimentally, and are reminiscent of the power-law behaviour observed for self-organized critical systems. Thus power-law distributions, arising from avalanches associated with threshold phenomena propagating down a branching tree structure, appear to govern the recruitment of terminal airspaces."
 }, {
   "year": 1994,
   "sortdate": "1994-01-01",
@@ -133,7 +137,9 @@
   "ctotal": 90.0,
   "c10": 47.0,
   "authors": "Albertlaszlo Barabasi and Shlomo Havlin and H Eugene Stanley and Hern\u00e1n Larralde and Pablo Jensen",
-  "doi": "10.1103/PhysRevB.50.15316"
+  "doi": "10.1103/PhysRevB.50.15316",
+  "img":"depo-diffu.png",
+  "abstract":"We propose a model that describes the diffusion-controlled aggregation exhibited by particles as they are deposited on a surface. The model, which incorporates deposition, particle and cluster diffusion, and aggregation, is inspired by recent thin-film-deposition experiments. We find that as randomly deposited particles diffuse and aggregate they configure themselves into a wide variety of fractal structures characterized by a length scale L 1 . We introduce an exponent γ that tunes the way the diffusion coefficient changes with cluster size: if the values of γ are very large, only single particles can move, if they are smaller, all clusters can move. The introduction of cluster diffusion dramatically affects the dynamics of film growth. We compare our results with those of several recent experiments on two-dimensional nanostructures formed by diffusion-controlled aggregation on surfaces, and we propose several experimental tests of the model. We also investigate the spanning properties of this model and find another characteristic length scale L 2 ( L 2 ≫ L 1 ) above which the system behaves as a bond percolation network of the fractal structures each of length scale L 1 . Below L 2 , the system shows similarities with diffusion-limited aggregation. We find that L 1 scales as the ratio of the diffusion constant over the particle flux to the power 1/4, whereas L 2 scales with another exponent close to 0.9."
 }, {
   "year": 1994,
   "sortdate": "1994-07-01",
@@ -245,7 +251,9 @@
   "ctotal": 3.0,
   "c10": 1.0,
   "authors": "Albertlaszlo Barabasi and Shlomo Havlin and H Eugene Stanley and Hern\u00e1n Larralde and Pablo Jensen",
-  "doi": "10.1142/S0218348X96000431"
+  "doi": "10.1142/S0218348X96000431",
+  "img":"fractal-model.png",
+  "abstract":"In this paper we briefly review a model that describes the diffusion-controlled aggregation exhibited by particles as they are deposited on a surface. This model allows to understand many experiments of thin film deposition. In the first part, we describe the model, which incorporates deposition, particle and cluster diffusion, and aggregation. In a second part, we study the dynamical evolution of the model. Finally, we analyze the effects of small cluster mobility, and we show that the introduction of cluster diffusion dramatically affects the dynamics of film growth. Some of these effects can be tested experimentally."
 }, {
   "year": 1996,
   "sortdate": "1996-02-26",
@@ -261,7 +269,9 @@
   "ctotal": 31.0,
   "c10": 18.0,
   "authors": "Albertlaszlo Barabasi and Sergey V Buldyrev and H Eugene Stanley and B Suki",
-  "doi": "10.1103/PhysRevLett.76.2192"
+  "doi": "10.1103/PhysRevLett.76.2192",
+  "img":"avanlan-lung.png",
+  "abstract":"We study a statistical mechanical model for the dynamics of lung inflation which incorporates recent experimental observations on the opening of individual airways by a cascade or avalanche mechanism. Using an exact mapping of the avalanche problem onto percolation on a Cayley tree, we analytically derive the exponents describing the size distribution of the first avalanches and test the analytical solution by numerical simulations. We find that the treelike structure of the airways, together with the simplest assumptions concerning opening threshold pressures of each airway, is sufficient to explain the existence of power-law distributions observed experimentally."
 }, {
   "year": 1996,
   "sortdate": "1996-10-10",
@@ -550,7 +560,9 @@
   "ctotal": 19735.0,
   "c10": 5661.0,
   "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert",
-  "doi": "10.1126/science.286.5439.509"
+  "doi": "10.1126/science.286.5439.509",
+  "img":"emergence-scaling.png",
+  "abstract":"Systems as diverse as genetic networks or the World Wide Web are best described as networks with complex topology. A common property of many large networks is that the vertex connectivities follow a scale-free power-law distribution. This feature was found to be a consequence of two generic mechanisms: (i) networks expand continuously by the addition of new vertices, and (ii) new vertices attach preferentially to sites that are already well connected. A model based on these two ingredients reproduces the observed stationary scale-free distributions, which indicates that the development of large networks is governed by robust self-organizing phenomena that go beyond the particulars of the individual systems."
 }, {
   "year": 1999,
   "sortdate": "1999-01-01",
@@ -574,8 +586,10 @@
   "ctotal": 1475.0,
   "c10": 710.0,
   "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
-  "doi": "10.1016/S0378-4371(99)00291-5"
-}, {
+  "doi": "10.1016/S0378-4371(99)00291-5",
+  "img":"mean-field.png",
+  "abstract": "Random networks with complex topology are common in Nature, describing systems as diverse as the world wide web or social and business networks. Recently, it has been demonstrated that most large networks for which topological information is available display scale-free features. Here we study the scaling properties of the recently introduced scale-free model, that can account for the observed power-law distribution of the connectivities. We develop a mean-field method to predict the growth dynamics of the individual vertices, and use this to calculate analytically the connectivity distribution and the scaling exponents. The mean-field method can be used to address the properties of two variants of the scale-free model, that do not display power-law scaling."
+  }, {
   "year": 1999,
   "sortdate": "1999-07-05",
   "title": "COMMENT ON: DYNAMICS OF RIPENING OF SELF-ASSEMBLED II-VI SEMICONDUCTOR QUANTUM DOTS",
@@ -753,7 +767,9 @@
   "ctotal": 124.0,
   "c10": 77.0,
   "authors": "Albertlaszlo Barabasi",
-  "doi": "10.1088/2058-7058/14/7/32"
+  "doi": "10.1088/2058-7058/14/7/32",
+  "img":"physics-of-the-web.jpg",
+  "abstract":"Statistical mechanics is offering new insights into the structure and dynamics of the Internet, the World Wide Web and other complex interacting systems. TH E INTERNET appears to have taken on a life of its own ever since the National Science foundation in the US gave up stewardship of the network in 1995. New lines and routers are added continually by thousands of companies, none of which require permission from anybody to do so, and none of which are obliged to report their activity. This uncontrolled and decentralized growth has turned network designers into scientific explorers. All previous Internet-related research concentrated on designing better protocols and faster components. More recently, an increasing number of scientists have begun to ask an unexpected question: what exactly did we create?'"
 }, {
   "year": 2001,
   "sortdate": "2001-08-30",
@@ -793,7 +809,9 @@
   "ctotal": 15.0,
   "c10": 14.0,
   "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Zolt\u00e1n N Oltvai and Sean P Mason",
-  "doi": ""
+  "doi": "",
+  "img":"lethality.png",
+  "abstract":"The most highly connected proteins in the cell are the most important for its survival. Proteins are traditionally identified on the basis of their individual actions as catalysts, signalling molecules, or building blocks in cells and microorganisms. But our post-genomic view is expanding the protein’s role into an element in a network of protein–protein interactions as well, in which it has a contextual or cellular function within functional modules1,2. Here we provide quantitative support for this idea by demonstrating that the phenotypic consequence of a single gene deletion in the yeast Saccharomyces cerevisiae is affected to a large extent by the topological position of its protein product in the complex hierarchical web of molecular interactions."
 }, {
   "year": 2001,
   "sortdate": "2001-06-18",
@@ -962,7 +980,9 @@
   "ctotal": 2650.0,
   "c10": 1597.0,
   "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Erzs\u00e9bet Ravasz and AL Somera and Dale A Mongru",
-  "doi": "10.1126/science.1073374"
+  "doi": "10.1126/science.1073374",
+  "img":"hierarchical-org.png",
+  "abstract":"Spatially or chemically isolated functional modules composed of several cellular components and carrying discrete functions are considered fundamental building blocks of cellular organization, but their presence in highly integrated biochemical networks lacks quantitative support. Here, we show that the metabolic networks of 43 distinct organisms are organized into many small, highly connected topologic modules that combine in a hierarchical manner into larger, less cohesive units, with their number and degree of clustering following a power law. Within Escherichia coli, the uncovered hierarchical modularity closely overlaps with known metabolic functions. The identified network architecture may be generic to system-level cellular organization."
 }, {
   "year": 2002,
   "sortdate": "2002-10-22",
@@ -1010,7 +1030,8 @@
   "ctotal": 433.0,
   "c10": 322.0,
   "authors": "Albertlaszlo Barabasi and Hawoong Jeong and Soon\u2010Hyung Yook",
-  "doi": "10.1073/pnas.172501399"
+  "doi": "10.1073/pnas.172501399",
+  "img":"topology-internet.jpg"
 }, {
   "year": 2002,
   "sortdate": "2002-02-11",
@@ -1309,7 +1330,9 @@
   "ctotal": 176.0,
   "c10": 147.0,
   "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Qasim K Beg and Radu Dobrin",
-  "doi": "10.1186/1471-2105-5-10"
+  "doi": "10.1186/1471-2105-5-10",
+  "img": "agg-topological-motifs.png",
+  "abstract":"Background: Transcriptional regulation of cellular functions is carried out through a complex network of interactions among transcription factors and the promoter regions of genes and operons regulated by them.To better understand the system-level function of such networks simplification of their architecture was previously achieved by identifying the motifs present in the network, which are small, overrepresented, topologically distinct regulatory interaction patterns (subgraphs). However, the interaction of such motifs with each other, and their form of integration into the full network has not been previously examined. Results: By studying the transcriptional regulatory network of the bacterium, Escherichia coli, we demonstrate that the two previously identified motif types in the network (i.e., feed-forward loops and bi-fan motifs) do not exist in isolation, but rather aggregate into homologous motif clusters that largely overlap with known biological functions. Moreover, these clusters further coalesce into a supercluster, thus establishing distinct topological hierarchies that show global statistical properties similar to the whole network. Targeted removal of motif links disintegrates the network into small, isolated clusters, while random disruptions of equal number of links do not cause such an effect. Conclusion: Individual motifs aggregate into homologous motif clusters and a supercluster forming the backbone of the E. coli transcriptional regulatory network and play a central role in defining its global topological organization."
 }, {
   "year": 2004,
   "sortdate": "2004-01-13",
@@ -1389,8 +1412,10 @@
   "ctotal": 0.0,
   "c10": 0.00,
   "authors": "Albertlaszlo Barabasi and Eivind Almaas and Zolt\u00e1n Dezs\u0151 and Balazs Racz and Andr\u00e1s Luk\u00e1cs and Istv\u00e1n Szakad\u00e1t",
-  "doi": ""
-}, {
+  "doi": "",
+  "abstract":"While current studies on complex networks focus on systems that change relatively slowly in time, the structure of the most visited regions of the web is altered at the time scale from hours to days. Here we investigate the dynamics of visitation of a major news portal, representing the prototype for such a rapidly evolving network. The nodes of the network can be classified into stable nodes, which form the time-independent skeleton of the portal, and news documents. The visitations of the two node classes are markedly different, the skeleton acquiring visits at a constant rate, while a news document’s visitation peaks after a few hours. We find that the visitation pattern of a news document decays as a power law, in contrast with the exponential prediction provided by simple models of site visitation. This is rooted in the inhomogeneous nature of the browsing pattern characterizing individual users: the time interval between consecutive visits by the same user to the site follows a power-law distribution, in contrast to the exponential expected for Poisson processes. We show that the exponent characterizing the individual user’s browsing patterns determines the power-law decay in a document’s visitation. Finally, our results document the fleeting quality of news and events: while fifteen minutes of fame is still an exaggeration in the online media, we find that access to most news items significantly decays after 36 hours of posting.",
+  "img":"dynamics-info-access.png"
+  }, {
   "year": 2005,
   "sortdate": "2005-02-24",
   "title": "Inhomogeneous evolution of subgraphs and cycles in complex networks",
@@ -1461,7 +1486,8 @@
   "ctotal": 1670.0,
   "c10": 1518.0,
   "authors": "Albertlaszlo Barabasi and Duncan J Watts and M E J Newman",
-  "doi": ""
+  "doi": "",
+  "img":"structures.png"
 }, {
   "year": 2006,
   "sortdate": "2006-01-01",
@@ -1501,7 +1527,8 @@
   "ctotal": 254.0,
   "c10": 230.0,
   "authors": "Albertlaszlo Barabasi and Duncan J Watts and M E J Newman",
-  "doi": ""
+  "doi": "",
+  "img":"structures.png"
 }, {
   "year": 2006,
   "sortdate": "2006-01-01",
@@ -1583,6 +1610,7 @@
   "c10": 1776.0,
   "authors": "Albertlaszlo Barabasi and K-I Goh and Michael E Cusick and Marc Vidal and Barton Childs and David Valle",
   "doi": "10.1073/pnas.0701361104",
+  "abstract":"A network of disorders and disease genes linked by known disorder–gene associations offers a platform to explore in a single graphtheoretic framework all known phenotype and disease gene associations, indicating the common genetic origin of many diseases. Genes associated with similar disorders show both higher likelihood of physical interactions between their products and higher expression profiling similarity for their transcripts, supporting the existence of distinct disease-specific functional modules. We find that essential human genes are likely to encode hub proteins and are expressed widely in most tissues. This suggests that disease genes also would play a central role in the human interactome. In contrast, we find that the vast majority of disease genes are nonessential and show no tendency to encode hub proteins, and their expression pattern indicates that they are localized in the functional periphery of the network. A selection-based model explains the observed difference between essential and disease genes and also suggests that diseases caused by somatic mutations should not be peripheral, a prediction we confirm for cancer genes.",
   "img":"disease.png"
 }, {
   "year": 2007,
@@ -1623,7 +1651,9 @@
   "ctotal": 984.0,
   "c10": 903.0,
   "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Gergely Palla",
-  "doi": "10.1038/nature05670"
+  "doi": "10.1038/nature05670",
+  "abstract":"Our focus is on networks capturing the collaboration between scientists and the calls between mobile phone users. We find that large groups persist for longer if they are capable of dynamically altering their membership, suggesting that an ability to change the group composition results in better adaptability. The behaviour of small groups displays the opposite tendency—the condition for stability is that their composition remains unchanged. We also show that knowledge of the time commitment of members to a given community can be used for estimating the community’s lifetime. These findings offer insight into the fundamental differences between the dynamics of small groups and large institutions.",
+  "img": "quantify-social-group-evo.png"
 }, {
   "year": 2007,
   "sortdate": "2007-04-10",
@@ -1672,6 +1702,7 @@
   "c10": 73.0,
   "authors": "Albertlaszlo Barabasi and C\u00e9sar A Hidalgo and Albertha JM Walhout and Vanessa Vermeirssen and M Inmaculada Barrasa and Reynaldo Sequerra and Lynn Doucette-Stamm and Jenny Aurielle B Babon",
   "doi": "10.1101/gr.6148107",
+  "abstract":"Transcription regulatory networks play a pivotal role in the development, function, and pathology of metazoan organisms. Such networks are comprised of protein–DNA interactions between transcription factors (TFs) and their target genes. An important question pertains to how the architecture of such networks relates to network functionality. Here, we show that a Caenorhabditis elegans core neuronal protein–DNA interaction network is organized into two TF modules. These modules contain TFs that bind to a relatively small number of target genes and are more systems specific than the TF hubs that connect the modules. Each module relates to different functional aspects of the network. One module contains TFs involved in reproduction and target genes that are expressed in neurons as well as in other tissues. The second module is enriched for paired homeodomain TFs and connects to target genes that are often exclusively neuronal. We find that paired homeodomain TFs are specifically expressed in C. elegans and mouse neurons, indicating that the neuronal function of paired homeodomains is evolutionarily conserved. Taken together, we show that a core neuronal C. elegans protein–DNA interaction network possesses TF modules that relate to different functional aspects of the complete network.",
   "img":"ce-fig.png",
   "cover":"ce-genome.png"
 }, {
@@ -1716,7 +1747,10 @@
   "ctotal": 10.0,
   "c10": 10.0,
   "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Juyong Park and KA Kay and Zolt\u00e1n N Oltvai and DS Lee",
-  "doi": ""
+  "doi": "",
+  "img":"implications-of-human-metabolic.png",
+  "abstract":"Most diseases are the consequence of the breakdown of cellular processes, but the relationships among genetic/epigenetic defects, the molecular interaction networks underlying them, and the disease phenotypes remain poorly understood. To gain insights into such relationships, here we constructed a bipartite human disease association network in which nodes are diseases and two diseases are linked if mutated enzymes associated with them catalyze adjacent metabolic reactions. We find that connected disease pairs display higher correlated reaction flux rate, corresponding enzyme-encoding gene coexpression, and higher comorbidity than those that have no metabolic link between them. Furthermore, the more connected a disease is to other diseases, the higher is its prevalence and associated mortality rate. The network topology-based approach also helps to uncover potential mechanisms that contribute to their shared pathophysiology. Thus, the structure and modeled function of the human metabolic network can provide insights into disease comorbidity, with potentially important consequences for disease diagnosis and prevention."
+
 }, {
   "year": 2008,
   "sortdate": "2008-10-03",
@@ -1782,6 +1816,7 @@
   "authors": "Albertlaszlo Barabasi and Nicholas Christakis and Zolt\u00e1n N Oltvai and Juyong Park and KA Kay and DS Lee",
   "doi": "10.1073/pnas.0802208105",
   "cover":"bee.png"
+
 }, {
   "year": 2008,
   "sortdate": "2008-01-01",
@@ -1789,7 +1824,8 @@
   "ctotal": 4.0,
   "c10": 4.0,
   "authors": "Albertlaszlo Barabasi and A R Cesar Hidalgo",
-  "doi": "10.4249/scholarpedia.1716"
+  "doi": "10.4249/scholarpedia.1716",
+  "img":"scale-free.png"
 }, {
   "year": 2008,
   "sortdate": "2008-03-12",
@@ -1930,7 +1966,7 @@
   "year": 2009,
   "sortdate": "2009-07-24",
   "title": "Scale-Free Networks: A Decade and Beyond",
-  "ctotal": 971.0,
+  "ctotal": -1.0,
   "c10": 971.0,
   "authors": "Albertlaszlo Barabasi",
   "doi": "10.1126/science.1173299",
@@ -1942,7 +1978,8 @@
   "ctotal": 1068.0,
   "c10": 1068.0,
   "authors": "Albertlaszlo Barabasi and Tony Jebara and David Lazer and Myron Gutmann and Deb Roy and Si0.00 Aral and James Fowler and Gary King and Michael Macy and Lada Adamic and Nicholas Christakis and Alex Sandy Pentland and Noshir Contractor and Devon Brewer and Marshall Van Alstyne",
-  "doi": "10.1126/science.1167742"
+  "doi": "10.1126/science.1167742",
+  "abstract":"We live life in the network. We check our e-mails regularly, make mobile phone calls from almost any location, swipe transit cards to use public transportation, and make purchases with credit cards. Our movements in public places may be captured by video cameras, and our medical records stored as digital files. We may post blog entries accessible to anyone, or maintain friendships through online social networks. Each of these transactions leaves digital traces that can be compiled into comprehensive pictures of both individual and group behavior, with the potential to transform our understanding of ourlives, organizations, and societies."
 }, {
   "year": 2009,
   "sortdate": "2009-02-06",
@@ -1950,7 +1987,8 @@
   "ctotal": 192.0,
   "c10": 192.0,
   "authors": "Albertlaszlo Barabasi and Tony Jebara and David Lazer and Myron Gutmann and Deb Roy and Si0.00 Aral and James Fowler and Gary King and Michael Macy and Lada Adamic and Nicholas Christakis and Alex Sandy Pentland and Noshir Contractor and Van Alstyne M and Devon Brewer",
-  "doi": "10.1126/science.1167742"
+  "doi": "10.1126/science.1167742",
+  "img":"computational-social-science.png"
 }, {
   "year": 2009,
   "sortdate": "2009-01-01",
@@ -2341,7 +2379,9 @@
   "ctotal": 222.0,
   "c10": 222.0,
   "authors": "Albertlaszlo Barabasi",
-  "doi": "10.1038/nphys2188"
+  "doi": "10.1038/nphys2188",
+  "img":"network-takeover.png",
+  "abstract":"Reductionism, as a paradigm, is expired, and complexity, as a field, is tired. Data-based mathematical models of complex systems are offering a fresh perspective, rapidly developing into a new discipline: network science."
 }, {
   "year": 2012,
   "sortdate": "2012-02-27",
@@ -2687,7 +2727,9 @@
   "ctotal": 36.0,
   "c10": 36.0,
   "authors": "Albertlaszlo Barabasi and Amitabh Sharma and J\u00f6rg Menche and Ruth Tal-Singer and Stephen I Rennard and Alvar Agusti and Bartolome Celli and Edwin K Silverman and Michael H Cho and John H Riley and Bruce E Miller and Glyn Bradley and Soumitra Ghosh and Ruth J Mayer and Chris Larminie and Nick Locantore",
-  "doi": "10.1186/1752-0509-8-S2-S8"
+  "doi": "10.1186/1752-0509-8-S2-S8",
+  "abstract":"Background: An important step toward understanding the biological mechanisms underlying a complex disease is a refined understanding of its clinical heterogeneity. Relating clinical and molecular differences may allow us to define more specific subtypes of patients that respond differently to therapeutic interventions. Results: We developed a novel unbiased method called diVIsive Shuffling Approach (VIStA) that identifies subgroups of patients by maximizing the difference in their gene expression patterns. We tested our algorithm on 140 subjects with Chronic Obstructive Pulmonary Disease (COPD) and found four distinct, biologically and clinically meaningful combinations of clinical characteristics that are associated with large gene expression differences. The dominant characteristic in these combinations was the severity of airflow limitation. Other frequently identified measures included emphysema, fibrinogen levels, phlegm, BMI and age. A pathway analysis of the differentially expressed genes in the identified subtypes suggests that VIStA is capable of capturing specific molecular signatures within in each group. Conclusions: The introduced methodology allowed us to identify combinations of clinical characteristics that correspond to clear gene expression differences. The resulting subtypes for COPD contribute to a better understanding of its heterogeneity.",
+  "img":"divisive-shuffle.png"
 }, {
   "year": 2014,
   "sortdate": "2014-05-01",
@@ -2776,7 +2818,9 @@
   "ctotal": 130.0,
   "c10": 130.0,
   "authors": "Albertlaszlo Barabasi and Yizhi Liu and Raissa M D'Souza and Jianxi Gao",
-  "doi": "10.1038/ncomms6415"
+  "doi": "10.1038/ncomms6415",
+  "img":"target-control.jpg",
+  "abstract":"Controlling large natural and technological networks is an outstanding challenge. It is typically neither feasible nor necessary to control the entire network, prompting us to explore target control: the efficient control of a preselected subset of nodes. We show that the structural controllability approach used for full control overestimates the minimum number of driver nodes needed for target control. Here we develop an alternate ‘k-walk’ theory for directed tree networks, and we rigorously prove that one node can control a set of target nodes if the path length to each target node is unique. For more general cases, we develop a greedy algorithm to approximate the minimum set of driver nodes sufficient for target control. We find that degree heterogeneous networks are target controllable with higher efficiency than homogeneous networks and that the structure of many real-world networks are suitable for efficient target control."
 }, {
   "year": 2014,
   "sortdate": "2014-03-07",
@@ -2824,7 +2868,9 @@
   "ctotal": 357.0,
   "c10": 357.0,
   "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Susan Dina Ghiassian and Marc Vidal and J\u00f6rg Menche and Maksim Kitsak and Amitabh Sharma",
-  "doi": "10.1126/science.1257601"
+  "doi": "10.1126/science.1257601",
+  "img":"uncover-disease-disease.png",
+  "abstract":"According to the disease module hypothesis the cellular components associated with a disease segregate in the same neighborhood of the human interactome, the map of biologically relevant molecular interactions. Yet, given the incompleteness of the interactome and the limited knowledge of disease-associated genes, it is not obvious if the available data has sufficient coverage to map out modules associated with each disease. Here we derive mathematical conditions for the identifiability of disease modules and show that the network-based location of each disease module determines its pathobiological relationship to other diseases. For example, diseases with overlapping network modules show significant co-expression patterns, symptom similarity, and comorbidity, while diseases residing in separated network neighborhoods are clinically distinct. These tools represent an interactome-based platform to predict molecular commonalities between clinically related diseases, even if they do not share disease genes."
 }, {
   "year": 2015,
   "sortdate": "2015-12-01",
@@ -2832,7 +2878,9 @@
   "ctotal": 84.0,
   "c10": 84.0,
   "authors": "Albertlaszlo Barabasi and Filippo Simini and Dino Pedreschi and Salvatore Rinzivillo and Luca Pappalardo and Fosca Giannotti",
-  "doi": "10.1038/ncomms9166"
+  "doi": "10.1038/ncomms9166",
+  "abstract":"The availability of massive digital traces of human whereabouts has offered a series of novel insights on the quantitative patterns characterizing human mobility. In particular, numerous recent studies have lead to an unexpected consensus: the considerable variability in the characteristic travelled distance of individuals coexists with a high degree of predictability of their future locations. Here we shed light on this surprising coexistence by systematically investigating the impact of recurrent mobility on the characteristic distance travelled by individuals. Using both mobile phone and GPS data, we discover the existence of two distinct classes of individuals: returners and explorers. As existing models of human mobility cannot explain the existence of these two classes, we develop more realistic models able to capture the empirical findings. Finally, we show that returners and explorers play a distinct quantifiable role in spreading phenomena and that a correlation exists between their mobility patterns and social interactions.",
+  "img":"returners-explorers-human-mobility.png"
 }, {
   "year": 2015,
   "sortdate": "2015-10-01",
@@ -2841,6 +2889,7 @@
   "c10": 45.0,
   "authors": "Albertlaszlo Barabasi and Dashun Wang and Michael Szell and Pierre Deville and Roberta Sinatra",
   "doi": "10.1038/nphys3494",
+  "abstract":"An analysis of Web of Science data spanning more than 100 years reveals the rapid growth andincreasing multidisciplinary of physics — as well its internal map of sub-disciplines.",
   "img":"century2.png",
   "cover":"century.png"
 }, {
@@ -2866,7 +2915,9 @@
   "ctotal": 109.0,
   "c10": 109.0,
   "authors": "Albertlaszlo Barabasi and J\u00f6rg Menche and Anil G Jegga and Aaron Szafer and Michael Hawrylycz and Bruce J Aronow and Kenneth A Berman and Tim Dolbeare and Forrest Collman and Donna L Dierker and David R Haynor and Ed Lein and David C Van Essen and Stefan Mihalas and Lydia Ng and Matthew F Glasser and David Feng and Chinh Dang and Jeremy A Miller and Zizhen Yao and Vilas Menon and Allan Jones and Amy Bernard and Christof Koch and John Phillips and Pascal Grange and Angela L Guillozet-Bongaarts and Jay Schulkin and Lance Stewart and Chang-Kyu Lee",
-  "doi": "10.1038/nn.4171"
+  "doi": "10.1038/nn.4171",
+  "abstract":"The structure and function of the human brain are highly stereotyped, implying a conserved molecular program responsible for its development, cellular structure and function. We applied a correlation-based metric called differential stability to assess reproducibility of gene expression patterning across 132 structures in six individual brains, revealing mesoscale genetic organization. The genes with the highest differential stability are highly biologically relevant, with enrichment for brain-related annotations, disease associations, drug targets and literature citations. Using genes with high differential stability, we identified 32 anatomically diverse and reproducible gene expression signatures, which represent distinct cell types, intracellular components and/or associations with neurodevelopmental and neurodegenerative disorders. Genes in neuron-associated compared to non-neuronal networks showed higher preservation between human and mouse; however, many diversely patterned genes displayed marked shifts in regulation between species. Finally, highly consistent transcriptional architecture in neocortex is correlated with resting state functional connectivity, suggesting a link between conserved gene expression and functionally relevant circuitry.",
+  "img":"canonical-genetic.png"
 }, {
   "year": 2015,
   "sortdate": "2015-06-01",
@@ -2874,7 +2925,9 @@
   "ctotal": 55.0,
   "c10": 55.0,
   "authors": "Albertlaszlo Barabasi and Natali Gulbahce and Susan Dina Ghiassian and Marc Vidal and J\u00f6rg Menche and Maksim Kitsak and Amitabh Sharma and Nidhi Sahni and Edwin K Silverman and Kelan G Tantisira and Tatiana Ort and Joel Tocker and Benjamin A Raby and Derek Thibault and Weiliang Qiu and Xiaobo Zhou and Radu Dobrin and Scott T Weiss and Elliot Barnathan and Hao Liu and Reynold A Panettieri Jr and Linh Voung and Fr\u00e9d\u00e9ric Baribaud and Feng Guo and C Chris Huang",
-  "doi": "10.1093/hmg/ddv001"
+  "doi": "10.1093/hmg/ddv001",
+  "img":"disease-module-interactome-explain.png",
+  "abstract":"Recent advances in genetics have spurred rapid progress towards the systematic identification of genes involved in complex diseases. Still, the detailed understanding of the molecular and physiological mechanisms through which these genes affect disease phenotypes remains a major challenge. Here, we identify the asthma disease module, i.e. the local neighborhood of the interactome whose perturbation is associated with asthma, and validate it for functional and pathophysiological relevance, using both computational and experimental approaches. We find that the asthma disease module is enriched with modest GWAS P-values against the background of random variation, and with differentially expressed genes from normal and asthmatic fibroblast cells treated with an asthma-specific drug. The asthma module also contains immune response mechanisms that are shared with other immune-related disease modules. Further, using diverse omics (genomics, gene-expression, drug response) data, we identify the GAB1 signaling pathway as an important novel modulator in asthma. The wiring diagram of the uncovered asthma module suggests a relatively close link between GAB1 and glucocorticoids (GCs), which we experimentally validate, observing an increase in the level of GAB1 after GC treatment in BEAS-2B bronchial epithelial cells. The siRNA knockdown of GAB1 in the BEAS-2B cell line resulted in a decrease in the NFkB level, suggesting a novel regulatory path of the pro-inflammatory factor NFkB by GAB1 in asthma."
 }, {
   "year": 2015,
   "sortdate": "2015-01-01",
@@ -2930,7 +2983,9 @@
   "ctotal": 72.0,
   "c10": 72.0,
   "authors": "Albertlaszlo Barabasi and Susan Dina Ghiassian and J\u00f6rg Menche",
-  "doi": "10.1371/journal.pcbi.1004120"
+  "doi": "10.1371/journal.pcbi.1004120",
+  "img":"disease-module-detection.png",
+  "abstract":"The observation that disease associated proteins often interact with each other has fueled the development of network-based approaches to elucidate the molecular mechanisms of human disease. Such approaches build on the assumption that protein interaction networks can be viewed as maps in which diseases can be identified with localized perturbation within a certain neighborhood. The identification of these neighborhoods, or disease modules, is therefore a prerequisite of a detailed investigation of a particular pathophenotype. While numerous heuristic methods exist that successfully pinpoint disease associated modules, the basic underlying connectivity patterns remain largely unexplored. In this work we aim to fill this gap by analyzing the network properties of a comprehensive corpus of 70 complex diseases. We find that disease associated proteins do not reside within locally dense communities and instead identify connectivity significance as the most predictive quantity. This quantity inspires the design of a novel Disease Module Detection (DIAMOnD) algorithm to identify the full disease module around a set of known disease proteins. We study the performance of the algorithm using well-controlled synthetic data and systematically validate the identified neighborhoods for a large corpus of diseases."
 }, {
   "year": 2015,
   "sortdate": "2015-09-01",
@@ -2946,7 +3001,9 @@
   "ctotal": 14.0,
   "c10": 14.0,
   "authors": "Albertlaszlo Barabasi and Istv\u00e1n A Kov\u00e1cs",
-  "doi": "10.1038/524038a"
+  "doi": "10.1038/524038a",
+  "abstract":"Pinpointing the nodes whose removal most effectively disrupts a network has become a lot easier with the development of an efficient algorithm. Potential applications might include cybersecurity and disease control. See Letter p.65, by F. Morone and H. A. Makse (Supplementary 1).",
+  "img":"destruction-perfected.png"
 }, {
   "year": 2015,
   "sortdate": "2015-04-01",
@@ -2970,7 +3027,9 @@
   "ctotal": 83.0,
   "c10": 83.0,
   "authors": "Albertlaszlo Barabasi and Marc Vidal and Emre Guney and J\u00f6rg Menche",
-  "doi": "10.1038/ncomms10331"
+  "doi": "10.1038/ncomms10331",
+  "abstract":"The increasing cost of drug development together with a significant drop in the number of new drug approvals raises the need for innovative approaches for target identification and efficacy prediction. Here, we take advantage of our increasing understanding of the network-based origins of diseases to introduce a drug-disease proximity measure that quantifies the interplay between drugs targets and diseases. By correcting for the known biases of the interactome, proximity helps us uncover the therapeutic effect of drugs, as well as to distinguish palliative from effective treatments. Our analysis of 238 drugs used in 78 diseases indicates that the therapeutic effect of drugs is localized in a small network neighborhood of the disease genes and highlights efficacy issues for drugs used in Parkinson and several inflammatory disorders. Finally, network-based proximity allows us to predict novel drug-disease associations that offer unprecedented opportunities for drug repurposing and the detection of adverse effects.",
+  "img":"silicodrug-efficacy.png"
 }, {
   "year": 2016,
   "sortdate": "2016-09-26",
@@ -3020,6 +3079,7 @@
   "c10": 2.0,
   "authors": "Albertlaszlo Barabasi and Mark Vogelsberger and Paul Torrey and Sungryong Hong and Arjun Dey and Bruno C Coutinho and Lars Hernquist and Kim Albrecht",
   "doi": "",
+  "abstract":"The concept of the cosmic web, viewing the universe as a set of discrete galaxies held together by gravity, is deeply ingrained in cosmology. Yet, little is known about the most effective construction and the characteristics of the underlying network. Here we explore seven network construction algorithms that use various galaxy distributions provided by both simulations and observations. We find that a model relying only on spatial proximity offers the best correlations between the physical characteristics of the connected galaxies. We show that the properties of the networks generated and from simulations and observations are identical, unveiling a deep universality of the cosmic web.",
   "img":"cosmic-web.png"
 }, {
   "year": 2016,
@@ -3045,7 +3105,8 @@
   "ctotal": 25.0,
   "c10": 25.0,
   "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Vincent D Blondel and Pierre Deville and Nathan Eagle",
-  "doi": "10.1073/pnas.1525443113"
+  "doi": "10.1073/pnas.1525443113",
+  "abstract":"Both our mobility and communication patterns obey spatial constraints: Most of the time, our trips or communications occur over a short distance, and occasionally, we take longer trips or call a friend who lives far away. These spatial dependencies, best described as power laws, play a consequential role in broad areas ranging from how an epidemic spreads to diffusion of ideas and information. Here we established the first formal link, to our knowledge, between mobility and communication patterns by deriving a scaling relationship connecting them. The uncovered scaling theory not only allows us to derive human movements from communication volumes, or vice versa, but it also documents a new degree of regularity that helps deepen our quantitative understanding of human behavior. Massive datasets that capture human movements and social interactions have catalyzed rapid advances in our quantitative understanding of human behavior during the past years. One important aspect affecting both areas is the critical role space plays. Indeed, growing evidence suggests both our movements and communication patterns are associated with spatial costs that follow reproducible scaling laws, each characterized by its specific critical exponents. Although human mobility and social networks develop concomitantly as two prolific yet largely separated fields, we lack any known relationships between the critical exponents explored by them, despite the fact that they often study the same datasets. Here, by exploiting three different mobile phone datasets that capture simultaneously these two aspects, we discovered a new scaling relationship, mediated by a universal flux distribution, which links the critical exponents characterizing the spatial dependencies in human mobility and social networks. Therefore, the widely studied scaling laws uncovered in these two areas are not independent but connected through a deeper underlying reality."
 }, {
   "year": 2016,
   "sortdate": "2016-09-06",
@@ -3053,7 +3114,9 @@
   "ctotal": 104.0,
   "c10": 104.0,
   "authors": "Albertlaszlo Barabasi and Yizhi Liu",
-  "doi": "10.1103/RevModPhys.88.035006"
+  "doi": "10.1103/RevModPhys.88.035006",
+  "abstract":"A reflection of our ultimate understanding of a complex system is our ability to control its behavior. Typically, control has multiple prerequisites: it requires an accurate map of the network that governs the interactions between the system’s components, a quantitative description of the dynamical laws that govern the temporal behavior of each component, and an ability to influence the state and temporal behavior of a selected subset of the components. With deep roots in dynamical systems and control theory, notions of control and controllability have taken a new life recently in the study of complex networks, inspiring several fundamental questions: What are the control principles of complex systems? How do networks organize themselves to balance control with functionality? To address these questions here recent advances on the controllability and the control of complex networks are reviewed, exploring the intricate interplay between the network topology and dynamical laws. The pertinent mathematical results are matched with empirical findings and applications. Uncovering the control principles of complex systems can help us explore and ultimately understand the fundamental laws that govern their behavior.",
+  "img":"control-principles-complex-networks.png"
 }, {
   "year": 2016,
   "sortdate": "2016-11-04",
@@ -3062,6 +3125,7 @@
   "c10": 94.0,
   "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Pierre Deville and Roberta Sinatra",
   "doi": "10.1126/science.aaf5239",
+  "abstract":"Despite the frequent use of numerous quantitative indicators to gauge the professional impact of a scientist, little is known about how scientific impact emerges and evolves in time. Here, we quantify the changes in impact and productivity throughout a career in science, finding that impact, as measured by influential publications, is distributed randomly within a scientist’s sequence of publications. This random-impact rule allows us to formulate a stochastic model that uncouples the effects of productivity, individual ability, and luck and unveils the existence of universal patterns governing the emergence of scientific success. The model assigns a unique individual parameter Q to each scientist, which is stable during a career, and it accurately predicts the evolution of a scientist’s impact, from the h-index to cumulative citations, and independent recognitions, such as prizes.",
   "img":"sq-success.png"
 }, {
   "year": 2016,
@@ -3070,7 +3134,8 @@
   "ctotal": 12.0,
   "c10": 12.0,
   "authors": "Albertlaszlo Barabasi and Burcu Yucesoy",
-  "doi": "10.1140/epjds/s13688-016-0079-z"
+  "doi": "10.1140/epjds/s13688-016-0079-z",
+  "abstract":"Fame, popularity and celebrity status, frequently used tokens of success, are often loosely related to, or even divorced from professional performance. This dichotomy is partly rooted in the difficulty to distinguish performance, an individual measure that captures the actions of a performer, from success, a collective measure that captures a community’s reactions to these actions. Yet, finding the relationship between the two measures is essential for all areas that aim to objectively reward excellence, from science to business. Here we quantify the relationship between performance and success by focusing on tennis, an individual sport where the two quantities can be independently measured. We show that a predictive model, relying only on a tennis player’s performance in tournaments, can accurately predict an athlete’s popularity, both during a player’s active years and after retirement. Hence the model establishes a direct link between performance and momentary popularity. The agreement between the performance-driven and observed popularity suggests that in most areas of human achievement exceptional visibility may be rooted in detectable performance measures."
 }, {
   "year": 2016,
   "sortdate": "2016-07-01",
@@ -3079,6 +3144,7 @@
   "c10": 14.0,
   "authors": "Albertlaszlo Barabasi and Abdelhalim Larhlimi and Yizhi Liu and Georg Basler and Zoran Nikoloski",
   "doi": "10.1101/gr.202648.115",
+  "abstract":"Understanding the control of large-scale metabolic networks is central to biology and medicine. However, existing approaches either require specifying a cellular objective or can only be used for small networks. We introduce new coupling types describing the relations between reaction activities, and develop an efficient computational framework, which does not require any cellular objective for systematic studies of large-scale metabolism. We identify the driver reactions facilitating control of 23 metabolic networks from all kingdoms of life. We find that unicellular organisms require a smaller degree of control than multicellular organisms. Driver reactions are under complex cellular regulation in Escherichia coli, indicating their preeminent role in facilitating cellular control. In human cancer cells, driver reactions play pivotal roles in malignancy and represent potential therapeutic targets. The developed framework helps us gain insights into regulatory principles of diseases and facilitates design of engineering strategies at the interface of gene regulation, signaling, and metabolism.",
   "cover":"genome-research.png"
 }, {
   "year": 2016,
@@ -3119,7 +3185,9 @@
   "ctotal": 26.0,
   "c10": 26.0,
   "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Susan Dina Ghiassian and Emre Guney and J\u00f6rg Menche and Maksim Kitsak and Amitabh Sharma",
-  "doi": "10.1038/srep35241"
+  "doi": "10.1038/srep35241",
+  "abstract":"Genes carrying mutations associated with genetic diseases are present in all human cells; yet, clinical manifestations of genetic diseases are usually highly tissue-specific. Although some disease genes are expressed only in selected tissues, the expression patterns of disease genes alone cannot explain the observed tissue specificity of human diseases. Here we hypothesize that for a disease to manifest itself in a particular tissue, a whole functional subnetwork of genes (disease module) needs to be expressed in that tissue. Driven by this hypothesis, we conducted a systematic study of the expression patterns of disease genes within the human interactome. We find that genes expressed in a specific tissue tend to be localized in the same neighborhood of the interactome. By contrast, genes expressed in different tissues are segregated in distinct network neighborhoods. Most important, we show that it is the integrity and the completeness of the expression of the disease module that determines disease manifestation in selected tissues. This approach allows us to construct a disease-tissue network that confirms known and predicts unexpected disease-tissue associations.",
+  "img":"tissue-specificity.jpg"
 }, {
   "year": 2017,
   "sortdate": "2017-05-12",
@@ -3167,7 +3235,9 @@
   "ctotal": 62.0,
   "c10": 62.0,
   "authors": "Albertlaszlo Barabasi and Yizhi Liu and Sean P Cornelius and Long Wang and Aming Li",
-  "doi": "10.1126/science.aai7488"
+  "doi": "10.1126/science.aai7488",
+  "abstract":"Most networked systems of scientific interest are characterized by temporal links, meaning the network’s structure changes over time. Link temporality has been shown to hinder many dynamical processes, from information spreading to accessibility, by disrupting network paths. Considering the ubiquity of temporal networks in nature, we ask: Are there any advantages of the networks’ temporality? We use an analytical framework to show that temporal networks can, compared to their static counterparts, reach controllability faster, demand orders of magnitude less control energy, and have control trajectories, that are considerably more compact than those characterizing static networks. Thus, temporality ensures a degree of flexibility that would be unattainable in static networks, enhancing our ability to control them.",
+  "img":"fundamental-advantages-temporal-networks.jpg"
 }, {
   "year": 2017,
   "sortdate": "2017-03-16",
@@ -3215,7 +3285,9 @@
   "ctotal": 57.0,
   "c10": 57.0,
   "authors": "Albertlaszlo Barabasi and Gang Yan and Petra E V\u00e9rtes and William R Schafer and Denise S Walker and Yee Lian Chew and Emma K Towlson",
-  "doi": "10.1038/nature24056"
+  "doi": "10.1038/nature24056",
+  "abstract": "Recent studies on the controllability of complex systems offer a powerful mathematical framework to systematically explore the structure–function relationship in biological, social, and technological networks1, 2, 3. Despite theoretical advances, we lack direct experimental proof of the validity of these widely used control principles. Here we fill this gap by applying a control framework to the connectome of the nematode Caenorhabditis elegans 4, 5, 6, allowing us to predict the involvement of each C. elegans neuron in locomotor behaviours. We predict that control of the muscles or motor neurons requires 12 neuronal classes, which include neuronal groups previously implicated in locomotion by laser ablation 7, 8, 9, 10, 11, 12, 13, as well as one previously uncharacterized neuron, PDB. We validate this prediction experimentally, finding that the ablation of PDB leads to a significant loss of dorsoventral polarity in large body bends. Importantly, control principles also allow us to investigate the involvement of individual neurons within each neuronal class. For example, we predict that, within the class of DD motor neurons, only three (DD04, DD05, or DD06) should affect locomotion when ablated individually. This prediction is also confirmed; single cell ablations of DD04 or DD05 specifically affect posterior body movements, whereas ablations of DD02 or DD03 do not. Our predictions are robust to deletions of weak connections, missing connections, and rewired connections in the current connectome, indicating the potential applicability of this analytical framework to larger and less well-characterized connectomes.",
+  "img":"network-control-principles.png"
 }, {
   "year": 2017,
   "sortdate": "2017-03-15",
@@ -3263,7 +3335,9 @@
   "ctotal": 13.0,
   "c10": 13.0,
   "authors": "Albertlaszlo Barabasi and Joseph Loscalzo and Ruisheng Wang and Diane E Handy and Rishi J Desai and Sebastian Schneeweiss and Feixiong Cheng",
-  "doi": "10.1038/s41467-018-05116-5"
+  "doi": "10.1038/s41467-018-05116-5",
+  "abstract":"Control is essential to the functioning of any neural system. Indeed, under healthy conditions the brain must be able to continuously maintain a tight functional control between the system’s inputs and outputs. One may therefore hypothesize that the brain’s wiring is predetermined by the need to maintain control across multiple scales, maintaining the stability of key internal variables, and producing behaviour in response to environmental cues. Recent advances in network control have offered a powerful mathematical framework to explore the structure – function relationship in complex biological, social and technological networks, and are beginning to yield important and precise insights on neuronal systems. The network control paradigm promises a predictive, quantitative framework to unite the distinct datasets necessary to fully describe a nervous system, and provide mechanistic explanations for the observed structure and function relationships. Here, we provide a thorough review of the network control framework as applied to Caenorhabditis elegans (Yan et al. 2017 Nature 550,519 –523. (doi:10.1038/nature24056)), in the style of Frequently Asked Questions.We present the theoretical, computational and experimental aspects of network control, and discuss its current capabilities and limitations, together with the next likely advances and improvements. We further present thePython code to enable exploration of control principles in a manner specific to this prototypical organism.This article is part of a discussion meeting issue ‘Connectome to behaviour: modelling C. elegans at cellular resolution’.",
+  "img": "network-approach-prediction-population.png"
 }, {
   "year": 2018,
   "sortdate": "2018-07-03",
@@ -3280,6 +3354,7 @@
   "c10": 0.00,
   "authors": "Albertlaszlo Barabasi and Ricardo Hausmann and Kim Albrecht and Stephen Kosack and Michele Coscia and Evann Smith",
   "doi": "10.1073/pnas.1803228115",
+  "abstract": "Governments in modern societies undertake an array of complex functions that shape politics and economics, individual and group behavior, and the natural, social, and built environment. How are governments structured to execute these diverse responsibilities? How do those structures vary, and what explains the differences? To examine these longstanding questions, we develop a technique for mapping Internet “footprint” of government with network science methods. We use this approach to describe and analyze the diversity in functional scale and structure among the 50 US state governments reflected in the webpages and links they have created online: 32.5 million webpages and 110 million hyperlinks among 47,631 agencies. We first verify that this extensive online footprint systematically reflects known characteristics: 50 hierarchically organized networks of state agencies that scale with population and are specialized around easily identifiable functions in accordance with legal mandates. We also find that the footprint reflects extensive diversity among these state functional hierarchies. We hypothesize that this variation should reflect, among other factors, state income, economic structure, ideology, and location. We find that government structures are most strongly associated with state economic structures, with location and income playing more limited roles. Voters’ recent ideological preferences about the proper roles and extent of government are not significantly associated with the scale and structure of their state governments as reflected online. We conclude that the online footprint of governments offers a broad and comprehensive window on how they are structured that can help deepen understanding of those structures.",
   "img":"government.png"
 }, {
   "year": 2018,
@@ -3289,6 +3364,7 @@
   "c10": 2.0,
   "authors": "Albertlaszlo Barabasi and Burcu Yucesoy and Junming Huang and Xindi Wang",
   "doi": "10.1140/epjds/s13688-018-0135-y",
+  "abstract": "Reading remains a preferred leisure activity fueling an exceptionally competitive publishing market: among more than three million books published each year, only a tiny fraction are read widely. It is largely unpredictable, however, which book will that be, and how many copies it will sell. Here we aim to unveil the features that affect the success of books by predicting a book’s sales prior to its publication. We do so by employing the Learning to Place machine learning approach, that can predicts sales for both fiction and nonfiction books as well as explaining the predictions by comparing and contrasting each book with similar ones. We analyze features contributing to the success of a book by feature importance analysis, finding that a strong driving factor of book sales across all genres is the publishing house. We also uncover differences between genres: for thrillers and mystery, the publishing history of an author (as measured by previous book sales) is highly important, while in literary fiction and religion, the author’s visibility plays a more central role. These observations provide insights into the driving forces behind success within the current publishing industry, as well as how individuals choose what books to read.",
   "img":"books.png"
 }, {
   "year": 2018,
@@ -3314,6 +3390,7 @@
   "c10": 2.0,
   "authors": "Albertlaszlo Barabasi and Roberta Sinatra and Christoph Riedl and Samuel P Fraiberger and Magnus Resch",
   "doi": "10.1126/science.aau7224",
+  "abstract": "In areas of human activity where performance is difficult to quantify in an objective fashion, reputation and networks of influence play a key role in determining access to resources and rewards. To understand the role of these factors, we reconstructed the exhibition history of half a million artists, mapping out the coexhibition network that captures the movement of art between institutions. Centrality within this network captured institutional prestige, allowing us to explore the career trajectory of individual artists in terms of access to coveted institutions. Early access to prestigious central institutions offered life-long access to high-prestige venues and reduced dropout rate. By contrast, starting at the network periphery resulted in a high dropout rate, limiting access to central institutions. A Markov model predicts the career trajectory of individual artists and documents the strong path and history dependence of valuation in art.",
   "img":"art.png"
 }, {
   "year": 2018,
@@ -3330,7 +3407,9 @@
   "ctotal": 45.0,
   "c10": 45.0,
   "authors": "Albertlaszlo Barabasi and Dashun Wang and Alessandro Vespig0.00i and Dirk Helbing and Roberta Sinatra and Filippo Radicchi and Sta\u0161a Milojevi\u0107 and Brian Uzzi and Alexander M Petersen and Santo Fortunato and James A Evans and Carl T Bergstrom and Ludo Waltman and Katy B\u00f6rner",
-  "doi": "10.1126/science.aao0185"
+  "doi": "10.1126/science.aao0185",
+  "abstract": "The science of science (SciSci) is based on a transdisciplinary approach that uses large data sets to study the mechanisms underlying the doing of science--from the choice of a research problem to career trajectories and progress within a field. In a Review, Fortunato et al. explain that the underlying rationale is that with a deeper understanding of the precursors of impactful science, it will be possible to develop systems and policies that improve each scientist's ability to succeed and enhance the prospects of science as a whole.",
+  "img": "scienceofscience.png"
 }, {
   "year": 2018,
   "sortdate": "2018-11-01",
@@ -3339,6 +3418,7 @@
   "c10": 0.00,
   "authors": "Albertlaszlo Barabasi and Nima Dehmamy and Soodabeh Milanlouei",
   "doi": "10.1038/s41586-018-0726-6",
+  "abstract": "In many physical networks, including neurons in the brain three-dimensional integrated circuits and underground hyphal networks, the nodes and links are physical objects that cannot intersect or overlap with each other. To take this into account, non-crossing conditions can be imposed to constrain the geometry of networks, which consequently affects how they form, evolve and function. However, these constraints are not included in the theoretical frameworks that are currently used to characterize real networks. Most tools for laying out networks are variants of the force-directed layout algorithm—which assumes dimensionless nodes and links—and are therefore unable to reveal the geometry of densely packed physical networks. Here we develop a modelling framework that accounts for the physical sizes of nodes and links, allowing us to explore how non-crossing conditions affect the geometry of a network. For small link thicknesses, we observe a weakly interacting regime in which link crossings are avoided via local link rearrangements, without altering the overall geometry of the layout compared to the force-directed layout. Once the link thickness exceeds a threshold, a strongly interacting regime emerges in which multiple geometric quantities, such as the total link length and the link curvature, scale with the link thickness. We show that the crossover between the two regimes is driven by the non-crossing condition, which allows us to derive the transition point analytically and show that networks with large numbers of nodes will ultimately exist in the strongly interacting regime. We also find that networks in the weakly interacting regime display a solid-like response to stress, whereas in the strongly interacting regime they behave in a gel-like fashion. Networks in the weakly interacting regime are amenable to 3D printing and so can be used to visualize network geometry, and the strongly interacting regime provides insights into the scaling of the sizes of densely packed mammalian brains.",
   "img":"orange.png",
   "cover":"structural-transition.png"
 }, {
@@ -3348,7 +3428,9 @@
   "ctotal": 4.0,
   "c10": 4.0,
   "authors": "Albertlaszlo Barabasi and Gang Yan and Petra E V\u00e9rtes and William R Schafer and Denise S Walker and Yee Lian Chew and Emma K Towlson",
-  "doi": "10.1098/rstb.2017.0372"
+  "doi": "10.1098/rstb.2017.0372",
+  "abstract": "Control is essential to the functioning of any neural system. Indeed, under healthy conditions the brain must be able to continuously maintain a tight functional control between the system’s inputs and outputs. One may therefore hypothesize that the brain’s wiring is predetermined by the need to maintain control across multiple scales, maintaining the stability of key internal variables, and producing behaviour in response to environmental cues. Recent advances in network control have offered a powerful mathematical framework to explore the structure – function relationship in complex biological, social and technological networks, and are beginning to yield important and precise insights on neuronal systems. The network control paradigm promises a predictive, quantitative framework to unite the distinct datasets necessary to fully describe a nervous system, and provide mechanistic explanations for the observed structure and function relationships. Here, we provide a thorough review of the network control framework as applied to Caenorhabditis elegans (Yan et al. 2017 Nature 550,519 –523. (doi:10.1038/nature24056)), in the style of Frequently Asked Questions.We present the theoretical, computational and experimental aspects of network control, and discuss its current capabilities and limitations, together with the next likely advances and improvements. We further present thePython code to enable exploration of control principles in a manner specific to this prototypical organism.This article is part of a discussion meeting issue ‘Connectome to behaviour: modelling C. elegans at cellular resolution’.",
+  "img": "caenorhoabditis-elegans.png"
 }, {
   "year": 2019,
   "sortdate": "2019-03-04",
@@ -3372,7 +3454,9 @@
   "ctotal": 0.0,
   "c10": 0.00,
   "authors": "Albertlaszlo Barabasi and Istv\u00e1n A Kov\u00e1cs and Feixiong Cheng",
-  "doi": "10.1038/s41467-019-09186-x"
+  "doi": "10.1038/s41467-019-09186-x",
+  "abstract":"Drug combinations, offering increased therapeutic efficacy and reduced toxicity, play an important role in treating multiple complex diseases. Yet, our ability to identify and validate effective combinations is limited by a combinatorial explosion, driven by both the large number of drug pairs as well as dosage combinations. Here we propose a network-based methodology to identify clinically efficacious drug combinations for specific diseases. By quantifying the network-based relationship between drug targets and disease proteins in the human protein–protein interactome, we show the existence of six distinct classes of drug–drug–disease combinations. Relying on approved drug combinations for hypertension and cancer, we find that only one of the six classes correlates with therapeutic effects: if the targets of the drugs both hit disease module, but target separate neighborhoods. This finding allows us to identify and validate antihypertensive combinations, offering a generic, powerful network methodology to identify efficacious combination therapies in drug development.",
+  "img":"network-predict-drug-combo.png"
 }, {
   "year": 2019,
   "sortdate": "2019-01-01",
@@ -3428,7 +3512,8 @@
   "authors": "Alexander J Gates and Qing Ke and Onur Varol and Albertlaszlo Barabasi",
   "ctotal": 4,
   "c10": 4,
-  "doi": "10.1038/d41586-019-03308-7"
+  "doi": "10.1038/d41586-019-03308-7",
+  "abstract": "How knowledge informs and alters disciplines is itself an enlightening, and vibrant field. This type of meta research into new findings, insights, conceptual frameworks and techniques is important, among other things, for policymakers who fund research in the hope of tackling society’s most pressing challenges, which inevitably span disciplines. Since its founding in 1869, Nature has offered a venue for publishing major advances from many fields. To mark its anniversary, we track here how papers cite and are cited across disciplines, using data on tens of millions of scientific articles indexed in Clarivate Analytics’ Web of Science (WoS), a bibliometric database that encompasses many thousands of research journals starting from 1900. We pay particular attention to articles that appeared in Nature. In our view, this snapshot, for all its idiosyncrasies, reveals how scientific work is ever more becoming a mixture of disciplines."
 }, {
   "year": 2020,
   "title": "The unmapped chemical complexity of our diet",
@@ -3460,7 +3545,9 @@
   "authors": "Emma K Towlson and Albertlaszlo Barabasi",
   "ctotal": 0,
   "c10": 0,
-  "doi": "doi.org/10.1162/netn_a_00115"
+  "doi": "doi.org/10.1162/netn_a_00115",
+  "abstract":"Synthetic lethality, the finding that the simultaneous knockout of two or more individually nonessential genes leads to cell or organism death, has offered a systematic framework to explore cellular function, and also offered therapeutic applications. Yet the concept lacks its parallel in neuroscience—a systematic knowledge base on the role of double or higher order ablations in the functioning of a neural system. Here, we use the framework of network control to systematically predict the effects of ablating neuron pairs and triplets on the gentle touch response. We find that surprisingly small sets of 58 pairs and 46 triplets can reduce muscle controllability in this context, and that these sets are localized in the nervous system in distinct groups. Further, they lead to highly specific experimentally testable predictions about mechanisms of loss of control, and which muscle cells are expected to experience this loss.",
+  "img": "synthetic-ablations.png"
 }, {
   "year": 2020,
   "title": " Historical comparison of gender inequality in scientific careers across countries and disciplines",
@@ -3590,4 +3677,37 @@
   "c10": 0.00,
   "doi": "",
   "img":"fractal.png"
-}]
+},
+{
+  "year": 2020,
+  "title": "Network Medicine Framework for Identifying Drug Repurposing Opportunities for COVID-19",
+  "sortdate": "2020-08-09",
+  "authors": "Deisy Morselli Gysi and Ítalo Do Valle and Marinka Zitnik and Asher Ameli and Xiao Gan and Onur Varol and Susan Dina Ghiassian and JJ Patten and Robert Davey and Joseph Loscalzo and Albert-László Barabási",
+  "ctotal": 0,
+  "c10": 0.00,
+  "doi": "",
+  "img":"covid19.png"
+},
+{
+  "year":2007,
+  "title":"Genome-scale analysis of invivo spatiotemporal promoter activity in Caenorhabditis elegans",
+  "sortdate": "2007-03-07",
+  "authors":"Denis Dupuy and Nicolas Bertin and César A Hidalgo and Kavitha Venkatesan and Domena Tu and David Lee and Jennifer Rosenberg and Nenad Svrzikapa and Aurélie Blanc and Alain Carnec and Anne-Ruxandra Carvunis and Rock Pulak and Jane Shingles, John Reece-Hoyes and Rebecca Hunt-Newbury and Ryan Viveiros and William A Mohler and Murat Tasan, Frederick P Roth and Christian Le Peuch and Ian A Hope and Robert Johnsen and Donald G Moerman and Albert-László Barabási and David Baillie & Marc Vidal",
+  "abstract":"Differential regulation of gene expression is essential for cell fate specification in metazoans. Characterizing the transcriptional activity of gene promoters, in time and in space, is therefore a critical step toward understanding complex biological systems. Here we present an in vivo spatiotemporal analysis for ∼900 predicted C. elegans promoters (∼5% of the predicted protein-coding genes), each driving the expression of green fluorescent protein (GFP). Using a flow-cytometer adapted for nematode profiling, we generated 'chronograms', two-dimensional representations of fluorescence intensity along the body axis and throughout development from early larvae to adults. Automated comparison and clustering of the obtained in vivo expression patterns show that genes coexpressed in space and time tend to belong to common functional categories. Moreover, integration of this data set with C. elegans protein-protein interactome data sets enables prediction of anatomical and temporal interaction territories between protein partners.",
+  "ctotal": 233,
+  "c10": 0.00,
+  "doi": "",
+  "img":"genome-scale-analysis.png"
+},
+{
+  "year": 2005,
+  "title": "Taming Complexity",
+  "sortdate": "2005-01-01",
+  "authors":"Albertlaszlo Barabasi",
+  "abstract":"The science of networks is experiencing a boom. But despite the necessary multidisciplinary approach to tackle the theory of complexity, scientists remain largely compartmentalized in their separate disciplines. Can they find a common voice?",
+  "img":"taming-complexity.png",
+  "ctotal": 0,
+  "c10": 0.00,
+  "doi": ""
+}
+]
