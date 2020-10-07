@@ -851,8 +851,7 @@
   "ctotal": 3396.0,
   "c10": 1888.0,
   "authors": "Albertlaszlo Barabasi and Zolt\u00e1n N Oltvai and Hawoong Jeong and Sean P Mason",
-  "doi": "10.1038/35075138",
-  "img":"protein-map.png"
+  "doi": "10.1038/35075138"
 }, {
   "year": 2001,
   "sortdate": "2001-10-26",
@@ -3284,7 +3283,7 @@
 }, {
   "year": 2017,
   "sortdate": "2017-12-31",
-  "title": "2. Introduction to Network Analysis",
+  "title": "Introduction to Network Analysis",
   "ctotal": 0.0,
   "c10": 0.00,
   "authors": "Albertlaszlo Barabasi and J\u00f6rg Menche",

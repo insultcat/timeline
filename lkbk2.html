@@ -5,11 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>kronologia</title>
     <style>
-      * {
-        &::before, &::after {
-        box-sizing: border-box;
-        }
-      }
       html{
         background-color: rgba(255,255,255,1);
         color: #000;
@@ -31,24 +26,28 @@
         height: auto;
         padding: 0px 10px;
         line-height: 1em;
-        /* **word-wrap: break-word;** */
+        pointer-events: none;
+        position:absolute;
+        font-size:18px;
+        font-weight:700; 
+        background-color:rgba(255,255,255,1); 
+        padding:10px; 
+        opacity:0;
       }
 
       .popup {
-        position:fixed;
-        text-align:left;
-        z-index:9999;
-        margin:auto;
-        clear:both;
-        height:fit-content;
-        width:600px;
+        position: fixed;
+        text-align: left;
+        z-index: 9999;
+        /* margin: auto; */
+        clear: both;
+        height: fit-content;
+        width: 33%;
         padding: 20px 20px 3rem;
-        left:0;
-        right:0;
-        top:0;
-        bottom:0;
-        box-shadow:0px 0px 10px rgba(0,0,0,0.5);
-        background:#fff;
+        left: 2%;
+        top: 2%;
+        box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+        background: #fff;
         opacity:0;
         transition: 0.5s ease all;
         pointer-events: none;
@@ -61,13 +60,14 @@
       }
 
       #popup_title{
-        font-size: 40px;
+        font-size: 18px;
         margin-bottom: 1rem;
       }
 
       #popup_authorName {
-        font-size: 20px;
-        margin-bottom: 2rem;
+        font-size: 14px;
+        margin-bottom: 1rem;
+        font-weight:100;
       }
 
       #popup_img_container{
@@ -86,10 +86,15 @@
         justify-content: center;
       }
 
+
       img.popup-imgs {
         max-width: 60%;
         height: auto;
         display:none;
+      }
+
+      #popup_abstract_paragraph{
+        font-size: 14px;
       }
 
       img.active{
@@ -108,7 +113,7 @@
         background: transparent;
         padding: 20px 5px;
         color: #0000004d;
-        font-size: 4rem;
+        font-size: 2rem;
 
       }
 
@@ -188,7 +193,7 @@
       }
 
       .popup_abstract_title{
-        font-size: 20px;
+        font-size: 16px;
         margin-bottom: 0.5rem;
         border-bottom: solid 1px gray;
       }
@@ -212,8 +217,8 @@
   </head>
   <body>
     <div id="container" style="position:relative;">
-      <div class="tooltip" id="title-tooltip" style="position:absolute;font-size:30px;font-weight:700; background-color:rgba(255,255,255,1); padding:10px; opacity:0;"></div>
-      <div class="tooltip" id="dot-tooltip" style="position:absolute;font-size:30px;font-weight:700; background-color:rgba(255,255,255,1); padding:10px; opacity:0;"></div>
+      <div class="tooltip" id="title-tooltip"></div>
+      <div class="tooltip" id="dot-tooltip"></div>
       <div class="popup">
         <div id="popup_title"></div>
         <div id="popup_authorName">Author Name</div>
@@ -263,10 +268,10 @@
         height2 = height+30, // line chart
         height3 = height2+900, // dots
         height4 = height3+500, // for journals and books
-        resizeScale = 1.2,
         bookGap = 15,
-        bookHeight = 66,
-        bookWidth = 50,
+        bookHeight = 33,
+        bookWidth = 25,
+        resizeScale = 1.5,
         regR = 3,
         selR = 10,
         imgRegOpac = 1,
@@ -288,7 +293,7 @@
       var y = d3.scaleLinear().range([0, height-50])
       // var y2 = d3.scaleLog().range([height2, height+25]); // paper dot plot y
       // var y2 = d3.scaleLog().range([height2, 0]); // paper dot plot y
-      var ySize = d3.scaleLog().range([2, 6]); // collaborator timeline dots size
+      var ySize = d3.scaleLog().range([2, 5]); // collaborator timeline dots size
       // var yLine = d3.scaleLinear().range([height2, height+25]); // line chart1
       // var yLine2 = d3.scaleLinear().range([height2, height+25]); // line chart2
       var y3 = d3.scaleLinear().range([height2+50, height3]); // collaborator timeline dots y 
@@ -425,9 +430,9 @@
             .style("cursor", "pointer")
             .style("fill", "#000")
             .style("fill",function(d){
-              var h = 50 * resizeScale;
-              var r = 50 * resizeScale;
-              if(d.value.y<0){h = 66 * resizeScale;}
+              var h = bookWidth * resizeScale;
+              var r = bookWidth * resizeScale;
+              if(d.value.y<0){h = bookHeight * resizeScale;}
               imgToDefs(d.key,d.key,r,h)
               return "url(#"+d.key+"img)";
               
@@ -469,10 +474,21 @@
               }
 
               // title tooltip
-              const mouseX = d3.event.pageX + 40;
-              const mouseY = d3.event.pageY - 25;
-              d3.select("#title-tooltip").append("text").text(function(){return d.value.t});
-              d3.select("#title-tooltip").style("left", `${mouseX}px`).style("top", `${mouseY}px`).transition().duration(500).style("opacity",1);
+              const titleTooltip = d3.select("#title-tooltip");
+              titleTooltip.append("text").text(function(){return d.value.t});
+              let mouseX, mouseY;
+              if (d3.select(this).attr("x") > window.innerWidth - 200){
+                  mouseX = d3.event.pageX - 250;
+                  mouseY = d3.event.pageY - 25;
+              } else {
+                  mouseX = d3.event.pageX + 40;
+                  mouseY = d3.event.pageY - 25;
+              }
+              titleTooltip
+                .style("left", `${mouseX}px`)
+                .style("top", `${mouseY}px`)
+                .transition().duration(500)
+                .style("opacity",1);
               
             })
             .on("click", function(d){
@@ -714,8 +730,8 @@
             .style("fill", "#000")
             // .attr("stroke","#000")
             .style("fill",function(d){
-              var r = 50 * resizeScale;
-              var h = 66 * resizeScale;
+              var r = bookWidth * resizeScale;
+              var h = bookHeight * resizeScale;
               imgToDefs(d.key,d.key,r,h);
               return "url(#"+d.key+"img)";
             })
@@ -753,11 +769,21 @@
               }
 
               // title tooltip
-              const mouseX = d3.event.pageX + 40;
-              const mouseY = d3.event.pageY - 25;
-              d3.select("#title-tooltip").append("text").text(function(){return d.value.t});
-              d3.select("#title-tooltip").style("left", `${mouseX}px`).style("top", `${mouseY}px`).transition().duration(500).style("opacity",1);
-              
+              const titleTooltip = d3.select("#title-tooltip");
+              titleTooltip.append("text").text(function(){return d.value.t});
+              let mouseX, mouseY;
+              if (d3.select(this).attr("x") > window.innerWidth - 200){
+                  mouseX = d3.event.pageX - 250;
+                  mouseY = d3.event.pageY - 25;
+              } else {
+                  mouseX = d3.event.pageX + 40;
+                  mouseY = d3.event.pageY - 25;
+              }
+              titleTooltip
+                .style("left", `${mouseX}px`)
+                .style("top", `${mouseY}px`)
+                .transition().duration(500)
+                .style("opacity",1);
             })
             .on("click", function(d){
               if (clickCount == 0){
@@ -1340,54 +1366,217 @@
                   d3.selectAll("."+selected+"-img").attr("opacity", 1)
                 }
 
-                const scatterCondition = d3.selectAll("."+selected+"-scatter")["_groups"][0].length
-                if (scatterCondition != 0){
-                  d3.selectAll("."+selected+"-scatter")
-                    .attr("stroke","#000")
-                    .attr("stroke-width",2)
-                    .attr("r", selR)
-                    .attr("opacity",1)
-                }
+                // const scatterCondition = d3.selectAll("."+selected+"-scatter")["_groups"][0].length
+                // if (scatterCondition != 0){
+                //   d3.selectAll("."+selected+"-scatter")
+                //     .attr("stroke","#000")
+                //     .attr("stroke-width",2)
+                //     .attr("r", selR)
+                //     .attr("opacity",1)
+                // }
 
                 //title tooltip
-                var cx = x(d.x)+80;
-                var cy = d3.select(this).attr("cy")
-                d3.select("#dot-tooltip").append("text").text(function(){return d.t;});
-                d3.select("#dot-tooltip").style("left",`${cx}px`).style("top", `${cy}px`).style("opacity",1);
+              
+                const titleTooltip = d3.select("#dot-tooltip")
+                titleTooltip.append("text").text(function(){return d.t;});
+                let cx, cy;
+                if (d3.select(this).attr("cx") > window.innerWidth - 200){
+                    cx = d3.event.pageX - 250;
+                    cy = d3.event.pageY - 25;
+                } else {
+                    cx = d3.event.pageX + 40;
+                    cy = d3.event.pageY - 25;
+                }
+                titleTooltip
+                  .style("left",`${cx}px`).style("top", `${cy}px`).style("opacity",1);
+
               })
               .on("click", function(d){
+              //   if (clickCount == 0){
+              //   // everything disappear
+              //   d3.selectAll(".collab-rect").attr("opacity", 0.3)
+              //   d3.selectAll(".collab-node").attr("opacity", 0.1)
+              //   d3.selectAll(".author-name").attr("opacity", 0.2)
+              //   d3.selectAll(".popup_img_slider").remove()
 
-                  // disappear title tooltip
-                  d3.select("#dot-tooltip").transition().style("opacity",0);
-                  d3.select("#dot-tooltip").html("");
+              //   // highlight selected nodes 
+              //   let selected;
+              //     if (d.t != undefined){
+              //       selected = titleToId(d.t)
+              //     } else {
+              //       selected = auth+d.x;
+              //     }
 
-                  let selected;
-                  if (d.t != undefined){
-                    selected = titleToId(d.t)
-                  } else {
-                    selected = auth+d.x;
-                  }
+              //   // selected authors nodes 
+              //   d3.selectAll("."+selected+"-collab-node")
+              //     .attr("stroke", "#000")
+              //     .attr("opacity", 1)
+              //   // selected authors names
+              //   d3.selectAll("."+selected+"-author-name")
+              //     .attr("opacity", 1).attr("opacity", 1).attr("font-size", 15)
+                
+              //   const imgCondition = d3.selectAll("."+selected+"-img")["_groups"][0].length
+              //   if (imgCondition != 0){
+              //     d3.selectAll(".books-and-pics").attr("opacity", 0.1)
+              //     d3.selectAll(".journal").attr("opacity", 0.1) 
+              //     d3.selectAll("."+selected+"-img").attr("opacity", 1)
                   
-                  var popup = document.getElementsByClassName("popup")[0];
+              //   }
+              //   // disappear title tooltip
+              //     d3.select("#dot-tooltip").transition().style("opacity",0);
+              //     d3.select("#dot-tooltip").html("");
+
+              //   var popup = document.getElementsByClassName("popup")[0];
+                
+              //   if(typeof popup !== null && popup !== 'undefined' ){
+              //         popup.classList.add("popup-show");
+              //     }
+
+              //     const title = d.t;
+              //     let selImg = data.filter(d => d.title == title)[0].img 
+              //     if (selImg=="undefined") {selImg = data.filter(d => d.title == title)[0].cover;}
+              //     const authors = data.filter(d => d.title == title)[0].authors.join(", ");
+              //     const abstract = data.filter(d => d.title == title)[0].abstract;
+        
+              //     d3.select("#popup_title").html(title);
+              //     d3.select("#popup_authorName").html(authors);
+              //     if (typeof(selImg) == "undefined"){
+              //       console.log(selImg)
+              //       const imgSlider = d3.select("#popup_img_container")
+              //       .append("div").attr("class","popup_img_slider");
+                    
+              //       if (Array.isArray(selImg)){
+              //         for (let i = 0; i < selImg.length; i++){
+                        
+              //           var newImg = imgSlider.append("img")
+              //           .attr("src", `${filepath}${selImg[i]}`).attr("opacity","1");
+              //           if( i==0 ){
+              //             newImg.attr("class", "active popup-imgs")
+              //           }  else{
+              //             newImg.attr("class", "popup-imgs")
+              //           }
+              //         }
+              //       } else {
+              //           imgSlider.append("img")
+              //             .attr("class", "active popup-imgs")
+              //             .attr("src", `${filepath}${selImg}`).attr("opacity","1")
+              //       }
+
+              //       letImageSlide();
+              //     }
                   
-                  if(typeof popup !== null && popup !== 'undefined' ){
-                        popup.classList.add("popup-show");
-                    }
+              //   d3.select("#popup_abstract_paragraph").html(abstract)
+              //   currentSelTitle = title
+              //   clickCount += 1
+              // } else if (clickCount != 0 && currentSelTitle == d.t){
+              //     //img
+              //     d3.selectAll(".popup_img_slider").remove()
+              //     d3.selectAll(".books-and-pics")
+              //       .attr("opacity", imgRegOpac).attr("stroke", "none")
+              //     d3.selectAll(".journal").attr("opacity", imgRegOpac)
+              //     // // line chart
+              //     // d3.selectAll(".line").attr("opacity", lineRegOpac)
+              //     // // scatter node
+              //     // d3.selectAll(".paper")
+              //     //   .attr("opacity", scatterDotRegOpac)
+              //     //   .attr("stroke","none")
+              //     //   .attr("r", regR)
+              //     // authors nodes and rects
+              //     d3.selectAll(".collab-rect")
+              //       .attr("opacity", 1)
+              //     d3.selectAll(".collab-node")
+              //       .attr("opacity", 1)
+              //       .attr("stroke","none")
+              //     //authors name
+              //     d3.selectAll(".author-name")
+              //       .attr("opacity", 1)
+              //       .attr("font-size", 11)
+              //     //disappear tooltip
+              //     d3.select("#dot-tooltip").transition().style("opacity",0);
+              //     d3.select("#dot-tooltip").html("");
 
-                  const title = d.t || autho+d.x
-                  let selImg;
-                  if (data.filter(d => d.title == title)[0].img !== undefined){
-                    selImg = data.filter(d => d.title == title)[0].img || data.filter(d => d.title == title)[0].cover
-                    d3.select("#popup_img").attr("src", `${filepath}${selImg}`).attr("opacity","1")
-                  } else{
-                    d3.select("#popup_img").attr("opacity","0")
-                  }
-                  const authors = data.filter(d => d.title == title)[0].authors.join(", ");
-                  const abstract = data.filter(d => d.title == title)[0].abstract;
+              //     // disappear popup
+              //     var popup = document.getElementsByClassName("popup")[0];
+                  
+              //     if(typeof popup !== null && popup !== 'undefined' ){
+              //           popup.classList.remove("popup-show");
+              //       }
+              //       clickCount = 0
+              //   } else {
+              //     // everything disappear
+              //     d3.selectAll(".collab-rect").attr("opacity", 0.3)
+              //     d3.selectAll(".collab-node").attr("opacity", 0.1)
+              //     d3.selectAll(".author-name").attr("opacity", 0.2)
+              //     d3.selectAll(".popup_img_slider").remove()
 
-                  d3.select("#popup_title").html(title);
-                  d3.select("#popup_authorName").html(authors);
-                  d3.select("#popup_abstract_paragraph").html(abstract)
+              //     // highlight selected nodes 
+              //     let selected;
+              //       if (d.t != undefined){
+              //         selected = titleToId(d.t)
+              //       } else {
+              //         selected = auth+d.x;
+              //       }
+
+              //     // selected authors nodes 
+              //     d3.selectAll("."+selected+"-collab-node")
+              //       .attr("stroke", "#000")
+              //       .attr("opacity", 1)
+              //     // selected authors names
+              //     d3.selectAll("."+selected+"-author-name")
+              //       .attr("opacity", 1).attr("opacity", 1).attr("font-size", 15)
+                  
+              //     const imgCondition = d3.selectAll("."+selected+"-img")["_groups"][0].length
+              //     if (imgCondition != 0){
+              //       d3.selectAll(".books-and-pics").attr("opacity", 0.1)
+              //       d3.selectAll(".journal").attr("opacity", 0.1) 
+              //       d3.selectAll("."+selected+"-img").attr("opacity", 1)
+                    
+              //     }
+              //     // disappear title tooltip
+              //     d3.select("#dot-tooltip").transition().style("opacity",0);
+              //     d3.select("#dot-tooltip").html("");
+
+              //     var popup = document.getElementsByClassName("popup")[0];
+                
+              //     if(typeof popup !== null && popup !== 'undefined' ){
+              //           popup.classList.add("popup-show");
+              //       }
+
+              //     const title = d.t;
+              //     let selImg = data.filter(d => d.title == title)[0].img 
+              //     if (selImg=="undefined") {selImg = data.filter(d => d.title == title)[0].cover;}
+              //     const authors = data.filter(d => d.title == title)[0].authors.join(", ");
+              //     const abstract = data.filter(d => d.title == title)[0].abstract;
+        
+              //     d3.select("#popup_title").html(title);
+              //     d3.select("#popup_authorName").html(authors);
+              //     if (selImg !== "undefined"){
+              //       const imgSlider = d3.select("#popup_img_container")
+              //       .append("div").attr("class","popup_img_slider");
+                    
+              //       if (Array.isArray(selImg)){
+              //         for (let i = 0; i < selImg.length; i++){
+              //           var newImg = imgSlider.append("img")
+              //           .attr("src", `${filepath}${selImg[i]}`).attr("opacity","1");
+              //           if( i==0 ){
+              //             newImg.attr("class", "active popup-imgs")
+              //           }  else{
+              //             newImg.attr("class", "popup-imgs")
+              //           }
+              //         }
+              //       } else {
+              //           imgSlider.append("img")
+              //             .attr("class", "active popup-imgs")
+              //             .attr("src", `${filepath}${selImg}`).attr("opacity","1")
+              //       }
+
+              //       letImageSlide();
+              //     }
+                  
+              //     d3.select("#popup_abstract_paragraph").html(abstract)
+              //     currentSelTitle = title
+              //     clickCount += 1
+              //   }
             })
               .on('mouseout', function(d){
 
