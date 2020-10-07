@@ -693,8 +693,8 @@
   "c10": 2046.0,
   "authors": "Albertlaszlo Barabasi and R\u00e9ka Albert and Hawoong Jeong",
   "doi": "10.1038/35019019",
-  "img":"sq-sf.png",
-  "cover":"achilles.png"
+  "img":["error-attack/sq-sf.png","error-attack/error-attacks.png"],
+  "cover":["error-attack/achilles.png", "error-attack/error-attacks.png"]
 }, {
   "year": 2000,
   "sortdate": "2000-06-01",
@@ -1225,8 +1225,9 @@
   "c10": 3.0,
   "authors": "Albertlaszlo Barabasi and Tam\u00e1s Vicsek and Eivind Almaas and Zolt\u00e1n N Oltvai and B Kovacs",
   "doi": "",
-  "img":"flux2.png",
-  "cover":"flux.png"
+  "img":["flux/flux1.png","flux/flux2.png","flux/flux3.png","flux/flux4.png","flux/flux5.png"],
+  "cover":["flux/flux.png", "flux/flux1.png","flux/flux2.png",
+          "flux/flux3.png","flux/flux4.png","flux/flux5.png"]
 }, {
   "year": 2004,
   "sortdate": "2004-08-06",
@@ -1602,7 +1603,7 @@
   "authors": "Albertlaszlo Barabasi and David Lazer and K Kaski and J Kert\u00e9sz and Jari Saram\u00e4ki and J\u00f6rkki Hyv\u00f6nen and Jp Onnela and Gy\u00f6rgy Szab\u00f3",
   "doi": "10.1073/pnas.0610245104",
   "img":"cell-net.png"
-}, {
+}, { 
   "year": 2007,
   "sortdate": "2007-05-22",
   "title": "The human disease network",
@@ -1611,7 +1612,8 @@
   "authors": "Albertlaszlo Barabasi and K-I Goh and Michael E Cusick and Marc Vidal and Barton Childs and David Valle",
   "doi": "10.1073/pnas.0701361104",
   "abstract":"A network of disorders and disease genes linked by known disorder–gene associations offers a platform to explore in a single graphtheoretic framework all known phenotype and disease gene associations, indicating the common genetic origin of many diseases. Genes associated with similar disorders show both higher likelihood of physical interactions between their products and higher expression profiling similarity for their transcripts, supporting the existence of distinct disease-specific functional modules. We find that essential human genes are likely to encode hub proteins and are expressed widely in most tissues. This suggests that disease genes also would play a central role in the human interactome. In contrast, we find that the vast majority of disease genes are nonessential and show no tendency to encode hub proteins, and their expression pattern indicates that they are localized in the functional periphery of the network. A selection-based model explains the observed difference between essential and disease genes and also suggests that diseases caused by somatic mutations should not be peripheral, a prediction we confirm for cancer genes.",
-  "img":"disease.png"
+  "img":["human-disease/disease.png","human-disease/human-disease1.png","human-disease/human-disease2.png","human-disease/human-disease3.png",
+    "human-disease/disease4.png", "human-disease/disease5.png"]
 }, {
   "year": 2007,
   "sortdate": "2007-03-05",
@@ -1798,7 +1800,10 @@
   "ctotal": 3126.0,
   "c10": 3025.0,
   "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and A R Cesar Hidalgo",
-  "doi": "10.1038/nature06958"
+  "doi": "10.1038/nature06958",
+  "img":["understand-indvsl-mobility/rhythm.png","understand-indvsl-mobility/rhythm1.png",
+          "understand-indvsl-mobility/rhythm2.png", "understand-indvsl-mobility/rhythm3.png",
+          "understand-indvsl-mobility/rhythm4.png","understand-indvsl-mobility/rhythm5.png"]
 }, {
   "year": 2008,
   "sortdate": "2008-01-01",
@@ -1897,7 +1902,9 @@
   "ctotal": 336.0,
   "c10": 336.0,
   "authors": "Albertlaszlo Barabasi and Marta C Gonz\u00e1lez and Pu Wang and A R Cesar Hidalgo",
-  "doi": "10.1126/science.1167053"
+  "doi": "10.1126/science.1167053",
+  "img": ["mobile-virus/mobile.png","mobile-virus/mobile1.png",
+    "mobile-virus/mobile2.png","mobile-virus/mobile3.png"]
 }, {
   "year": 2009,
   "sortdate": "2009-01-01",
@@ -2169,7 +2176,8 @@
   "authors": "Albertlaszlo Barabasi and Yizhi Liu and Jean-Jacques Slotine",
   "doi": "10.1038/nature10011",
   "img":"sq-controllability.jpg",
-  "cover":"control-nat.png"
+  "cover":["control/control-nat.png","control/control1.png",
+    "control/control2.png","control/control3.png", "control/control4.png"]
 }, {
   "year": 2011,
   "sortdate": "2011-11-01",
@@ -2891,7 +2899,8 @@
   "doi": "10.1038/nphys3494",
   "abstract":"An analysis of Web of Science data spanning more than 100 years reveals the rapid growth andincreasing multidisciplinary of physics — as well its internal map of sub-disciplines.",
   "img":"century2.png",
-  "cover":"century.png"
+  "cover":["century-physics/century.png", "century-physics/century-physics1.png",
+    "century-physics/century-physics2.png","century-physics/century-physics3.png"]
 }, {
   "year": 2015,
   "sortdate": "2015-12-01",
@@ -3097,7 +3106,7 @@
   "c10": 199.0,
   "authors": "Albertlaszlo Barabasi and Baruch Barzel and Jianxi Gao",
   "doi": "10.1038/nature16948",
-  "img":"net-earth.png"
+  "img":["resilience/net-earth.png", "resilience/resilience.png", "resilience/resilience1.png"]
 }, {
   "year": 2016,
   "sortdate": "2016-06-28",
@@ -3126,7 +3135,9 @@
   "authors": "Albertlaszlo Barabasi and Chaoming Song and Dashun Wang and Pierre Deville and Roberta Sinatra",
   "doi": "10.1126/science.aaf5239",
   "abstract":"Despite the frequent use of numerous quantitative indicators to gauge the professional impact of a scientist, little is known about how scientific impact emerges and evolves in time. Here, we quantify the changes in impact and productivity throughout a career in science, finding that impact, as measured by influential publications, is distributed randomly within a scientist’s sequence of publications. This random-impact rule allows us to formulate a stochastic model that uncouples the effects of productivity, individual ability, and luck and unveils the existence of universal patterns governing the emergence of scientific success. The model assigns a unique individual parameter Q to each scientist, which is stable during a career, and it accurately predicts the evolution of a scientist’s impact, from the h-index to cumulative citations, and independent recognitions, such as prizes.",
-  "img":"sq-success.png"
+  "img":["science-success/sq-success.png", "science-success/sc-success0.png",
+    "science-success/sc-success.png", "science-success/sc-success1.png",
+    "science-success/sc-success2.png","science-success/sc-success3.png"]
 }, {
   "year": 2016,
   "sortdate": "2016-12-01",
@@ -3420,7 +3431,7 @@
   "doi": "10.1038/s41586-018-0726-6",
   "abstract": "In many physical networks, including neurons in the brain three-dimensional integrated circuits and underground hyphal networks, the nodes and links are physical objects that cannot intersect or overlap with each other. To take this into account, non-crossing conditions can be imposed to constrain the geometry of networks, which consequently affects how they form, evolve and function. However, these constraints are not included in the theoretical frameworks that are currently used to characterize real networks. Most tools for laying out networks are variants of the force-directed layout algorithm—which assumes dimensionless nodes and links—and are therefore unable to reveal the geometry of densely packed physical networks. Here we develop a modelling framework that accounts for the physical sizes of nodes and links, allowing us to explore how non-crossing conditions affect the geometry of a network. For small link thicknesses, we observe a weakly interacting regime in which link crossings are avoided via local link rearrangements, without altering the overall geometry of the layout compared to the force-directed layout. Once the link thickness exceeds a threshold, a strongly interacting regime emerges in which multiple geometric quantities, such as the total link length and the link curvature, scale with the link thickness. We show that the crossover between the two regimes is driven by the non-crossing condition, which allows us to derive the transition point analytically and show that networks with large numbers of nodes will ultimately exist in the strongly interacting regime. We also find that networks in the weakly interacting regime display a solid-like response to stress, whereas in the strongly interacting regime they behave in a gel-like fashion. Networks in the weakly interacting regime are amenable to 3D printing and so can be used to visualize network geometry, and the strongly interacting regime provides insights into the scaling of the sizes of densely packed mammalian brains.",
   "img":"orange.png",
-  "cover":"structural-transition.png"
+  "cover":["structural-transition/structural-transition.png", "structural-transition/structural-transition2.png"]
 }, {
   "year": 2018,
   "sortdate": "2018-10-19",
@@ -3636,17 +3647,20 @@
   "ctotal": -1,
   "c10": 0.00,
   "doi": "",
-  "img":"netmed.png"
+  "img":["netmed/netmed.png","netmed/netmed1.png","netmed/netmed2.png",
+    "netmed/netmed3.png","netmed/netmed4.png"]
 },
 {
   "year": 2020,
-  "title": "Hot Networks",
+  "title": "Isotopy and Energy of Physical Networks",
   "sortdate": "2017-01-01",
   "authors": "Yanchen Liu and Nima Dehmamy and Albertlaszlo Barabasi",
   "ctotal": 0,
   "c10": 0.00,
   "doi": "",
-  "img":"hotnets.png"
+  "img":["heat/hotnets.png","heat/hotnets1.png", "heat/hotnets2.png",
+         "heat/hotnets3.png", "heat/hotnets4.png", "heat/hotnets5.png",
+         "heat/hotnets6.png", "heat/hotnets7"]
 },
 {
   "year": 1996,
@@ -3697,7 +3711,8 @@
   "ctotal": 233,
   "c10": 0.00,
   "doi": "",
-  "img":"genome-scale-analysis.png"
+  "img":["genome-analysis/genome-scale-analysis.png","genome-analysis/genome1.png",
+    "genome-analysis/genome2.png","genome-analysis/genome3.png","genome-analysis/genome4.png"]
 },
 {
   "year": 2005,
